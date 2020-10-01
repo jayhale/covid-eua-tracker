@@ -1,5 +1,5 @@
 - approval_date: 2020-04-27
-  diagnostic: U-TOP COVID-19 Detection Kit
+  device: U-TOP COVID-19 Detection Kit
   entity: SEASUN BIOMATERIALS
   last_update: 2020-09-01
   links:
@@ -23,8 +23,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-04-23
-  diagnostic: STANDARD M nCoV Real-Time Detection Kit
+  device: STANDARD M nCoV Real-Time Detection Kit
   entity: SD Biosensor, Inc.
   last_update: 2020-04-23
   links:
@@ -42,8 +43,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-04-22
-  diagnostic: RealStar SARS-CoV02 RT-PCR Kits U.S.
+  device: RealStar SARS-CoV02 RT-PCR Kits U.S.
   entity: altona Diagnostics GmbH
   last_update: 2020-04-22
   links:
@@ -62,8 +64,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-02-04
-  diagnostic: CDC 2019-nCoV Real-Time RT-PCR Diagnostic Panel (CDC)
+  device: CDC 2019-nCoV Real-Time RT-PCR Diagnostic Panel (CDC)
   entity: Centers for Disease Control and Prevention's (CDC)
   last_update: 2020-07-13
   links:
@@ -98,8 +101,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-02-29
-  diagnostic: New York SARS-CoV-2 Real-time Reverse Transcriptase (RT)-PCR Diagnostic
+  device: New York SARS-CoV-2 Real-time Reverse Transcriptase (RT)-PCR Diagnostic
     Panel
   entity: Wadsworth Center, New York State Department of Public Health's (CDC)
   last_update: 2020-03-15
@@ -129,10 +133,11 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - amendments:
   - 2020-04-24
   approval_date: 2020-03-26
-  diagnostic: Real-Time Fluorescent RT-PCR Kit for Detecting SARS-CoV-2
+  device: Real-Time Fluorescent RT-PCR Kit for Detecting SARS-CoV-2
   entity: BGI Genomics Co. Ltd
   last_update: 2020-04-24
   links:
@@ -160,8 +165,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-03-20
-  diagnostic: Xpert Xpress SARS-CoV-2 test
+  device: Xpert Xpress SARS-CoV-2 test
   entity: Cepheid
   last_update: 2020-09-21
   links:
@@ -194,8 +200,9 @@
   - M
   - W
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-03-20
-  diagnostic: Primerdesign Ltd COVID-19 genesig Real-Time PCR assay
+  device: Primerdesign Ltd COVID-19 genesig Real-Time PCR assay
   entity: Primerdesign Ltd.
   last_update: 2020-04-08
   links:
@@ -223,8 +230,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-03-19
-  diagnostic: ePlex SARS-CoV-2 Test
+  device: ePlex SARS-CoV-2 Test
   entity: GenMark Diagnostics, Inc.
   last_update: 2020-08-18
   links:
@@ -249,8 +257,9 @@
   - H
   - M
   technology: RT-PCR and electrochemical detection
+  type: diagnostic
 - approval_date: 2020-03-19
-  diagnostic: Simplexa COVID-19 Direct assay
+  device: Simplexa COVID-19 Direct assay
   entity: DiaSorin Molecular LLC
   last_update: 2020-06-04
   links:
@@ -285,10 +294,11 @@
   - H
   - M
   technology: Real-time RT-PCR
+  type: diagnostic
 - amendments:
   - 2020-07-30
   approval_date: 2020-03-18
-  diagnostic: Abbott RealTime SARS-CoV-2 assay
+  device: Abbott RealTime SARS-CoV-2 assay
   entity: Abbott Molecular
   last_update: 2020-07-30
   links:
@@ -317,8 +327,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-03-17
-  diagnostic: Quest SARS-CoV-2 rRT-PCR
+  device: Quest SARS-CoV-2 rRT-PCR
   entity: Quest Diagnostics Infectious Disease, Inc.
   last_update: 2020-09-21
   links:
@@ -352,8 +363,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Home Collection, Pooling
+  type: diagnostic
 - approval_date: 2020-03-17
-  diagnostic: Lyra SARS-CoV-2 Assay
+  device: Lyra SARS-CoV-2 Assay
   entity: Quidel Corporation
   last_update: 2020-04-08
   links:
@@ -378,10 +390,11 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - amendments:
   - 2020-10-19
   approval_date: 2020-03-16
-  diagnostic: COVID-19 RT-PCR Test
+  device: COVID-19 RT-PCR Test
   entity: Laboratory Corporation of America (LabCorp)
   last_update: 2020-09-18
   links:
@@ -413,8 +426,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Home Collection, Pooling, Screening
+  type: diagnostic
 - approval_date: 2020-03-16
-  diagnostic: Panther Fusion SARS-CoV-2 Assay
+  device: Panther Fusion SARS-CoV-2 Assay
   entity: Hologic, Inc.
   last_update: 2020-09-23
   links:
@@ -439,11 +453,12 @@
   settings:
   - H
   technology: Real-time RT-PCR, Pooling, Screening
+  type: diagnostic
 - amendments:
   - 2020-10-19
   - 2020-10-19
   approval_date: 2020-03-13
-  diagnostic: TaqPath COVID-19 Combo Kit
+  device: TaqPath COVID-19 Combo Kit
   entity: Thermo Fisher Scientific, Inc.
   last_update: 2020-07-17
   links:
@@ -481,10 +496,11 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - amendments:
   - 2020-03-31
   approval_date: 2020-03-12
-  diagnostic: cobas SARS-CoV-2
+  device: cobas SARS-CoV-2
   entity: Roche Molecular Systems, Inc. (RMS)
   last_update: 2020-05-13
   links:
@@ -511,8 +527,9 @@
   - H
   - M
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-03-23
-  diagnostic: Accula SARS-Cov-2 Test
+  device: Accula SARS-Cov-2 Test
   entity: Mesa Biotech Inc.
   last_update: 2020-08-24
   links:
@@ -540,8 +557,9 @@
   - M
   - W
   technology: RT and amplification
+  type: diagnostic
 - approval_date: 2020-03-23
-  diagnostic: BioFire COVID-19 Test
+  device: BioFire COVID-19 Test
   entity: BioFire Defense, LLC
   last_update: 2020-04-30
   links:
@@ -565,8 +583,9 @@
   - H
   - M
   technology: RT, Nested multiplex PCR
+  type: diagnostic
 - approval_date: 2020-03-24
-  diagnostic: PerkinElmer New Coronavirus Nucleic Acid Detection Kit
+  device: PerkinElmer New Coronavirus Nucleic Acid Detection Kit
   entity: PerkinElmer, Inc.
   last_update: 2020-09-25
   links:
@@ -591,8 +610,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-03-25
-  diagnostic: AvellinoCoV2 test
+  device: AvellinoCoV2 test
   entity: Avellino Lab USA, Inc.
   last_update: 2020-09-25
   links:
@@ -615,8 +635,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-03-27
-  diagnostic: NxTAG CoV Extended Panel Assay
+  device: NxTAG CoV Extended Panel Assay
   entity: Luminex Molecular Diagnostics, Inc.
   last_update: 2020-03-27
   links:
@@ -635,10 +656,11 @@
   settings:
   - H
   technology: RT-PCR
+  type: diagnostic
 - amendments:
   - 2020-04-21
   approval_date: 2020-03-27
-  diagnostic: ID NOW COVID-19
+  device: ID NOW COVID-19
   entity: Abbott Diagnostics Scarborough, Inc.
   last_update: 2020-09-17
   links:
@@ -662,8 +684,9 @@
   - M
   - W
   technology: RT, Isothermal amplification
+  type: diagnostic
 - approval_date: 2020-03-30
-  diagnostic: QIAstat-Dx Respiratory SARS-CoV-2 Panel
+  device: QIAstat-Dx Respiratory SARS-CoV-2 Panel
   entity: QIAGEN GmbH
   last_update: 2020-09-21
   links:
@@ -684,10 +707,11 @@
   - H
   - M
   technology: Real-time RT-PCR, Multi-analyte
+  type: diagnostic
 - amendments:
   - 2020-02-01
   approval_date: 2020-03-30
-  diagnostic: NeuMoDx SARS-CoV-2 Assay
+  device: NeuMoDx SARS-CoV-2 Assay
   entity: NeuMoDx Molecular, Inc.
   last_update: 2020-04-23
   links:
@@ -711,8 +735,9 @@
   - H
   - M
   technology: RT-PCR
+  type: diagnostic
 - approval_date: 2020-04-01
-  diagnostic: COV-19 IDx assay
+  device: COV-19 IDx assay
   entity: Ipsum Diagnostics, LLC
   last_update: 2020-04-01
   links:
@@ -732,8 +757,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-04-02
-  diagnostic: BioGX SARS-CoV-2 Reagents for BD MAX System
+  device: BioGX SARS-CoV-2 Reagents for BD MAX System
   entity: Becton, Dickinson & Company (BD)
   last_update: 2020-09-22
   links:
@@ -759,8 +785,9 @@
   - H
   - M
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2019-10-01
-  diagnostic: Logix Smart Coronavirus Disease 2019 (COVID-19) Kit
+  device: Logix Smart Coronavirus Disease 2019 (COVID-19) Kit
   entity: Co-Diagnostics, Inc.
   last_update: 2020-04-03
   links:
@@ -780,9 +807,9 @@
   settings:
   - H
   technology: RT-PCR, CoPrimer technology
+  type: diagnostic
 - approval_date: 2020-04-03
-  diagnostic: ScienCell SARS-CoV-2 Coronavirus Real-time RT-PCR (RT-qPCR) Detection
-    Kit
+  device: ScienCell SARS-CoV-2 Coronavirus Real-time RT-PCR (RT-qPCR) Detection Kit
   entity: ScienCell Research Laboratories
   last_update: 2020-09-22
   links:
@@ -813,8 +840,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-04-03
-  diagnostic: ARIES SARS-CoV-2 Assay
+  device: ARIES SARS-CoV-2 Assay
   entity: Luminex Corporation
   last_update: 2020-05-11
   links:
@@ -838,8 +866,9 @@
   - H
   - M
   technology: RT-PCR
+  type: diagnostic
 - approval_date: 2020-04-06
-  diagnostic: Gnomegen COVID-19 RT-Digital PCR Detection Kit
+  device: Gnomegen COVID-19 RT-Digital PCR Detection Kit
   entity: Gnomegen LLC
   last_update: 2020-04-28
   links:
@@ -862,8 +891,9 @@
   settings:
   - H
   technology: Real-time RT-digital PCR
+  type: diagnostic
 - approval_date: 2020-04-07
-  diagnostic: Smart Detect SARS-CoV-2 rRT-PCR Kit
+  device: Smart Detect SARS-CoV-2 rRT-PCR Kit
   entity: InBios International, Inc
   last_update: 2020-08-24
   links:
@@ -894,8 +924,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-04-08
-  diagnostic: QuantiVirus SARS-CoV-2 Test kit
+  device: QuantiVirus SARS-CoV-2 Test kit
   entity: DiaCarta, Inc
   last_update: 2020-04-08
   links:
@@ -914,8 +945,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-04-08
-  diagnostic: BD SARS-CoV-2Reagents for BD MAX System
+  device: BD SARS-CoV-2Reagents for BD MAX System
   entity: Becton, Dickinson & Company
   last_update: 2020-09-23
   links:
@@ -940,10 +972,11 @@
   - H
   - M
   technology: Real-time RT-PCR
+  type: diagnostic
 - amendments:
   - 2020-07-18
   approval_date: 2020-04-10
-  diagnostic: iAMP COVID-19 Detection Kit
+  device: iAMP COVID-19 Detection Kit
   entity: Atila BioSystems, Inc.
   last_update: 2020-07-18
   links:
@@ -966,8 +999,9 @@
   settings:
   - H
   technology: RT, Isothermal amplification
+  type: diagnostic
 - approval_date: 2020-04-15
-  diagnostic: SARS-CoV-2 Fluorescent PCR Kit
+  device: SARS-CoV-2 Fluorescent PCR Kit
   entity: Maccura Biotechnology (USA) LLC
   last_update: 2020-04-15
   links:
@@ -991,10 +1025,11 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - amendments:
   - 2020-02-01
   approval_date: 2020-04-16
-  diagnostic: Curative-Korva SARS-Cov-2 Assay
+  device: Curative-Korva SARS-Cov-2 Assay
   entity: KorvaLabs Inc.
   last_update: 2020-06-11
   links:
@@ -1017,8 +1052,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-04-16
-  diagnostic: "GS\"\xA2 COVID-19 RT-PCR KIT"
+  device: "GS\"\xA2 COVID-19 RT-PCR KIT"
   entity: GenoSensor, LLC
   last_update: 2020-04-16
   links:
@@ -1037,8 +1073,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-04-17
-  diagnostic: Fosun COVID-19 RT-PCR Detection Kit
+  device: Fosun COVID-19 RT-PCR Detection Kit
   entity: Fosun Pharma USA Inc.
   last_update: 2020-04-17
   links:
@@ -1057,8 +1094,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-04-18
-  diagnostic: GeneFinder COVID-19 Plus RealAmp Kit
+  device: GeneFinder COVID-19 Plus RealAmp Kit
   entity: OSANG Healthcare
   last_update: 2020-04-18
   links:
@@ -1077,8 +1115,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-04-20
-  diagnostic: PhoenixDx 2019-CoV
+  device: PhoenixDx 2019-CoV
   entity: Trax Management Services Inc.
   last_update: 2020-08-08
   links:
@@ -1104,8 +1143,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-04-21
-  diagnostic: Allplex 2019-nCoV Assay
+  device: Allplex 2019-nCoV Assay
   entity: Seegene, Inc.
   last_update: 2020-07-27
   links:
@@ -1128,8 +1168,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-04-29
-  diagnostic: LabGun COVID-19 RT-PCR Kit
+  device: LabGun COVID-19 RT-PCR Kit
   entity: LabGenomics Co., Ltd.
   last_update: 2020-09-22
   links:
@@ -1149,8 +1190,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-04-29
-  diagnostic: Rheonix COVID-19 MDx Assay
+  device: Rheonix COVID-19 MDx Assay
   entity: Rheonix, Inc.
   last_update: 2020-09-21
   links:
@@ -1170,8 +1212,9 @@
   settings:
   - H
   technology: RT-PCR
+  type: diagnostic
 - approval_date: 2020-05-01
-  diagnostic: Bio-Rad SARS-CoV-2 ddPCR Test
+  device: Bio-Rad SARS-CoV-2 ddPCR Test
   entity: Bio-Rad Laboratories, Inc
   last_update: 2020-09-18
   links:
@@ -1190,8 +1233,9 @@
   settings:
   - H
   technology: RT-droplet PCR
+  type: diagnostic
 - approval_date: 2020-05-01
-  diagnostic: BioFire Respiratory Panel 2.1 (RP2.1)
+  device: BioFire Respiratory Panel 2.1 (RP2.1)
   entity: BioFire Diagnostics, LLC
   last_update: 2020-05-01
   links:
@@ -1211,8 +1255,9 @@
   - H
   - M
   technology: RT, Nested multiplex PCR, Multi-analyte
+  type: diagnostic
 - approval_date: 2020-05-04
-  diagnostic: Novel Coronavirus (2019-nCoV) Nucleic Acid Diagnostic Kit (PCR-Fluorescence
+  device: Novel Coronavirus (2019-nCoV) Nucleic Acid Diagnostic Kit (PCR-Fluorescence
     Probing)
   entity: Sansure BioTech Inc.
   last_update: 2020-05-04
@@ -1232,8 +1277,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-05-05
-  diagnostic: FTD SARS-CoV-2
+  device: FTD SARS-CoV-2
   entity: "Fast Track Diagnostics Luxembourg S.\xE1.r.l. (a Siemens Healthineers Company)"
   last_update: 2020-07-09
   links:
@@ -1255,8 +1301,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-05-06
-  diagnostic: OPTI SARS-CoV-2 RT PCR Test
+  device: OPTI SARS-CoV-2 RT PCR Test
   entity: OPTI Medical Systems, Inc.
   last_update: 2020-07-29
   links:
@@ -1283,8 +1330,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-05-06
-  diagnostic: Sherlock CRISPR SARS-CoV-2 Kit
+  device: Sherlock CRISPR SARS-CoV-2 Kit
   entity: Sherlock BioSciences, Inc.
   last_update: 2020-09-21
   links:
@@ -1303,8 +1351,9 @@
   settings:
   - H
   technology: RT-LAMP, CRISPR
+  type: diagnostic
 - approval_date: 2020-05-06
-  diagnostic: SARS-COV-2 R-GENE
+  device: SARS-COV-2 R-GENE
   entity: "BioM\xE9rieux SA"
   last_update: 2020-05-06
   links:
@@ -1322,8 +1371,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-04-10
-  diagnostic: Infinity BiologiX TaqPath SARS-CoV-2 Assay
+  device: Infinity BiologiX TaqPath SARS-CoV-2 Assay
   entity: Infinity BiologiX LLC
   last_update: 2020-09-18
   links:
@@ -1348,10 +1398,11 @@
   settings:
   - H
   technology: Real-time RT-PCR, Home Collection, Saliva
+  type: diagnostic
 - amendments:
   - 2020-05-18
   approval_date: 2020-05-07
-  diagnostic: Quick SARS-CoV-2rRT-PCR Kit
+  device: Quick SARS-CoV-2rRT-PCR Kit
   entity: Zymo Research Corporation
   last_update: 2020-05-28
   links:
@@ -1377,8 +1428,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-05-08
-  diagnostic: Gnomegen COVID-19-RT-qPCR Detection Kit
+  device: Gnomegen COVID-19-RT-qPCR Detection Kit
   entity: Gnomegen LLC
   last_update: 2020-05-08
   links:
@@ -1397,8 +1449,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-05-11
-  diagnostic: 1copy COVID-19 qPCR Multi Kit
+  device: 1copy COVID-19 qPCR Multi Kit
   entity: 1drop Inc.
   last_update: 2020-05-11
   links:
@@ -1417,10 +1470,11 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - amendments:
   - 2020-10-01
   approval_date: 2020-05-11
-  diagnostic: Alinity m SARS-CoV-2 assay
+  device: Alinity m SARS-CoV-2 assay
   entity: Abbott Molecular Inc.
   last_update: 2020-08-24
   links:
@@ -1447,11 +1501,12 @@
   - H
   - M
   technology: Real-time RT-PCR
+  type: diagnostic
 - amendments:
   - 2020-07-08
   - 2020-07-30
   approval_date: 2020-05-13
-  diagnostic: Linea COVID-19 Assay Kit
+  device: Linea COVID-19 Assay Kit
   entity: Applied DNA Sciences, Inc.
   last_update: 2020-09-21
   links:
@@ -1476,10 +1531,11 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - amendments:
   - 2020-07-24
   approval_date: 2020-05-14
-  diagnostic: Aptima SARS-CoV-2 assay
+  device: Aptima SARS-CoV-2 assay
   entity: Hologic, Inc.
   last_update: 2020-09-15
   links:
@@ -1506,8 +1562,9 @@
   settings:
   - H
   technology: TMA, chemiluminescent
+  type: diagnostic
 - approval_date: 2020-05-14
-  diagnostic: NeoPlex COVID-19 Detection Kit
+  device: NeoPlex COVID-19 Detection Kit
   entity: GeneMatrix, Inc.
   last_update: 2020-09-21
   links:
@@ -1527,10 +1584,11 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - amendments:
   - 2020-06-15
   approval_date: 2020-05-15
-  diagnostic: Fulgent COVID-19 by RT-PCR Test
+  device: Fulgent COVID-19 by RT-PCR Test
   entity: Fulgent Therapeutics, LLC
   last_update: 2020-06-15
   links:
@@ -1556,8 +1614,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Home Collection
+  type: diagnostic
 - approval_date: 2020-05-15
-  diagnostic: Everlywell COVID-19 Test Home Collection Kit
+  device: Everlywell COVID-19 Test Home Collection Kit
   entity: Everlywell, Inc.
   last_update: 2020-09-04
   links:
@@ -1577,8 +1636,9 @@
   settings:
   - N/A
   technology: Home Collection Kit
+  type: diagnostic
 - approval_date: 2020-05-15
-  diagnostic: Assurance SARS-CoV-2 Panel
+  device: Assurance SARS-CoV-2 Panel
   entity: Assurance Scientific Laboratories
   last_update: 2020-09-21
   links:
@@ -1601,8 +1661,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Home Collection
+  type: diagnostic
 - approval_date: 2020-05-18
-  diagnostic: Lyra Direct SARS-CoV-2 Assay
+  device: Lyra Direct SARS-CoV-2 Assay
   entity: Quidel Corporation
   last_update: 2020-05-18
   links:
@@ -1620,8 +1681,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-05-21
-  diagnostic: P23 Labs TaqPath SARS-CoV-2 Assay
+  device: P23 Labs TaqPath SARS-CoV-2 Assay
   entity: P23 Labs, LLC.
   last_update: 2020-07-10
   links:
@@ -1650,8 +1712,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Home Collection, Saliva
+  type: diagnostic
 - approval_date: 2020-05-21
-  diagnostic: AQ-TOP COVID-19 Rapid Detection Kit
+  device: AQ-TOP COVID-19 Rapid Detection Kit
   entity: Seasun Biomaterials, Inc.
   last_update: 2020-05-21
   links:
@@ -1672,8 +1735,9 @@
   settings:
   - H
   technology: RT-LAMP
+  type: diagnostic
 - approval_date: 2020-05-21
-  diagnostic: DiaPlexQ Novel Coronavirus (2019-nCoV) Detection Kit
+  device: DiaPlexQ Novel Coronavirus (2019-nCoV) Detection Kit
   entity: SolGent Co., Ltd
   last_update: 2020-05-21
   links:
@@ -1691,8 +1755,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-05-21
-  diagnostic: BioCore 2019-nCoV Real Time PCR Kit
+  device: BioCore 2019-nCoV Real Time PCR Kit
   entity: BioCore Co., Ltd.
   last_update: 2020-09-21
   links:
@@ -1711,8 +1776,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-05-22
-  diagnostic: Hymon SARS-CoV-2 Test Kit
+  device: Hymon SARS-CoV-2 Test Kit
   entity: dba SpectronRX
   last_update: 2020-08-11
   links:
@@ -1736,8 +1802,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-05-28
-  diagnostic: LetsGetChecked Coronavirus (COVID-19) Test
+  device: LetsGetChecked Coronavirus (COVID-19) Test
   entity: PrivaPath Diagnostics, Inc.
   last_update: 2020-08-14
   links:
@@ -1768,8 +1835,9 @@
   settings:
   - H
   technology: TMA, chemiluminescent, Home Collection
+  type: diagnostic
 - approval_date: 2020-06-01
-  diagnostic: Gravity Diagnostics COVID-19 Assay
+  device: Gravity Diagnostics COVID-19 Assay
   entity: Gravity Diagnostics, LLC
   last_update: 2020-09-21
   links:
@@ -1792,8 +1860,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Home Collection
+  type: diagnostic
 - approval_date: 2020-06-04
-  diagnostic: Phosphorus COVID-19 RT-qPCR Test
+  device: Phosphorus COVID-19 RT-qPCR Test
   entity: Phosphorus Diagnostics LLC
   last_update: 2020-06-24
   links:
@@ -1821,8 +1890,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Home Collection, Saliva
+  type: diagnostic
 - approval_date: 2020-06-05
-  diagnostic: Genetron SARS-CoV-2 RNA Test
+  device: Genetron SARS-CoV-2 RNA Test
   entity: Genetron Health (Beijing) Co., Ltd.
   last_update: 2020-06-05
   links:
@@ -1841,8 +1911,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-06-08
-  diagnostic: EURORealTime SARS-Cov-2
+  device: EURORealTime SARS-Cov-2
   entity: Euroimmun US, Inc.
   last_update: 2020-09-21
   links:
@@ -1862,8 +1933,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-06-09
-  diagnostic: Illumina COVIDSeq Test
+  device: Illumina COVIDSeq Test
   entity: Illumina, Inc.
   last_update: 2020-08-20
   links:
@@ -1886,8 +1958,9 @@
   settings:
   - H
   technology: Sequencing
+  type: diagnostic
 - approval_date: 2020-06-09
-  diagnostic: HDPCR SARS-CoV-2 Assay
+  device: HDPCR SARS-CoV-2 Assay
   entity: ChromaCode Inc.
   last_update: 2020-09-21
   links:
@@ -1907,8 +1980,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-06-10
-  diagnostic: DTPM COVID-19 RT-PCR Test
+  device: DTPM COVID-19 RT-PCR Test
   entity: Tide Laboratories, LLC
   last_update: 2020-06-10
   links:
@@ -1928,8 +2002,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-06-10
-  diagnostic: ExProbe SARS-CoV-2 Testing Kit
+  device: ExProbe SARS-CoV-2 Testing Kit
   entity: TBG Biotechnology Corp.
   last_update: 2020-06-10
   links:
@@ -1949,8 +2024,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-06-10
-  diagnostic: Cue COVID-19 Test
+  device: Cue COVID-19 Test
   entity: Cue Health Inc.
   last_update: 2020-08-20
   links:
@@ -1975,8 +2051,9 @@
   - M
   - W
   technology: RT, Isothermal amplification
+  type: diagnostic
 - approval_date: 2020-06-12
-  diagnostic: Diagnovital SARS-CoV-2 Real-Time PCR Kit
+  device: Diagnovital SARS-CoV-2 Real-Time PCR Kit
   entity: RTA Laboratories Biological Products Pharmaceutical and Machinery Industry
   last_update: 2020-06-12
   links:
@@ -1996,8 +2073,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-06-15
-  diagnostic: BioCode SARS-CoV-2 Assay
+  device: BioCode SARS-CoV-2 Assay
   entity: Applied BioCode, Inc.
   last_update: 2020-06-15
   links:
@@ -2017,8 +2095,9 @@
   settings:
   - H
   technology: RT-PCR
+  type: diagnostic
 - approval_date: 2020-06-13
-  diagnostic: KPMAS COVID-19 Test
+  device: KPMAS COVID-19 Test
   entity: Kaiser Permanente Mid-Atlantic States
   last_update: 2020-09-09
   links:
@@ -2041,8 +2120,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Home Collection, Screening
+  type: diagnostic
 - approval_date: 2020-06-18
-  diagnostic: COVID-19 Coronavirus Real Time PCR Kit
+  device: COVID-19 Coronavirus Real Time PCR Kit
   entity: Jiangsu Bioperfectus Technologies Co., Ltd.
   last_update: 2020-06-18
   links:
@@ -2062,8 +2142,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-06-17
-  diagnostic: OSUWMC COVID-19 RT-PCR test
+  device: OSUWMC COVID-19 RT-PCR test
   entity: The Ohio State University Wexner Medical Center
   last_update: 2020-06-17
   links:
@@ -2083,8 +2164,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-06-17
-  diagnostic: Omni COVID-19 Assay by RT-PCR
+  device: Omni COVID-19 Assay by RT-PCR
   entity: Omnipathology Solutions Medical Corporation
   last_update: 2020-06-17
   links:
@@ -2104,10 +2186,11 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - amendments:
   - 2020-07-21
   approval_date: 2020-06-18
-  diagnostic: TRUPCR SARS-CoV-2 Kit
+  device: TRUPCR SARS-CoV-2 Kit
   entity: 3B Blackbio Biotech India Ltd., a subsidiary of Kilpest India Ltd.
   last_update: 2020-07-21
   links:
@@ -2130,8 +2213,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-06-23
-  diagnostic: HealthQuest Esoterics TaqPath SARS-CoV-2 Assay
+  device: HealthQuest Esoterics TaqPath SARS-CoV-2 Assay
   entity: HealthQuest Esoterics
   last_update: 2020-09-21
   links:
@@ -2152,8 +2236,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-06-23
-  diagnostic: FRL SARS CoV-2 Test
+  device: FRL SARS CoV-2 Test
   entity: University of Alabama at Birmingham Fungal Reference Lab
   last_update: 2020-06-23
   links:
@@ -2173,8 +2258,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-06-23
-  diagnostic: GenePro SARS-CoV-2 Test
+  device: GenePro SARS-CoV-2 Test
   entity: Gencurix, Inc.
   last_update: 2020-06-23
   links:
@@ -2194,8 +2280,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-06-24
-  diagnostic: MD Anderson High-throughput SARS-CoV-2 RT-PCR Assay
+  device: MD Anderson High-throughput SARS-CoV-2 RT-PCR Assay
   entity: University of Texas MD Anderson Cancer Center, Molecular Diagnostics Laboratory
   last_update: 2020-06-24
   links:
@@ -2216,8 +2303,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-06-25
-  diagnostic: DSL COVID-19 Assay
+  device: DSL COVID-19 Assay
   entity: Diagnostic Solutions Laboratory, LLC
   last_update: 2020-06-25
   links:
@@ -2237,8 +2325,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-06-25
-  diagnostic: FastPlex Triplex SARS-CoV-2 detection kit (RT-Digital PCR)
+  device: FastPlex Triplex SARS-CoV-2 detection kit (RT-Digital PCR)
   entity: PreciGenome LLC
   last_update: 2020-06-25
   links:
@@ -2262,8 +2351,9 @@
   settings:
   - H
   technology: RT-digital droplet PCR
+  type: diagnostic
 - approval_date: 2020-06-25
-  diagnostic: IntelliPlex SARS-CoV-2 Detection Kit
+  device: IntelliPlex SARS-CoV-2 Detection Kit
   entity: PlexBio Co., Ltd.
   last_update: 2020-06-25
   links:
@@ -2283,8 +2373,9 @@
   settings:
   - H
   technology: RT-PCR
+  type: diagnostic
 - approval_date: 2020-06-26
-  diagnostic: Inform Diagnostics SARS-CoV-2 RT-PCR Assay
+  device: Inform Diagnostics SARS-CoV-2 RT-PCR Assay
   entity: Inform Diagnostics, Inc.
   last_update: 2020-06-26
   links:
@@ -2305,8 +2396,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-06-29
-  diagnostic: LifeHope 2019-nCoV Real-Time RT-PCR Diagnostic Panel
+  device: LifeHope 2019-nCoV Real-Time RT-PCR Diagnostic Panel
   entity: LifeHope Labs
   last_update: 2020-06-29
   links:
@@ -2327,8 +2419,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-06-29
-  diagnostic: Acupath COVID-19 Real-Time (RT-PCR) Assay
+  device: Acupath COVID-19 Real-Time (RT-PCR) Assay
   entity: Acupath Laboratories, Inc.
   last_update: 2020-09-24
   links:
@@ -2348,8 +2441,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-06-30
-  diagnostic: Psoma COVID-19 RT Test
+  device: Psoma COVID-19 RT Test
   entity: Psomagen, Inc.
   last_update: 2020-09-21
   links:
@@ -2369,8 +2463,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-06-30
-  diagnostic: COVID-19 RT-PCR Peptide Nucleic Acid (PNA) kit
+  device: COVID-19 RT-PCR Peptide Nucleic Acid (PNA) kit
   entity: TNS Co., Ltd (Bio TNS)
   last_update: 2020-06-30
   links:
@@ -2391,8 +2486,9 @@
   settings:
   - H
   technology: RT-PCR
+  type: diagnostic
 - approval_date: 2020-06-30
-  diagnostic: Kroger Health COVID-19 Test Home Collection Kit
+  device: Kroger Health COVID-19 Test Home Collection Kit
   entity: The Kroger Co.
   last_update: 2020-06-30
   links:
@@ -2408,8 +2504,9 @@
   settings:
   - ''
   technology: Home Collection Kit
+  type: diagnostic
 - approval_date: 2020-07-01
-  diagnostic: CentoFast-SARS-CoV-2 RT-PCR Assay
+  device: CentoFast-SARS-CoV-2 RT-PCR Assay
   entity: CENTOGENE US, LLC
   last_update: 2020-07-01
   links:
@@ -2429,8 +2526,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-07-02
-  diagnostic: Influenza SARS-CoV-2 (Flu SC2) Multiplex Assay
+  device: Influenza SARS-CoV-2 (Flu SC2) Multiplex Assay
   entity: Centers for Disease Control and Prevention (CDC)
   last_update: 2020-09-21
   links:
@@ -2451,8 +2549,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Multi-analyte
+  type: diagnostic
 - approval_date: 2020-07-06
-  diagnostic: Laboratorio Clinico Toledo SARS-CoV-2 Assay
+  device: Laboratorio Clinico Toledo SARS-CoV-2 Assay
   entity: Laboratorio Clinico Toledo
   last_update: 2020-07-06
   links:
@@ -2473,8 +2572,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-07-07
-  diagnostic: AMPIPROBE SARS-CoV-2 Test System
+  device: AMPIPROBE SARS-CoV-2 Test System
   entity: Enzo Life Sciences, Inc.
   last_update: 2020-07-07
   links:
@@ -2494,8 +2594,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-07-07
-  diagnostic: CareStart COVID-19 MDx RT-PCR
+  device: CareStart COVID-19 MDx RT-PCR
   entity: Access Bio, Inc.
   last_update: 2020-07-07
   links:
@@ -2515,8 +2616,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-07-07
-  diagnostic: Gene By Gene SARS-CoV-2 Detection Test
+  device: Gene By Gene SARS-CoV-2 Detection Test
   entity: Gene By Gene
   last_update: 2020-07-07
   links:
@@ -2536,9 +2638,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-07-08
-  diagnostic: CRSP SARS-CoV-2 Real-time Reverse Transcriptase (RT)-PCR Diagnostic
-    Assay
+  device: CRSP SARS-CoV-2 Real-time Reverse Transcriptase (RT)-PCR Diagnostic Assay
   entity: Clinical Research Sequencing Platform (CRSP), LLC at the Broad Institute
     of MIT and Harvard
   last_update: 2020-08-31
@@ -2567,8 +2669,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-07-09
-  diagnostic: SARS-CoV-2 RNA DETECTR Assay
+  device: SARS-CoV-2 RNA DETECTR Assay
   entity: UCSF Health Clinical Laboratories, UCSF Clinical Labs at China Basin
   last_update: 2020-07-09
   links:
@@ -2588,8 +2691,9 @@
   settings:
   - H
   technology: RT-LAMP
+  type: diagnostic
 - approval_date: 2020-07-09
-  diagnostic: Real-Q 2019-nCoV Detection Kit
+  device: Real-Q 2019-nCoV Detection Kit
   entity: BioSewoom, Inc.
   last_update: 2020-07-09
   links:
@@ -2608,8 +2712,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-07-10
-  diagnostic: BMC-CReM COVID-19 Test
+  device: BMC-CReM COVID-19 Test
   entity: Boston Medical Center
   last_update: 2020-07-10
   links:
@@ -2629,8 +2734,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-07-13
-  diagnostic: PowerChek 2019-nCoV Real-time PCR Kit
+  device: PowerChek 2019-nCoV Real-time PCR Kit
   entity: KogeneBiotech Co., Ltd.
   last_update: 2020-09-21
   links:
@@ -2650,8 +2756,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-07-13
-  diagnostic: PhoenixDx SARS-CoV-2 Multiplex
+  device: PhoenixDx SARS-CoV-2 Multiplex
   entity: Trax Management Services Inc.
   last_update: 2020-08-08
   links:
@@ -2675,8 +2782,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-07-13
-  diagnostic: Compass Laboratory Services SARS-CoV2 Assay
+  device: Compass Laboratory Services SARS-CoV2 Assay
   entity: Compass Laboratory Services, LLC
   last_update: 2020-07-13
   links:
@@ -2697,8 +2805,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Home Collection
+  type: diagnostic
 - approval_date: 2020-07-15
-  diagnostic: Quest Diagnostics PF SARS-CoV-2 Assay
+  device: Quest Diagnostics PF SARS-CoV-2 Assay
   entity: Quest Diagnostics Infectious Disease, Inc.
   last_update: 2020-08-21
   links:
@@ -2721,8 +2830,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Home Collection
+  type: diagnostic
 - approval_date: 2020-07-15
-  diagnostic: Quest Diagnostics RC SARS-CoV-2 Assay
+  device: Quest Diagnostics RC SARS-CoV-2 Assay
   entity: Quest Diagnostics Infectious Disease, Inc.
   last_update: 2020-08-21
   links:
@@ -2745,8 +2855,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Home Collection
+  type: diagnostic
 - approval_date: 2020-07-15
-  diagnostic: Quest Diagnostics HA SARS-CoV-2 Assay
+  device: Quest Diagnostics HA SARS-CoV-2 Assay
   entity: Quest Diagnostics Infectious Disease, Inc.
   last_update: 2020-08-21
   links:
@@ -2769,10 +2880,11 @@
   settings:
   - H
   technology: TMA, chemiluminescent, Home Collection
+  type: diagnostic
 - amendments:
   - 2020-09-02
   approval_date: 2020-07-16
-  diagnostic: Boston Heart COVID-19 RT-PCR Test
+  device: Boston Heart COVID-19 RT-PCR Test
   entity: Boston Heart Diagnostics
   last_update: 2020-09-21
   links:
@@ -2795,8 +2907,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-07-17
-  diagnostic: OraRisk COVID-19 RT-PCR
+  device: OraRisk COVID-19 RT-PCR
   entity: Access Genetics, LLC
   last_update: 2020-09-25
   links:
@@ -2816,8 +2929,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-07-21
-  diagnostic: QuantiVirus SARS-CoV-2 Multiplex Test Kit
+  device: QuantiVirus SARS-CoV-2 Multiplex Test Kit
   entity: DiaCarta, Inc.
   last_update: 2020-07-21
   links:
@@ -2837,8 +2951,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-07-23
-  diagnostic: Helix COVID-19 Test
+  device: Helix COVID-19 Test
   entity: Helix OpCo LLC (dba Helix)
   last_update: 2020-07-23
   links:
@@ -2858,8 +2973,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-07-24
-  diagnostic: Novel Coronavirus (SARS-CoV-2) Fast Nucleic Acid Detection Kit (PCR-Fluorescence
+  device: Novel Coronavirus (SARS-CoV-2) Fast Nucleic Acid Detection Kit (PCR-Fluorescence
     Probing)
   entity: Jiangsu CoWin Biotech Co., Ltd.
   last_update: 2020-07-24
@@ -2884,8 +3000,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-05-18
-  diagnostic: Color Genomics SARS-CoV-2 RT-LAMP Diagnostic Assay
+  device: Color Genomics SARS-CoV-2 RT-LAMP Diagnostic Assay
   entity: Color Genomics, Inc.
   last_update: 2020-09-22
   links:
@@ -2916,8 +3033,9 @@
   settings:
   - H
   technology: RT, LAMP, Home Collection
+  type: diagnostic
 - approval_date: 2020-07-27
-  diagnostic: Lilly SARS-CoV-2 Assay
+  device: Lilly SARS-CoV-2 Assay
   entity: Eli Lilly and Company
   last_update: 2020-09-21
   links:
@@ -2941,8 +3059,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2019-10-01
-  diagnostic: SNL-NM 2019 nCoV Real-Time RT-PCR Diagnostic Assay
+  device: SNL-NM 2019 nCoV Real-Time RT-PCR Diagnostic Assay
   entity: Sandia National Laboratories
   last_update: 2020-07-27
   links:
@@ -2963,8 +3082,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-07-30
-  diagnostic: CRL Rapid Response
+  device: CRL Rapid Response
   entity: Clinical Reference Laboratory, Inc.
   last_update: 2020-07-30
   links:
@@ -2987,8 +3107,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Home Collection, Saliva
+  type: diagnostic
 - approval_date: 2020-07-31
-  diagnostic: SARS-CoV-2 Test Kit (Real-time PCR)
+  device: SARS-CoV-2 Test Kit (Real-time PCR)
   entity: Xiamen Zeesan Biotech Co., Ltd.
   last_update: 2020-07-31
   links:
@@ -3008,8 +3129,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-07-31
-  diagnostic: UCSD RC SARS-CoV-2 Assay
+  device: UCSD RC SARS-CoV-2 Assay
   entity: University of California San Diego Health
   last_update: 2020-07-31
   links:
@@ -3029,8 +3151,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Pooling
+  type: diagnostic
 - approval_date: 2020-08-03
-  diagnostic: Wren Laboratories COVID-19 PCR Test
+  device: Wren Laboratories COVID-19 PCR Test
   entity: Wren Laboratories LLC
   last_update: 2020-08-03
   links:
@@ -3050,8 +3173,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-08-03
-  diagnostic: Ethos Laboratories SARS-CoV-2 MALDI-TOF Assay
+  device: Ethos Laboratories SARS-CoV-2 MALDI-TOF Assay
   entity: Ethos Laboratories
   last_update: 2020-09-21
   links:
@@ -3082,8 +3206,9 @@
   settings:
   - H
   technology: RT-PCR and MALDI-TOF Mass Spec.
+  type: diagnostic
 - approval_date: 2020-08-03
-  diagnostic: Cleveland Clinic SARS-CoV-2 Assay
+  device: Cleveland Clinic SARS-CoV-2 Assay
   entity: Cleveland Clinic Robert J. Tomsich Pathology and Laboratory Medicine Institute
   last_update: 2020-08-03
   links:
@@ -3103,8 +3228,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-08-03
-  diagnostic: Poplar SARS-CoV-2 TMA Pooling assay
+  device: Poplar SARS-CoV-2 TMA Pooling assay
   entity: Poplar Healthcare
   last_update: 2020-08-03
   links:
@@ -3124,8 +3250,9 @@
   settings:
   - H
   technology: TMA, chemiluminescent, Pooling
+  type: diagnostic
 - approval_date: 2020-05-22
-  diagnostic: SARS-CoV-2 (N gene detection) Test
+  device: SARS-CoV-2 (N gene detection) Test
   entity: Exact Sciences Laboratories
   last_update: 2020-09-21
   links:
@@ -3151,8 +3278,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Home Collection
+  type: diagnostic
 - approval_date: 2020-08-03
-  diagnostic: Genus SARS-CoV-2 Assay
+  device: Genus SARS-CoV-2 Assay
   entity: ISPM Labs, LLC dba Capstone Healthcare
   last_update: 2020-08-03
   links:
@@ -3172,8 +3300,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-08-06
-  diagnostic: Helix COVID-19 NGS Test
+  device: Helix COVID-19 NGS Test
   entity: Helix OpCo LLC (dba Helix)
   last_update: 2020-08-06
   links:
@@ -3193,8 +3322,9 @@
   settings:
   - H
   technology: Sequencing
+  type: diagnostic
 - approval_date: 2020-08-05
-  diagnostic: ViroKey SARS-CoV-2 RT-PCR Test
+  device: ViroKey SARS-CoV-2 RT-PCR Test
   entity: Vela Operations Singapore Pte Ltd
   last_update: 2020-08-05
   links:
@@ -3214,8 +3344,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-08-07
-  diagnostic: GWU SARS-CoV-2 RT-PCR Test
+  device: GWU SARS-CoV-2 RT-PCR Test
   entity: George Washington University Public Health Laboratory
   last_update: 2020-08-07
   links:
@@ -3235,8 +3366,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-08-10
-  diagnostic: Solaris Multiplex SARS-CoV-2 Assay
+  device: Solaris Multiplex SARS-CoV-2 Assay
   entity: Solaris Diagnostics
   last_update: 2020-08-10
   links:
@@ -3256,8 +3388,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-08-10
-  diagnostic: Alpha Genomix TaqPath SARS-CoV-2 Combo Assay
+  device: Alpha Genomix TaqPath SARS-CoV-2 Combo Assay
   entity: Alpha Genomix Laboratories
   last_update: 2020-08-10
   links:
@@ -3278,8 +3411,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-08-11
-  diagnostic: Biomeme SARS-CoV-2 Real-Time RT-PCR Test
+  device: Biomeme SARS-CoV-2 Real-Time RT-PCR Test
   entity: Biomeme, Inc.
   last_update: 2020-08-11
   links:
@@ -3299,8 +3433,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-08-11
-  diagnostic: LumiraDx SARS-CoV-2 RNA STAR
+  device: LumiraDx SARS-CoV-2 RNA STAR
   entity: LumiraDx UK Ltd.
   last_update: 2020-08-11
   links:
@@ -3320,8 +3455,9 @@
   settings:
   - H
   technology: RT, non-isothermal nucleic acid amplification qSTAR
+  type: diagnostic
 - approval_date: 2020-08-13
-  diagnostic: Pro-AmpRT SARS-CoV-2 Test
+  device: Pro-AmpRT SARS-CoV-2 Test
   entity: Pro-Lab Diagnostics
   last_update: 2020-08-13
   links:
@@ -3341,8 +3477,9 @@
   settings:
   - H
   technology: RT, Isothermal amplification
+  type: diagnostic
 - approval_date: 2020-08-15
-  diagnostic: SalivaDirect
+  device: SalivaDirect
   entity: Yale School of Public Health, Department of Epidemiology of Microbial Diseases
   last_update: 2020-08-28
   links:
@@ -3365,8 +3502,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Saliva
+  type: diagnostic
 - approval_date: 2020-08-17
-  diagnostic: COVID-19 Nucleic Acid RT-PCR Test Kit
+  device: COVID-19 Nucleic Acid RT-PCR Test Kit
   entity: ZhuHai Sinochips Bioscience Co., Ltd.
   last_update: 2020-08-17
   links:
@@ -3386,8 +3524,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-08-21
-  diagnostic: Guardant-19
+  device: Guardant-19
   entity: Guardant Health, Inc.
   last_update: 2020-08-21
   links:
@@ -3407,8 +3546,9 @@
   settings:
   - H
   technology: Sequencing
+  type: diagnostic
 - approval_date: 2020-08-21
-  diagnostic: DxTerity SARS-CoV-2 RT-PCR Test
+  device: DxTerity SARS-CoV-2 RT-PCR Test
   entity: DxTerity Diagnostics, Inc.
   last_update: 2020-08-21
   links:
@@ -3428,8 +3568,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Saliva
+  type: diagnostic
 - approval_date: 2020-08-21
-  diagnostic: Texas Department of State Health Services (DSHS) SARS-CoV-2 Assay
+  device: Texas Department of State Health Services (DSHS) SARS-CoV-2 Assay
   entity: Texas Department of State Health Services, Laboratory Services Section
   last_update: 2020-08-21
   links:
@@ -3453,8 +3594,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-08-25
-  diagnostic: Advanta Dx SARS-CoV-2 RT-PCR Assay
+  device: Advanta Dx SARS-CoV-2 RT-PCR Assay
   entity: Fluidigm Corporation
   last_update: 2020-09-21
   links:
@@ -3473,8 +3615,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Saliva
+  type: diagnostic
 - approval_date: 2020-08-25
-  diagnostic: QDX SARS-CoV-2 Assay
+  device: QDX SARS-CoV-2 Assay
   entity: QDx Pathology Services
   last_update: 2020-08-25
   links:
@@ -3496,8 +3639,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Home Collection
+  type: diagnostic
 - approval_date: 2020-08-26
-  diagnostic: Cuur Diagnostics SARS-CoV-2 Molecular Assay
+  device: Cuur Diagnostics SARS-CoV-2 Molecular Assay
   entity: Cuur Diagnostics
   last_update: 2020-08-26
   links:
@@ -3518,8 +3662,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-08-28
-  diagnostic: PCL SARS-CoV-2 Real-Time RT-PCR Assay
+  device: PCL SARS-CoV-2 Real-Time RT-PCR Assay
   entity: Patients Choice Laboratories, LLC
   last_update: 2020-09-21
   links:
@@ -3539,8 +3684,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-08-28
-  diagnostic: DxTerity SARS-CoV-2 RT PCR CE Test
+  device: DxTerity SARS-CoV-2 RT PCR CE Test
   entity: DxTerity Diagnostics, Inc.
   last_update: 2020-08-28
   links:
@@ -3562,8 +3708,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Home Collection, Screening, Saliva
+  type: diagnostic
 - approval_date: 2020-08-31
-  diagnostic: T2SARS-CoV-2 Panel
+  device: T2SARS-CoV-2 Panel
   entity: T2 Biosystems, Inc.
   last_update: 2020-08-31
   links:
@@ -3582,8 +3729,9 @@
   settings:
   - H
   technology: RT, amplification, T2 Magnetic resonance
+  type: diagnostic
 - approval_date: 2020-08-31
-  diagnostic: MiraDx SARS-CoV-2 RT-PCR assay
+  device: MiraDx SARS-CoV-2 RT-PCR assay
   entity: MiraDx
   last_update: 2020-08-31
   links:
@@ -3603,8 +3751,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-08-31
-  diagnostic: SARS-CoV-2 DETECTR Reagent Kit
+  device: SARS-CoV-2 DETECTR Reagent Kit
   entity: Mammoth Biosciences, Inc.
   last_update: 2020-08-31
   links:
@@ -3623,8 +3772,9 @@
   settings:
   - H
   technology: RT-LAMP, CRISPR
+  type: diagnostic
 - approval_date: 2020-08-31
-  diagnostic: BayCare SARS-CoV-2 RT PCR Assay
+  device: BayCare SARS-CoV-2 RT PCR Assay
   entity: BayCare Laboratories, LLC
   last_update: 2020-08-31
   links:
@@ -3644,8 +3794,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Pooling
+  type: diagnostic
 - approval_date: 2020-09-01
-  diagnostic: MobileDetect Bio BCC19 (MD-Bio BCC19) Test Kit
+  device: MobileDetect Bio BCC19 (MD-Bio BCC19) Test Kit
   entity: Detectachem Inc.
   last_update: 2020-09-01
   links:
@@ -3666,8 +3817,9 @@
   settings:
   - H
   technology: RT-LAMP
+  type: diagnostic
 - approval_date: 2020-09-01
-  diagnostic: Kaira 2019-nCoV Detection Kit
+  device: Kaira 2019-nCoV Detection Kit
   entity: OPTOLANE Technologies, Inc.
   last_update: 2020-09-01
   links:
@@ -3687,8 +3839,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-08-31
-  diagnostic: Color COVID-19 Self-Swab Collection Kit
+  device: Color COVID-19 Self-Swab Collection Kit
   entity: Color Genomics, Inc.
   last_update: 2020-09-15
   links:
@@ -3705,8 +3858,9 @@
   settings:
   - ''
   technology: Home Collection Kit
+  type: diagnostic
 - approval_date: 2020-09-02
-  diagnostic: Bio-Speedy Direct RT-qPCR SARS-CoV-2
+  device: Bio-Speedy Direct RT-qPCR SARS-CoV-2
   entity: Bioeksen R&D Technologies Ltd.
   last_update: 2020-09-02
   links:
@@ -3726,8 +3880,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-09-03
-  diagnostic: cobas SARS-CoV-2 & Influenza A/B
+  device: cobas SARS-CoV-2 & Influenza A/B
   entity: Roche Molecular Systems, Inc.
   last_update: 2020-09-03
   links:
@@ -3748,8 +3903,9 @@
   - H
   - M
   technology: Real-time RT-PCR, Multi-analyte
+  type: diagnostic
 - approval_date: 2020-09-04
-  diagnostic: qSanger-COVID-19 Assay
+  device: qSanger-COVID-19 Assay
   entity: BillionToOne, Inc.
   last_update: 2020-09-04
   links:
@@ -3769,8 +3925,9 @@
   settings:
   - H
   technology: Sequencing
+  type: diagnostic
 - approval_date: 2020-09-08
-  diagnostic: Verily COVID-19 RT-PCR Test
+  device: Verily COVID-19 RT-PCR Test
   entity: Verily Life Sciences
   last_update: 2020-09-08
   links:
@@ -3790,8 +3947,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Pooling
+  type: diagnostic
 - approval_date: 2020-09-09
-  diagnostic: Wantai SARS-CoV-2 RT-PCR Kit
+  device: Wantai SARS-CoV-2 RT-PCR Kit
   entity: Beijing Wantai Biological Pharmacy Enterprise Co., Ltd.
   last_update: 2020-09-09
   links:
@@ -3811,8 +3969,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-09-14
-  diagnostic: cobas SARS-CoV-2 & Influenza A/B Nucleic Acid Test for use on the cobas
+  device: cobas SARS-CoV-2 & Influenza A/B Nucleic Acid Test for use on the cobas
     Liat System
   entity: Roche Molecular Systems, Inc.
   last_update: 2020-09-18
@@ -3843,8 +4002,9 @@
   - M
   - W
   technology: Real-time RT-PCR, Multi-analyte
+  type: diagnostic
 - approval_date: 2020-09-16
-  diagnostic: Visby Medical COVID-19
+  device: Visby Medical COVID-19
   entity: Visby Medical, Inc.
   last_update: 2020-09-16
   links:
@@ -3865,8 +4025,9 @@
   - H
   - M
   technology: RT-PCR
+  type: diagnostic
 - approval_date: 2020-09-18
-  diagnostic: GK ACCU-RIGHT SARS-CoV-2 RT-PCR KIT
+  device: GK ACCU-RIGHT SARS-CoV-2 RT-PCR KIT
   entity: GK Pharmaceuticals Contract Manufacturing Operations
   last_update: 2020-09-18
   links:
@@ -3885,8 +4046,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-09-21
-  diagnostic: KimForest SARS-CoV-2 Detection Kit v1
+  device: KimForest SARS-CoV-2 Detection Kit v1
   entity: KimForest Enterprise Co., Ltd.
   last_update: 2020-09-21
   links:
@@ -3906,8 +4068,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-09-22
-  diagnostic: Clarifi COVID-19 Test Kit
+  device: Clarifi COVID-19 Test Kit
   entity: Quadrant Biosciences Inc.
   last_update: 2020-09-22
   links:
@@ -3927,8 +4090,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Saliva
+  type: diagnostic
 - approval_date: 2020-09-22
-  diagnostic: ViroKey SARS-CoV-2 RT-PCR Test v2.0
+  device: ViroKey SARS-CoV-2 RT-PCR Test v2.0
   entity: Vela Operations Singapore Pte. Ltd.
   last_update: 2020-09-22
   links:
@@ -3948,8 +4112,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-09-23
-  diagnostic: Clear Dx SARS-CoV-2 Test
+  device: Clear Dx SARS-CoV-2 Test
   entity: Clear Labs, Inc.
   last_update: 2020-09-23
   links:
@@ -3969,8 +4134,9 @@
   settings:
   - H
   technology: RT-PCR and Sequencing
+  type: diagnostic
 - approval_date: 2020-09-24
-  diagnostic: Xpert Xpress SARS-CoV-2/Flu/RSV
+  device: Xpert Xpress SARS-CoV-2/Flu/RSV
   entity: Cepheid
   last_update: 2020-09-24
   links:
@@ -3995,8 +4161,9 @@
   - M
   - W
   technology: Real-time RT-PCR, Multi-analyte
+  type: diagnostic
 - approval_date: 2020-09-25
-  diagnostic: Genetrack SARS-CoV-2 Molecular Assay
+  device: Genetrack SARS-CoV-2 Molecular Assay
   entity: Genetrack Biolabs, Inc.
   last_update: 2020-09-25
   links:
@@ -4012,12 +4179,15 @@
   - href: https://www.fda.gov/media/142482/download
     title: Genetrack SARS-CoV-2 Molecular Assay - EUA Summary
     type: eua summary
+  - href: https://www.fda.gov/media/142601/download
+    title: Genetrack SARS-CoV-2 Molecular Assay - IFU (Home Collect)
   method: molecular
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-09-30
-  diagnostic: Aeon Global Health SARS-CoV-2 Assay
+  device: Aeon Global Health SARS-CoV-2 Assay
   entity: Aeon Global Health
   last_update: 2020-09-30
   links:
@@ -4037,8 +4207,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-09-29
-  diagnostic: CentoSure SARS-CoV-2 RT-PCR Assay
+  device: CentoSure SARS-CoV-2 RT-PCR Assay
   entity: CENTOGENE US, LLC
   last_update: 2020-09-29
   links:
@@ -4058,8 +4229,9 @@
   settings:
   - H
   technology: Real-time RT-PCR, Screening
+  type: diagnostic
 - approval_date: 2020-09-29
-  diagnostic: "Akron Children\u2019s Hospital SARS-CoV-2 Assay"
+  device: "Akron Children\u2019s Hospital SARS-CoV-2 Assay"
   entity: "Akron Children\u2019s Hospital"
   last_update: 2020-09-29
   links:
@@ -4080,8 +4252,9 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-09-29
-  diagnostic: SARS-CoV-2 MassArray Test
+  device: SARS-CoV-2 MassArray Test
   entity: National Jewish Health
   last_update: 2020-09-29
   links:
@@ -4101,8 +4274,53 @@
   settings:
   - H
   technology: RT-PCR and MALDI-TOF Mass Spec.
+  type: diagnostic
+- approval_date: 2020-09-30
+  device: Alimetrix SARS-CoV-2 RT-PCR Assay
+  entity: Alimetrix, Inc.
+  last_update: 2020-09-30
+  links:
+  - href: https://www.fda.gov/media/142589/download
+    title: Alimetrix SARS-CoV-2 RT-PCR Assay - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/142590/download
+    title: Alimetrix SARS-CoV-2 RT-PCR Assay - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/142591/download
+    title: Alimetrix SARS-CoV-2 RT-PCR Assay - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/142592/download
+    title: Alimetrix SARS-CoV-2 RT-PCR Assay - EUA Summary
+    type: eua summary
+  method: molecular
+  settings:
+  - H
+  technology: RT-PCR, Microarray Hybridization
+  type: diagnostic
+- approval_date: 2020-10-01
+  device: iC SARS-CoV2 Test
+  entity: Tempus Labs, Inc.
+  last_update: 2020-10-01
+  links:
+  - href: https://www.fda.gov/media/142593/download
+    title: iC SARS-CoV2 Test - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/142594/download
+    title: iC SARS-CoV2 Test - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/142595/download
+    title: iC SARS-CoV2 Test - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/142596/download
+    title: iC SARS-CoV2 Test - EUA Summary
+    type: eua summary
+  method: molecular
+  settings:
+  - H
+  technology: Real-time RT-PCR
+  type: diagnostic
 - approval_date: 2020-04-30
-  diagnostic: Altru Dx SARS-CoV-2 RT-PCR assay
+  device: Altru Dx SARS-CoV-2 RT-PCR assay
   entity: Altru Diagnostics, Inc.
   last_update: 2020-06-04
   links:
@@ -4118,8 +4336,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-04-28
-  diagnostic: SARS-CoV-2 Test
+  device: SARS-CoV-2 Test
   entity: Biocerna
   last_update: 2020-04-28
   links:
@@ -4132,8 +4351,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-04-27
-  diagnostic: SARS-CoV-2 Assay
+  device: SARS-CoV-2 Assay
   entity: Nationwide Children's Hospital
   last_update: 2020-04-27
   links:
@@ -4146,8 +4366,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-04-22
-  diagnostic: SARS-CoV-2 PCR Test
+  device: SARS-CoV-2 PCR Test
   entity: Diatherix Eurofins Laboratory
   last_update: 2020-09-22
   links:
@@ -4160,8 +4381,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2019-10-01
-  diagnostic: Orig3n 2019 Novel Coronavirus (COVID-19) Test
+  device: Orig3n 2019 Novel Coronavirus (COVID-19) Test
   entity: Orig3n, Inc.
   last_update: 2020-04-10
   links:
@@ -4174,8 +4396,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-04-10
-  diagnostic: SDI SARS-CoV-2 Assay
+  device: SDI SARS-CoV-2 Assay
   entity: Specialty Diagnostic (SDI) Laboratories
   last_update: 2020-04-10
   links:
@@ -4188,8 +4411,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-04-08
-  diagnostic: Stanford SARS-CoV-2 assay
+  device: Stanford SARS-CoV-2 assay
   entity: Stanford Health Care Clinical Virology Laboratory
   last_update: 2020-04-08
   links:
@@ -4202,8 +4426,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-04-06
-  diagnostic: Viracor SARS-CoV-2 assay
+  device: Viracor SARS-CoV-2 assay
   entity: Viracor Eurofins Clinical Diagnostics
   last_update: 2020-04-06
   links:
@@ -4216,8 +4441,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-04-03
-  diagnostic: MGH COVID-19 qPCR assay
+  device: MGH COVID-19 qPCR assay
   entity: Massachusetts General Hospital
   last_update: 2020-04-03
   links:
@@ -4230,8 +4456,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-04-02
-  diagnostic: SARS-Cov-2 Assay
+  device: SARS-Cov-2 Assay
   entity: Diagnostic Molecular Laboratory - Northwestern Medicine
   last_update: 2020-04-02
   links:
@@ -4243,8 +4470,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-04-02
-  diagnostic: SARS-CoV-2 RT-PCR test
+  device: SARS-CoV-2 RT-PCR test
   entity: Infectious Disease Diagnostics Laboratory - Children's Hospital of Philadelphia
   last_update: 2020-04-02
   links:
@@ -4256,8 +4484,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-03-31
-  diagnostic: SARS-CoV-2 PCR test
+  device: SARS-CoV-2 PCR test
   entity: "Yale New Haven Hospital,\n\t\t\tClinical Virology Laboratory"
   last_update: 2020-06-04
   links:
@@ -4274,8 +4503,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-04-10
-  diagnostic: UNC Health SARS-CoV-2 real-time RT-PCR test
+  device: UNC Health SARS-CoV-2 real-time RT-PCR test
   entity: University of North Carolina Medical Center
   last_update: 2020-09-21
   links:
@@ -4289,8 +4519,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-04-13
-  diagnostic: SARS-CoV-2 Assay
+  device: SARS-CoV-2 Assay
   entity: Integrity Laboratories
   last_update: 2020-04-13
   links:
@@ -4304,8 +4535,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-04-13
-  diagnostic: COVID-19 RT-PCR Test
+  device: COVID-19 RT-PCR Test
   entity: Pathology/Laboratory Medicine Lab of Baptist Hospital Miami
   last_update: 2020-09-21
   links:
@@ -4320,8 +4552,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-04-14
-  diagnostic: Childrens-Altona-SARS-CoV-2 Assay
+  device: Childrens-Altona-SARS-CoV-2 Assay
   entity: Infectious Diseases Diagnostics Laboratory (IDDL), Boston Children's Hospital
   last_update: 2020-09-21
   links:
@@ -4334,8 +4567,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-04-15
-  diagnostic: CDI Enhanced COVID-19 Test
+  device: CDI Enhanced COVID-19 Test
   entity: Hackensack University Medical Center (HUMC) Molecular Pathology Laboratory
   last_update: 2020-09-21
   links:
@@ -4347,8 +4581,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-04-15
-  diagnostic: CirrusDx SARS-CoV-2 Assay
+  device: CirrusDx SARS-CoV-2 Assay
   entity: CirrusDx Laboratories
   last_update: 2020-09-21
   links:
@@ -4360,8 +4595,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-04-14
-  diagnostic: SARS-CoV-2 Test
+  device: SARS-CoV-2 Test
   entity: Exact Sciences Laboratories
   last_update: 2020-04-14
   links:
@@ -4375,8 +4611,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-04-20
-  diagnostic: SARS-CoV-2 Molecular Detection Assay
+  device: SARS-CoV-2 Molecular Detection Assay
   entity: Mayo Clinic Laboratories, Rochester, MN
   last_update: 2020-07-29
   links:
@@ -4393,8 +4630,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-04-23
-  diagnostic: COVID-19 Key
+  device: COVID-19 Key
   entity: Southwest Regional PCR Laboratory LLC. dba MicroGen DX
   last_update: 2020-04-23
   links:
@@ -4409,8 +4647,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-04-24
-  diagnostic: UDX SARS-CoV-2 Molecular Assay
+  device: UDX SARS-CoV-2 Molecular Assay
   entity: Ultimate Dx Laboratory
   last_update: 2020-04-24
   links:
@@ -4423,8 +4662,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-04-24
-  diagnostic: SARS-CoV-2 Assay
+  device: SARS-CoV-2 Assay
   entity: AIT Laboratories
   last_update: 2020-04-24
   links:
@@ -4437,8 +4677,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-05-03
-  diagnostic: UTHSC/UCH SARS-CoV-2-RT-PCR Assay
+  device: UTHSC/UCH SARS-CoV-2-RT-PCR Assay
   entity: UTMG Pathology Laboratory
   last_update: 2020-07-22
   links:
@@ -4454,8 +4695,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-05-07
-  diagnostic: Biocollections Worldwide SARS-Co-V-2 Assay
+  device: Biocollections Worldwide SARS-Co-V-2 Assay
   entity: Biocollections Worldwide, Inc.
   last_update: 2020-05-07
   links:
@@ -4469,8 +4711,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-05-12
-  diagnostic: TRIPLEX CII-SARS-CoV-2 rRT-PCR TEST
+  device: TRIPLEX CII-SARS-CoV-2 rRT-PCR TEST
   entity: Columbia University Laboratory of Personalized Genomic Medicine
   last_update: 2020-09-14
   links:
@@ -4488,8 +4731,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-05-13
-  diagnostic: SARS-CoV-2 Real-Time RT-PCR-Test
+  device: SARS-CoV-2 Real-Time RT-PCR-Test
   entity: One Health Laboratories, LLC
   last_update: 2020-05-13
   links:
@@ -4502,8 +4746,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-05-13
-  diagnostic: SARS-CoV-2-Assay
+  device: SARS-CoV-2-Assay
   entity: Cedars-Sinai Medical Center, Department of Pathology and Laboratory Medicine
   last_update: 2020-05-13
   links:
@@ -4516,8 +4761,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-06-01
-  diagnostic: Aspirus SARS-CoV rRT Assay
+  device: Aspirus SARS-CoV rRT Assay
   entity: Aspirus Reference Laboratory
   last_update: 2020-06-01
   links:
@@ -4530,8 +4776,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-06-04
-  diagnostic: NEcov19 RT-PCR Assay
+  device: NEcov19 RT-PCR Assay
   entity: Nebraska Medicine Clinical Laboratory
   last_update: 2020-06-04
   links:
@@ -4545,8 +4792,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-06-01
-  diagnostic: CSI SARS-CoV-2 RT PCR Test
+  device: CSI SARS-CoV-2 RT PCR Test
   entity: CSI Laboratories
   last_update: 2020-06-01
   links:
@@ -4559,8 +4807,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-05-22
-  diagnostic: Express Gene 2019-nCoV RT-PCR Diagnostic Panel
+  device: Express Gene 2019-nCoV RT-PCR Diagnostic Panel
   entity: Express Gene LLC (dba Molecular Diagnostics Laboratory)
   last_update: 2020-05-22
   links:
@@ -4574,8 +4823,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-05-22
-  diagnostic: Avera Institute for Human Genetics SARS-CoV-2 Assay
+  device: Avera Institute for Human Genetics SARS-CoV-2 Assay
   entity: Avera Institute for Human Genetics
   last_update: 2020-05-22
   links:
@@ -4589,8 +4839,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-06-10
-  diagnostic: Warrior Diagnostics SARS-CoV-2 Assay
+  device: Warrior Diagnostics SARS-CoV-2 Assay
   entity: Warrior Diagnostics, Inc.
   last_update: 2020-06-10
   links:
@@ -4603,8 +4854,9 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - approval_date: 2020-06-12
-  diagnostic: Cormeum SARS-CoV-2 Assay
+  device: Cormeum SARS-CoV-2 Assay
   entity: Cormeum Laboratory Services
   last_update: 2020-06-12
   links:
@@ -4617,10 +4869,11 @@
   method: molecular
   settings:
   - H
+  type: diagnostic
 - amendments:
   - 2020-06-09
   approval_date: 2020-05-08
-  diagnostic: Sofia SARS Antigen FIA
+  device: Sofia SARS Antigen FIA
   entity: Quidel Corporation
   last_update: 2020-07-17
   links:
@@ -4648,10 +4901,11 @@
   - M
   - W
   technology: Lateral Flow, Fluorescence, Instrument Read
+  type: diagnostic
 - amendments:
   - 2020-07-23
   approval_date: 2020-07-02
-  diagnostic: BD Veritor System for Rapid Detection of SARS-CoV-2
+  device: BD Veritor System for Rapid Detection of SARS-CoV-2
   entity: Becton, Dickinson and Company (BD)
   last_update: 2020-07-23
   links:
@@ -4677,8 +4931,9 @@
   - M
   - W
   technology: Chromatographic Digital Immunoassay, Instrument Read
+  type: diagnostic
 - approval_date: 2020-08-18
-  diagnostic: LumiraDx SARS-CoV-2 Ag Test
+  device: LumiraDx SARS-CoV-2 Ag Test
   entity: LumiraDx UK Ltd.
   last_update: 2020-08-18
   links:
@@ -4700,8 +4955,9 @@
   - M
   - W
   technology: Microfluidic Immunofluorescence Assay, Instrument Read
+  type: diagnostic
 - approval_date: 2020-08-26
-  diagnostic: BinaxNOW COVID-19 Ag Card
+  device: BinaxNOW COVID-19 Ag Card
   entity: Abbott Diagnostics Scarborough, Inc.
   last_update: 2020-08-26
   links:
@@ -4722,10 +4978,11 @@
   - M
   - W
   technology: Lateral Flow, Visual Read
+  type: diagnostic
 - amendments:
   - 2020-02-01
   approval_date: 2020-04-26
-  diagnostic: SARS-CoV-2 IgG assay
+  device: SARS-CoV-2 IgG assay
   entity: Abbott Laboratories Inc.
   last_update: 2020-09-18
   links:
@@ -4757,8 +5014,9 @@
   - H
   - M
   technology: IgG, CMIA
+  type: diagnostic
 - approval_date: 2020-04-01
-  diagnostic: qSARS-CoV-2 IgG/IgM Rapid Test
+  device: qSARS-CoV-2 IgG/IgM Rapid Test
   entity: Cellex Inc.
   last_update: 2020-06-12
   links:
@@ -4778,10 +5036,11 @@
   - H
   - M
   technology: IgM and IgG, Lateral Flow
+  type: diagnostic
 - amendments:
   - 2020-02-01
   approval_date: 2020-04-14
-  diagnostic: VITROS Immunodiagnostic Products Anti-SARS-CoV-2 Total Reagent Pack
+  device: VITROS Immunodiagnostic Products Anti-SARS-CoV-2 Total Reagent Pack
   entity: Ortho Clinical Diagnostics, Inc.
   last_update: 2020-04-24
   links:
@@ -4802,8 +5061,9 @@
   - H
   - M
   technology: Total Antibody, CLIA
+  type: diagnostic
 - approval_date: 2020-04-15
-  diagnostic: COVID-19 ELISA IgG Antibody Test
+  device: COVID-19 ELISA IgG Antibody Test
   entity: Mount Sinai Laboratory
   last_update: 2020-04-15
   links:
@@ -4821,8 +5081,9 @@
   settings:
   - H
   technology: IgG, ELISA
+  type: diagnostic
 - approval_date: 2020-04-24
-  diagnostic: LIAISON SARS-CoV-2 S1/S2 IgG
+  device: LIAISON SARS-CoV-2 S1/S2 IgG
   entity: DiaSorin Inc.
   last_update: 2020-07-22
   links:
@@ -4846,8 +5107,9 @@
   - H
   - M
   technology: IgG, CLIA
+  type: diagnostic
 - approval_date: 2020-04-24
-  diagnostic: VITROS Immunodiagnostic Products Anti-SARS-CoV-2 IgG Reagent Pack
+  device: VITROS Immunodiagnostic Products Anti-SARS-CoV-2 IgG Reagent Pack
   entity: Ortho-Clinical Diagnostics, Inc.
   last_update: 2020-04-24
   links:
@@ -4869,10 +5131,11 @@
   - H
   - M
   technology: IgG, CLIA
+  type: diagnostic
 - amendments:
   - 2020-07-21
   approval_date: 2020-04-29
-  diagnostic: Platelia SARS-CoV-2 Total Ab assay
+  device: Platelia SARS-CoV-2 Total Ab assay
   entity: Bio-Rad Laboratories, Inc.
   last_update: 2020-07-21
   links:
@@ -4894,8 +5157,9 @@
   settings:
   - H
   technology: Total Antibody, ELISA
+  type: diagnostic
 - approval_date: 2020-04-30
-  diagnostic: New York SARS-CoV Microsphere Immunoassay for Antibody Detection
+  device: New York SARS-CoV Microsphere Immunoassay for Antibody Detection
   entity: Wadsworth Center, New York State Department of Health
   last_update: 2020-04-30
   links:
@@ -4918,8 +5182,9 @@
   settings:
   - H
   technology: Total Antibody, FMIA
+  type: diagnostic
 - approval_date: 2020-05-02
-  diagnostic: Elecsys Anti-SARS-CoV-2
+  device: Elecsys Anti-SARS-CoV-2
   entity: Roche Diagnostics
   last_update: 2020-07-21
   links:
@@ -4946,8 +5211,9 @@
   - H
   - M
   technology: Total Antibody, ECLIA
+  type: diagnostic
 - approval_date: 2020-05-04
-  diagnostic: Anti-SARS-CoV-2 ELISA (IgG)
+  device: Anti-SARS-CoV-2 ELISA (IgG)
   entity: EUROIMMUN US Inc.
   last_update: 2020-05-04
   links:
@@ -4966,8 +5232,9 @@
   settings:
   - H
   technology: IgG, ELISA
+  type: diagnostic
 - approval_date: 2020-05-29
-  diagnostic: COVID-19 IgG/IgM Rapid Test Cassette (Whole Blood/Serum/Plasma)
+  device: COVID-19 IgG/IgM Rapid Test Cassette (Whole Blood/Serum/Plasma)
   entity: Healgen Scientific LLC
   last_update: 2020-05-29
   links:
@@ -4990,8 +5257,9 @@
   - H
   - M
   technology: IgM and IgG Lateral Flow
+  type: diagnostic
 - approval_date: 2020-05-29
-  diagnostic: Atellica IM SARS-CoV-2 Total (COV2T)
+  device: Atellica IM SARS-CoV-2 Total (COV2T)
   entity: Siemens Healthcare Diagnostics Inc.
   last_update: 2020-05-29
   links:
@@ -5014,8 +5282,9 @@
   - H
   - M
   technology: Total Antibody, CLIA
+  type: diagnostic
 - approval_date: 2020-05-29
-  diagnostic: ADVIA Centaur SARS-CoV-2 Total (COV2T)
+  device: ADVIA Centaur SARS-CoV-2 Total (COV2T)
   entity: Siemens Healthcare Diagnostics Inc.
   last_update: 2020-05-29
   links:
@@ -5038,8 +5307,9 @@
   - H
   - M
   technology: Total Antibody, CLIA
+  type: diagnostic
 - approval_date: 2020-06-04
-  diagnostic: Vibrant COVID-19 Ab Assay
+  device: Vibrant COVID-19 Ab Assay
   entity: Vibrant America Clinical Labs
   last_update: 2020-06-04
   links:
@@ -5058,10 +5328,11 @@
   settings:
   - H
   technology: IgM and IgG, CLIA
+  type: diagnostic
 - amendments:
   - 2020-07-23
   approval_date: 2020-06-04
-  diagnostic: RightSign COVID-19 IgG/IgM Rapid Test Cassette
+  device: RightSign COVID-19 IgG/IgM Rapid Test Cassette
   entity: Hangzhou Biotest Biotech Co., Ltd.
   last_update: 2020-08-31
   links:
@@ -5088,8 +5359,9 @@
   - H
   - M
   technology: IgM and IgG Lateral Flow
+  type: diagnostic
 - approval_date: 2020-06-08
-  diagnostic: Dimension Vista SARS-CoV-2 Total antibody assay (COV2T)
+  device: Dimension Vista SARS-CoV-2 Total antibody assay (COV2T)
   entity: Siemens Healthcare Diagnostics Inc.
   last_update: 2020-08-07
   links:
@@ -5117,8 +5389,9 @@
   - H
   - M
   technology: Total Antibody, CLIA
+  type: diagnostic
 - approval_date: 2020-06-08
-  diagnostic: Dimension EXL SARS-CoV-2 Total antibody assay (CV2T)
+  device: Dimension EXL SARS-CoV-2 Total antibody assay (CV2T)
   entity: Siemens Healthcare Diagnostics Inc.
   last_update: 2020-08-07
   links:
@@ -5145,8 +5418,9 @@
   - H
   - M
   technology: Total Antibody, CLIA
+  type: diagnostic
 - approval_date: 2020-06-10
-  diagnostic: SCoV-2 Detect IgG ELISA
+  device: SCoV-2 Detect IgG ELISA
   entity: InBios International, Inc.
   last_update: 2020-06-10
   links:
@@ -5165,8 +5439,9 @@
   settings:
   - H
   technology: IgG, ELISA
+  type: diagnostic
 - approval_date: 2020-06-15
-  diagnostic: SARS-CoV-2 RBD IgG test
+  device: SARS-CoV-2 RBD IgG test
   entity: Emory Medical Laboratories
   last_update: 2020-06-15
   links:
@@ -5185,8 +5460,9 @@
   settings:
   - H
   technology: IgG, ELISA
+  type: diagnostic
 - approval_date: 2020-06-18
-  diagnostic: Biohit SARS-CoV-2 IgM/IgG Antibody Test Kit
+  device: Biohit SARS-CoV-2 IgM/IgG Antibody Test Kit
   entity: Biohit Healthcare (Hefei) Co. Ltd.
   last_update: 2020-08-03
   links:
@@ -5211,9 +5487,10 @@
   - H
   - M
   technology: IgM and IgG Lateral Flow
+  type: diagnostic
 - approval_date: 2020-06-19
-  diagnostic: LYHER Novel Coronavirus (2019-nCoV) IgM/IgG Antibody Combo Test Kit
-    (Colloidal Gold)
+  device: LYHER Novel Coronavirus (2019-nCoV) IgM/IgG Antibody Combo Test Kit (Colloidal
+    Gold)
   entity: Hangzhou Laihe Biotech Co., Ltd.
   last_update: 2020-08-12
   links:
@@ -5240,8 +5517,9 @@
   - H
   - M
   technology: IgM and IgG Lateral Flow
+  type: diagnostic
 - approval_date: 2020-06-23
-  diagnostic: Babson Diagnostics aC19G1
+  device: Babson Diagnostics aC19G1
   entity: Babson Diagnostics, Inc.
   last_update: 2020-06-23
   links:
@@ -5260,8 +5538,9 @@
   settings:
   - H
   technology: IgG, CLIA
+  type: diagnostic
 - approval_date: 2020-06-26
-  diagnostic: Access SARS-CoV-2 IgG
+  device: Access SARS-CoV-2 IgG
   entity: Beckman Coulter, Inc.
   last_update: 2020-06-26
   links:
@@ -5281,8 +5560,9 @@
   - H
   - M
   technology: IgG, CLIA
+  type: diagnostic
 - approval_date: 2020-06-30
-  diagnostic: SCoV-2 Detect IgM ELISA
+  device: SCoV-2 Detect IgM ELISA
   entity: InBios International, Inc.
   last_update: 2020-06-30
   links:
@@ -5300,8 +5580,9 @@
   settings:
   - H
   technology: IgM, ELISA
+  type: diagnostic
 - approval_date: 2020-07-06
-  diagnostic: Assure COVID-19 IgG/IgM Rapid Test Device
+  device: Assure COVID-19 IgG/IgM Rapid Test Device
   entity: Assure Tech. (Hangzhou Co., Ltd)
   last_update: 2020-09-23
   links:
@@ -5321,8 +5602,9 @@
   - M
   - W
   technology: IgM and IgG, Lateral Flow
+  type: diagnostic
 - approval_date: 2020-07-08
-  diagnostic: Diazyme DZ-Lite SARS-CoV-2 IgG CLIA Kit
+  device: Diazyme DZ-Lite SARS-CoV-2 IgG CLIA Kit
   entity: Diazyme Laboratories, Inc.
   last_update: 2020-07-08
   links:
@@ -5342,8 +5624,9 @@
   - H
   - M
   technology: IgG, CLIA
+  type: diagnostic
 - approval_date: 2020-07-10
-  diagnostic: WANTAI SARS-CoV-2 Ab Rapid Test
+  device: WANTAI SARS-CoV-2 Ab Rapid Test
   entity: Beijing Wantai Biological Pharmacy Enterprise Co., Ltd.
   last_update: 2020-07-10
   links:
@@ -5363,8 +5646,9 @@
   - H
   - M
   technology: Total Antibody, Lateral Flow
+  type: diagnostic
 - approval_date: 2020-07-13
-  diagnostic: Sienna-Clarity COVIBLOCK COVID-19 IgG/IgM Rapid Test Cassette
+  device: Sienna-Clarity COVIBLOCK COVID-19 IgG/IgM Rapid Test Cassette
   entity: Salofa Oy
   last_update: 2020-07-13
   links:
@@ -5387,8 +5671,9 @@
   - H
   - M
   technology: IgM and IgG, Lateral Flow
+  type: diagnostic
 - approval_date: 2020-07-16
-  diagnostic: xMAP SARS-CoV-2 Multi-Antigen IgG Assay
+  device: xMAP SARS-CoV-2 Multi-Antigen IgG Assay
   entity: Luminex Corporation
   last_update: 2020-07-16
   links:
@@ -5407,8 +5692,9 @@
   settings:
   - H
   technology: IgG, FMIA
+  type: diagnostic
 - approval_date: 2020-07-17
-  diagnostic: Rapid COVID-19 IgM/IgG Combo Test Kit
+  device: Rapid COVID-19 IgM/IgG Combo Test Kit
   entity: Megna Health, Inc.
   last_update: 2020-07-17
   links:
@@ -5428,8 +5714,9 @@
   - H
   - M
   technology: IgM and IgG, Lateral Flow
+  type: diagnostic
 - approval_date: 2020-07-24
-  diagnostic: BIOTIME SARS-CoV-2 IgG/IgM Rapid Qualitative Test
+  device: BIOTIME SARS-CoV-2 IgG/IgM Rapid Qualitative Test
   entity: Xiamen Biotime Biotechnology Co., Ltd.
   last_update: 2020-07-24
   links:
@@ -5450,8 +5737,9 @@
   - H
   - M
   technology: IgM and IgG, Lateral Flow
+  type: diagnostic
 - approval_date: 2020-07-24
-  diagnostic: CareStart COVID-19 IgM/IgG
+  device: CareStart COVID-19 IgM/IgG
   entity: Access Bio, Inc.
   last_update: 2020-07-24
   links:
@@ -5471,8 +5759,9 @@
   - H
   - M
   technology: IgM and IgG, Lateral Flow
+  type: diagnostic
 - approval_date: 2020-07-31
-  diagnostic: Atellica IM SARS-CoV-2 IgG (COV2G)
+  device: Atellica IM SARS-CoV-2 IgG (COV2G)
   entity: Siemens Healthcare Diagnostics Inc.
   last_update: 2020-07-31
   links:
@@ -5492,8 +5781,9 @@
   - H
   - M
   technology: IgG, Semi-quantitative
+  type: diagnostic
 - approval_date: 2020-07-31
-  diagnostic: ADVIA Centaur SARS-CoV-2 IgG (COV2G)
+  device: ADVIA Centaur SARS-CoV-2 IgG (COV2G)
   entity: Siemens Healthcare Diagnostics Inc.
   last_update: 2020-07-31
   links:
@@ -5513,8 +5803,9 @@
   - H
   - M
   technology: IgG, Semi-quantitative
+  type: diagnostic
 - approval_date: 2020-08-05
-  diagnostic: WANTAI SARS-CoV-2 Ab ELISA
+  device: WANTAI SARS-CoV-2 Ab ELISA
   entity: Beijing Wantai Biological Pharmacy Enterprise Co., Ltd.
   last_update: 2020-08-05
   links:
@@ -5533,8 +5824,9 @@
   settings:
   - H
   technology: Total Antibody, ELISA
+  type: diagnostic
 - approval_date: 2020-08-06
-  diagnostic: VIDAS SARS-CoV-2 IgM
+  device: VIDAS SARS-CoV-2 IgM
   entity: "bioM\xE9rieux SA"
   last_update: 2020-08-06
   links:
@@ -5554,8 +5846,9 @@
   - H
   - M
   technology: IgM, ELFA
+  type: diagnostic
 - approval_date: 2020-08-06
-  diagnostic: VIDAS SARS-CoV-2 IgG
+  device: VIDAS SARS-CoV-2 IgG
   entity: "bioM\xE9rieux SA"
   last_update: 2020-08-06
   links:
@@ -5575,8 +5868,9 @@
   - H
   - M
   technology: IgG, ELFA
+  type: diagnostic
 - approval_date: 2020-08-17
-  diagnostic: BioCheck SARS-CoV-2 IgG and IgM Combo Test
+  device: BioCheck SARS-CoV-2 IgG and IgM Combo Test
   entity: BioCheck, Inc.
   last_update: 2020-08-17
   links:
@@ -5597,8 +5891,9 @@
   - H
   - M
   technology: IgM and IgG, CLIA
+  type: diagnostic
 - approval_date: 2020-08-17
-  diagnostic: Diazyme DZ-Lite SARS-CoV-2 IgM CLIA Kit
+  device: Diazyme DZ-Lite SARS-CoV-2 IgM CLIA Kit
   entity: Diazyme Laboratories, Inc.
   last_update: 2020-08-17
   links:
@@ -5618,8 +5913,9 @@
   - H
   - M
   technology: IgM, CLIA
+  type: diagnostic
 - approval_date: 2020-08-25
-  diagnostic: Tell Me Fast Novel Coronavirus (COVID-19) IgG/IgM Antibody Test - Letter
+  device: Tell Me Fast Novel Coronavirus (COVID-19) IgG/IgM Antibody Test - Letter
     of Authorization
   entity: Biocan Diagnostics Inc.
   last_update: 2020-08-25
@@ -5642,8 +5938,9 @@
   - H
   - M
   technology: IgM and IgG, Lateral Flow
+  type: diagnostic
 - approval_date: 2020-08-31
-  diagnostic: TBG SARS-CoV-2 IgG / IgM Rapid Test Kit
+  device: TBG SARS-CoV-2 IgG / IgM Rapid Test Kit
   entity: TBG Biotechnology Corp.
   last_update: 2020-08-31
   links:
@@ -5662,8 +5959,9 @@
   - H
   - M
   technology: IgM and IgG, Lateral Flow
+  type: diagnostic
 - approval_date: 2020-08-31
-  diagnostic: COVID-19 ELISA pan-Ig Antibody Test
+  device: COVID-19 ELISA pan-Ig Antibody Test
   entity: University of Arizona Genetics Core for Clinical Services
   last_update: 2020-08-31
   links:
@@ -5683,8 +5981,9 @@
   settings:
   - H
   technology: Total Antibody, ELISA
+  type: diagnostic
 - approval_date: 2020-09-03
-  diagnostic: SGTi-flex COVID-19 IgG
+  device: SGTi-flex COVID-19 IgG
   entity: Sugentech, Inc.
   last_update: 2020-09-03
   links:
@@ -5704,8 +6003,9 @@
   - H
   - M
   technology: IgG, Lateral Flow
+  type: diagnostic
 - approval_date: 2020-09-09
-  diagnostic: BioCheck SARS-CoV-2 IgM Antibody Test Kit
+  device: BioCheck SARS-CoV-2 IgM Antibody Test Kit
   entity: BioCheck, Inc.
   last_update: 2020-09-09
   links:
@@ -5725,8 +6025,9 @@
   - H
   - M
   technology: IgM, CLIA
+  type: diagnostic
 - approval_date: 2020-09-09
-  diagnostic: BioCheck SARS-CoV-2 IgG Antibody Test Kit
+  device: BioCheck SARS-CoV-2 IgG Antibody Test Kit
   entity: BioCheck, Inc.
   last_update: 2020-09-09
   links:
@@ -5746,8 +6047,9 @@
   - H
   - M
   technology: IgG, CLIA
+  type: diagnostic
 - approval_date: 2020-09-14
-  diagnostic: MAGLUMI 2019-nCoV IgM/IgG
+  device: MAGLUMI 2019-nCoV IgM/IgG
   entity: Shenzhen New Industries Biomedical Engineering Co., Ltd.
   last_update: 2020-09-14
   links:
@@ -5767,8 +6069,9 @@
   - H
   - M
   technology: IgM and IgG, CLIA
+  type: diagnostic
 - approval_date: 2020-09-23
-  diagnostic: Orawell IgM/IgG Rapid Test
+  device: Orawell IgM/IgG Rapid Test
   entity: Jiangsu Well Biotech Co., Ltd.
   last_update: 2020-09-23
   links:
@@ -5788,8 +6091,9 @@
   - H
   - M
   technology: IgM and IgG, Lateral Flow
+  type: diagnostic
 - approval_date: 2020-09-25
-  diagnostic: MosaiQ COVID-19 Antibody Magazine
+  device: MosaiQ COVID-19 Antibody Magazine
   entity: Quotient Suisse SA
   last_update: 2020-09-25
   links:
@@ -5807,8 +6111,9 @@
   settings:
   - H
   technology: Total Antibody, photometric immunoassay
+  type: diagnostic
 - approval_date: 2020-09-29
-  diagnostic: DiaSorin LIAISON SARS-CoV-2 IgM Assay
+  device: DiaSorin LIAISON SARS-CoV-2 IgM Assay
   entity: DiaSorin, Inc.
   last_update: 2020-09-29
   links:
@@ -5828,8 +6133,9 @@
   - H
   - M
   technology: IgM, Indirect CLIA
+  type: diagnostic
 - approval_date: 2020-09-29
-  diagnostic: FREND COVID-19 total Ab
+  device: FREND COVID-19 total Ab
   entity: NanoEntek America, Inc.
   last_update: 2020-09-29
   links:
@@ -5849,8 +6155,9 @@
   - H
   - M
   technology: Total Antibody, FIA
+  type: diagnostic
 - approval_date: 2020-09-29
-  diagnostic: Nirmidas COVID-19 (SARS-CoV-2) IgM/IgG Antibody Detection Kit
+  device: Nirmidas COVID-19 (SARS-CoV-2) IgM/IgG Antibody Detection Kit
   entity: Nirmidas Biotech, Inc.
   last_update: 2020-09-29
   links:
@@ -5874,8 +6181,9 @@
   - H
   - M
   technology: IgM and IgG, Lateral Flow
+  type: diagnostic
 - approval_date: 2020-06-02
-  diagnostic: Elecsys IL-6
+  device: Elecsys IL-6
   entity: Roche Diagnostics
   last_update: 2020-06-02
   links:
@@ -5894,3 +6202,26 @@
   - H
   - M
   technology: Immunoassay-IL-6
+  type: diagnostic
+- approval_date: 2020-10-01
+  device: Access IL-6
+  entity: Beckman Coulter, Inc.
+  last_update: 2020-10-01
+  links:
+  - href: https://www.fda.gov/media/142597/download
+    title: Access IL-6 - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/142598/download
+    title: Access IL-6 - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/142599/download
+    title: Access IL-6 - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/142600/download
+    title: Access IL-6 - IFU
+  method: management
+  settings:
+  - H
+  - M
+  technology: One-step immunoenzymatic ("sandwich") assay, IL-6
+  type: diagnostic
