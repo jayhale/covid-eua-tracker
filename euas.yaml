@@ -6225,3 +6225,27 @@
   - M
   technology: One-step immunoenzymatic ("sandwich") assay, IL-6
   type: diagnostic
+- approval_date: 2020-10-02
+  device: BioFire Respiratory Panel 2.1-EZ (RP2.1-EZ)
+  entity: BioFire Diagnostics, LLC
+  last_update: 2020-10-02
+  links:
+    - href: https://www.fda.gov/media/142693/download
+      title: BioFire Respiratory Panel 2.1-EZ (RP2.1-EZ) - Letter of Authorization
+      type: letter of authorization
+    - href: https://www.fda.gov/media/142694/download
+      title: BioFire Respiratory Panel 2.1-EZ (RP2.1-EZ) - Fact Sheet for Healthcare Providers
+      type: fact sheet for healthcare providers
+    - href: https://www.fda.gov/media/142695/download
+      title: BioFire Respiratory Panel 2.1-EZ (RP2.1-EZ) - Fact Sheet for Patients
+      type: fact sheet for patients
+    - href: https://www.fda.gov/media/142696/download
+      title: title="BioFire Respiratory Panel 2.1-EZ (RP2.1-EZ) - Instructions for Use"
+      type: instructions for use
+  method: molecular
+  technology: RT, Nested multiplex PCR, Multi-analyte
+  settings:
+    - H
+    - M
+    - W
+  type: diagnostic
