@@ -786,7 +786,7 @@
   - M
   technology: Real-time RT-PCR
   type: diagnostic
-- approval_date: 2019-10-01
+- approval_date: 2020-04-03
   device: Logix Smart Coronavirus Disease 2019 (COVID-19) Kit
   entity: Co-Diagnostics, Inc.
   last_update: 2020-04-03
@@ -3060,7 +3060,7 @@
   - H
   technology: Real-time RT-PCR
   type: diagnostic
-- approval_date: 2019-10-01
+- approval_date: 2020-07-27
   device: SNL-NM 2019 nCoV Real-Time RT-PCR Diagnostic Assay
   entity: Sandia National Laboratories
   last_update: 2020-07-27
@@ -4382,7 +4382,7 @@
   settings:
   - H
   type: diagnostic
-- approval_date: 2019-10-01
+- approval_date: 2020-04-10
   device: Orig3n 2019 Novel Coronavirus (COVID-19) Test
   entity: Orig3n, Inc.
   last_update: 2020-04-10
