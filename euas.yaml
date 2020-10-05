@@ -3643,7 +3643,7 @@
 - approval_date: 2020-08-26
   device: Cuur Diagnostics SARS-CoV-2 Molecular Assay
   entity: Cuur Diagnostics
-  last_update: 2020-08-26
+  last_update: 2020-10-02
   links:
   - href: https://www.fda.gov/media/141624/download
     title: Cuur Diagnostics SARS-CoV-2 Molecular Assay - Letter of Authorization
@@ -3662,6 +3662,8 @@
   settings:
   - H
   technology: Real-time RT-PCR
+  technologies:
+    - Real-time RT-PCR
   type: diagnostic
 - approval_date: 2020-08-28
   device: PCL SARS-CoV-2 Real-Time RT-PCR Assay
