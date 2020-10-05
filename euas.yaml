@@ -6302,3 +6302,27 @@
     - href: https://www.fda.gov/media/142704/download
       title: Sofia 2 Flu + SARS Antigen FIA - Instructions for Use
       type: instructions for use
+- approval_date: 2020-10-01
+  last_update: 2020-10-01
+  device: UMass Molecular Virology Laboratory 2019-nCoV rRT-PCR Dx Panel
+  entity: UMass Memorial Medical Center
+  technology: Real-time RT-PCR
+  technologies:
+    - Real-time RT-PCR
+  settings:
+    - H
+  method: molecular
+  type: diagnostic
+  links:
+    - href: https://www.fda.gov/media/142689/download
+      title: UMass Molecular Virology Laboratory 2019-nCoV rRT-PCR Dx Panel - Letter of Authorization
+      type: letter of authorization
+    - href: https://www.fda.gov/media/142690/download
+      title: UMass Molecular Virology Laboratory 2019-nCoV rRT-PCR Dx Panel - Fact Sheet for Healthcare Providers
+      type: fact sheet for healthcare providers
+    - href: https://www.fda.gov/media/142691/download
+      title: UMass Molecular Virology Laboratory 2019-nCoV rRT-PCR Dx Panel - Fact Sheet for Patients
+      type: fact sheet for patients
+    - href: https://www.fda.gov/media/142692/download
+      title: UMass Molecular Virology Laboratory 2019-nCoV rRT-PCR Dx Panel - EUA Summary
+      type: eua summary
