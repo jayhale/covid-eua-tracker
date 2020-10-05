@@ -3798,7 +3798,7 @@
 - approval_date: 2020-09-01
   device: MobileDetect Bio BCC19 (MD-Bio BCC19) Test Kit
   entity: Detectachem Inc.
-  last_update: 2020-09-01
+  last_update: 2020-10-02
   links:
   - href: https://www.fda.gov/media/141788/download
     title: MobileDetect Bio BCC19 (MD-Bio BCC19) Test Kit - Letter of Authorization
@@ -3816,7 +3816,10 @@
   method: molecular
   settings:
   - H
+  - M
   technology: RT-LAMP
+  technologies:
+    - RT-LAMP
   type: diagnostic
 - approval_date: 2020-09-01
   device: Kaira 2019-nCoV Detection Kit
