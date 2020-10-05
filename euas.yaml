@@ -6253,3 +6253,26 @@
     - M
     - W
   type: diagnostic
+- approval_date: 2020-10-02
+  last_update: 2020-10-02
+  device: OmniPATH COVID-19 Total Antibody ELISA Test
+  entity: Thermo Fisher Scientific
+  method: antibody
+  type: diagnostic
+  settings:
+    - H
+    - M
+  technology: Total Antibody, ELISA
+  links:
+    - href: https://www.fda.gov/media/142697/download
+      title: OmniPATH COVID-19 Total Antibody ELISA Test - Letter of Authorization
+      type: letter of authorization
+    - href: https://www.fda.gov/media/142698/download
+      title: OmniPATH COVID-19 Total Antibody ELISA Test - Fact Sheet for Healthcare Providers
+      type: fact sheet for healthcare providers
+    - href: https://www.fda.gov/media/142699/download
+      title: OmniPATH COVID-19 Total Antibody ELISA Test - Fact Sheet for Recipients
+      type: fact sheet for patients
+    - href: https://www.fda.gov/media/142700/download
+      title: OmniPATH COVID-19 Total Antibody ELISA Test - Instructions for Use
+      type: instructions for use
