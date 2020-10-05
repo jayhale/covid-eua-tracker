@@ -895,7 +895,7 @@
 - approval_date: 2020-04-07
   device: Smart Detect SARS-CoV-2 rRT-PCR Kit
   entity: InBios International, Inc
-  last_update: 2020-08-24
+  last_update: 2020-10-02
   links:
   - href: https://www.fda.gov/media/136787/download
     title: Smart Detect SARS-CoV-2 rRT-PCR Kit - Letter of Authorization
@@ -911,19 +911,18 @@
     type: instructions for use
   - href: https://www.fda.gov/media/138598/download
     title: Inbios Smart Letter Granting EUA Amendment
-    type: letter of authorization
   - href: https://www.fda.gov/media/141022/download
     title: InBios International, Inc. Smart Detect SARS-CoV-2 rRT-PCR Kit - Letter
       Granting EUA Amendment(s) (August 10, 2020)
-    type: letter of authorization
   - href: https://www.fda.gov/media/141504/download
     title: Smart Detect SARS-CoV-2 rRT-PCR Kit - Letter Granting EUA Revision(s) (August
       24, 2020)
-    type: letter of authorization
   method: molecular
   settings:
   - H
   technology: Real-time RT-PCR
+  technologies:
+    - Real-time RT-PCR
   type: diagnostic
 - approval_date: 2020-04-08
   device: QuantiVirus SARS-CoV-2 Test kit
