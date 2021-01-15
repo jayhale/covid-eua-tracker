@@ -26,11 +26,11 @@ diagnostic,QIAGEN GmbH,QIAstat-Dx Respiratory SARS-CoV-2 Panel,2020-03-30,2020-0
 diagnostic,"NeuMoDx Molecular, Inc.",NeuMoDx SARS-CoV-2 Assay,2020-03-30,2020-04-23,molecular,RT-PCR,True,True,False
 diagnostic,"Ipsum Diagnostics, LLC",COV-19 IDx assay,2020-04-01,2020-04-01,molecular,Real-time RT-PCR,True,False,False
 diagnostic,"Becton, Dickinson & Company (BD)",BioGX SARS-CoV-2 Reagents for BD MAX System,2020-04-02,2020-09-22,molecular,Real-time RT-PCR,True,True,False
-diagnostic,"Co-Diagnostics, Inc.",Logix Smart Coronavirus Disease 2019 (COVID-19) Kit,2019-10-01,2020-04-03,molecular,"RT-PCR, CoPrimer technology",True,False,False
+diagnostic,"Co-Diagnostics, Inc.",Logix Smart Coronavirus Disease 2019 (COVID-19) Kit,2020-04-03,2020-04-03,molecular,"RT-PCR, CoPrimer technology",True,False,False
 diagnostic,ScienCell Research Laboratories,ScienCell SARS-CoV-2 Coronavirus Real-time RT-PCR (RT-qPCR) Detection Kit,2020-04-03,2020-09-22,molecular,Real-time RT-PCR,True,False,False
 diagnostic,Luminex Corporation,ARIES SARS-CoV-2 Assay,2020-04-03,2020-05-11,molecular,RT-PCR,True,True,False
 diagnostic,Gnomegen LLC,Gnomegen COVID-19 RT-Digital PCR Detection Kit,2020-04-06,2020-04-28,molecular,Real-time RT-digital PCR,True,False,False
-diagnostic,"InBios International, Inc",Smart Detect SARS-CoV-2 rRT-PCR Kit,2020-04-07,2020-08-24,molecular,Real-time RT-PCR,True,False,False
+diagnostic,"InBios International, Inc",Smart Detect SARS-CoV-2 rRT-PCR Kit,2020-04-07,2020-10-02,molecular,Real-time RT-PCR,True,False,False
 diagnostic,"DiaCarta, Inc",QuantiVirus SARS-CoV-2 Test kit,2020-04-08,2020-04-08,molecular,Real-time RT-PCR,True,False,False
 diagnostic,"Becton, Dickinson & Company",BD SARS-CoV-2Reagents for BD MAX System,2020-04-08,2020-09-23,molecular,Real-time RT-PCR,True,True,False
 diagnostic,"Atila BioSystems, Inc.",iAMP COVID-19 Detection Kit,2020-04-10,2020-07-18,molecular,"RT, Isothermal amplification",True,False,False
@@ -120,11 +120,11 @@ diagnostic,Helix OpCo LLC (dba Helix),Helix COVID-19 Test,2020-07-23,2020-07-23,
 diagnostic,"Jiangsu CoWin Biotech Co., Ltd.",Novel Coronavirus (SARS-CoV-2) Fast Nucleic Acid Detection Kit (PCR-Fluorescence Probing),2020-07-24,2020-07-24,molecular,Real-time RT-PCR,True,False,False
 diagnostic,"Color Genomics, Inc.",Color Genomics SARS-CoV-2 RT-LAMP Diagnostic Assay,2020-05-18,2020-09-22,molecular,"RT, LAMP, Home Collection",True,False,False
 diagnostic,Eli Lilly and Company,Lilly SARS-CoV-2 Assay,2020-07-27,2020-09-21,molecular,Real-time RT-PCR,True,False,False
-diagnostic,Sandia National Laboratories,SNL-NM 2019 nCoV Real-Time RT-PCR Diagnostic Assay,2019-10-01,2020-07-27,molecular,Real-time RT-PCR,True,False,False
+diagnostic,Sandia National Laboratories,SNL-NM 2019 nCoV Real-Time RT-PCR Diagnostic Assay,2020-07-27,2020-07-27,molecular,Real-time RT-PCR,True,False,False
 diagnostic,"Clinical Reference Laboratory, Inc.",CRL Rapid Response,2020-07-30,2020-07-30,molecular,"Real-time RT-PCR, Home Collection, Saliva",True,False,False
 diagnostic,"Xiamen Zeesan Biotech Co., Ltd.",SARS-CoV-2 Test Kit (Real-time PCR),2020-07-31,2020-07-31,molecular,Real-time RT-PCR,True,False,False
 diagnostic,University of California San Diego Health,UCSD RC SARS-CoV-2 Assay,2020-07-31,2020-07-31,molecular,"Real-time RT-PCR, Pooling",True,False,False
-diagnostic,Wren Laboratories LLC,Wren Laboratories COVID-19 PCR Test,2020-08-03,2020-08-03,molecular,Real-time RT-PCR,True,False,False
+diagnostic,Wren Laboratories LLC,Wren Laboratories COVID-19 PCR Test,2020-08-03,2020-10-20,molecular,"Real-time RT-PCR, Home Collection, Saliva",True,False,False
 diagnostic,Ethos Laboratories,Ethos Laboratories SARS-CoV-2 MALDI-TOF Assay,2020-08-03,2020-09-21,molecular,RT-PCR and MALDI-TOF Mass Spec.,True,False,False
 diagnostic,Cleveland Clinic Robert J. Tomsich Pathology and Laboratory Medicine Institute,Cleveland Clinic SARS-CoV-2 Assay,2020-08-03,2020-08-03,molecular,Real-time RT-PCR,True,False,False
 diagnostic,Poplar Healthcare,Poplar SARS-CoV-2 TMA Pooling assay,2020-08-03,2020-08-03,molecular,"TMA, chemiluminescent, Pooling",True,False,False
@@ -133,42 +133,42 @@ diagnostic,"ISPM Labs, LLC dba Capstone Healthcare",Genus SARS-CoV-2 Assay,2020-
 diagnostic,Helix OpCo LLC (dba Helix),Helix COVID-19 NGS Test,2020-08-06,2020-08-06,molecular,Sequencing,True,False,False
 diagnostic,Vela Operations Singapore Pte Ltd,ViroKey SARS-CoV-2 RT-PCR Test,2020-08-05,2020-08-05,molecular,Real-time RT-PCR,True,False,False
 diagnostic,George Washington University Public Health Laboratory,GWU SARS-CoV-2 RT-PCR Test,2020-08-07,2020-08-07,molecular,Real-time RT-PCR,True,False,False
-diagnostic,Solaris Diagnostics,Solaris Multiplex SARS-CoV-2 Assay,2020-08-10,2020-08-10,molecular,Real-time RT-PCR,True,False,False
+diagnostic,Solaris Diagnostics,Solaris Multiplex SARS-CoV-2 Assay,2020-08-10,2020-12-28,molecular,Real-time RT-PCR,True,False,False
 diagnostic,Alpha Genomix Laboratories,Alpha Genomix TaqPath SARS-CoV-2 Combo Assay,2020-08-10,2020-08-10,molecular,Real-time RT-PCR,True,False,False
-diagnostic,"Biomeme, Inc.",Biomeme SARS-CoV-2 Real-Time RT-PCR Test,2020-08-11,2020-08-11,molecular,Real-time RT-PCR,True,False,False
+diagnostic,"Biomeme, Inc.",Biomeme SARS-CoV-2 Real-Time RT-PCR Test,2020-08-11,2020-12-30,molecular,Real-time RT-PCR,True,False,False
 diagnostic,LumiraDx UK Ltd.,LumiraDx SARS-CoV-2 RNA STAR,2020-08-11,2020-08-11,molecular,"RT, non-isothermal nucleic acid amplification qSTAR",True,False,False
 diagnostic,Pro-Lab Diagnostics,Pro-AmpRT SARS-CoV-2 Test,2020-08-13,2020-08-13,molecular,"RT, Isothermal amplification",True,False,False
-diagnostic,"Yale School of Public Health, Department of Epidemiology of Microbial Diseases",SalivaDirect,2020-08-15,2020-08-28,molecular,"Real-time RT-PCR, Saliva",True,False,False
+diagnostic,"Yale School of Public Health, Department of Epidemiology of Microbial Diseases",SalivaDirect,2020-08-15,2020-12-16,molecular,"Real-time RT-PCR, Saliva",True,False,False
 diagnostic,"ZhuHai Sinochips Bioscience Co., Ltd.",COVID-19 Nucleic Acid RT-PCR Test Kit,2020-08-17,2020-08-17,molecular,Real-time RT-PCR,True,False,False
-diagnostic,"Guardant Health, Inc.",Guardant-19,2020-08-21,2020-08-21,molecular,Sequencing,True,False,False
-diagnostic,"DxTerity Diagnostics, Inc.",DxTerity SARS-CoV-2 RT-PCR Test,2020-08-21,2020-08-21,molecular,"Real-time RT-PCR, Saliva",True,False,False
-diagnostic,"Texas Department of State Health Services, Laboratory Services Section",Texas Department of State Health Services (DSHS) SARS-CoV-2 Assay,2020-08-21,2020-08-21,molecular,Real-time RT-PCR,True,False,False
-diagnostic,Fluidigm Corporation,Advanta Dx SARS-CoV-2 RT-PCR Assay,2020-08-25,2020-09-21,molecular,"Real-time RT-PCR, Saliva",True,False,False
+diagnostic,"Guardant Health, Inc.",Guardant-19,2020-08-21,2020-12-28,molecular,Sequencing,True,False,False
+diagnostic,"DxTerity Diagnostics, Inc.",DxTerity SARS-CoV-2 RT-PCR Test,2020-08-21,2020-12-09,molecular,"Real-time RT-PCR, Saliva",True,False,False
+diagnostic,"Texas Department of State Health Services, Laboratory Services Section",Texas Department of State Health Services (DSHS) SARS-CoV-2 Assay,2020-08-21,2020-12-28,molecular,Real-time RT-PCR,True,False,False
+diagnostic,Fluidigm Corporation,Advanta Dx SARS-CoV-2 RT-PCR Assay,2020-08-25,2021-01-08,molecular,"Real-time RT-PCR, Saliva",True,False,False
 diagnostic,QDx Pathology Services,QDX SARS-CoV-2 Assay,2020-08-25,2020-08-25,molecular,"Real-time RT-PCR, Home Collection",True,False,False
-diagnostic,Cuur Diagnostics,Cuur Diagnostics SARS-CoV-2 Molecular Assay,2020-08-26,2020-08-26,molecular,Real-time RT-PCR,True,False,False
+diagnostic,Cuur Diagnostics,Cuur Diagnostics SARS-CoV-2 Molecular Assay,2020-08-26,2020-10-02,molecular,Real-time RT-PCR,True,False,False
 diagnostic,"Patients Choice Laboratories, LLC",PCL SARS-CoV-2 Real-Time RT-PCR Assay,2020-08-28,2020-09-21,molecular,Real-time RT-PCR,True,False,False
 diagnostic,"DxTerity Diagnostics, Inc.",DxTerity SARS-CoV-2 RT PCR CE Test,2020-08-28,2020-08-28,molecular,"Real-time RT-PCR, Home Collection, Screening, Saliva",True,False,False
-diagnostic,"T2 Biosystems, Inc.",T2SARS-CoV-2 Panel,2020-08-31,2020-08-31,molecular,"RT, amplification, T2 Magnetic resonance",True,False,False
+diagnostic,"T2 Biosystems, Inc.",T2SARS-CoV-2 Panel,2020-08-31,2020-12-28,molecular,"RT, amplification, T2 Magnetic resonance",True,True,False
 diagnostic,MiraDx,MiraDx SARS-CoV-2 RT-PCR assay,2020-08-31,2020-08-31,molecular,Real-time RT-PCR,True,False,False
 diagnostic,"Mammoth Biosciences, Inc.",SARS-CoV-2 DETECTR Reagent Kit,2020-08-31,2020-08-31,molecular,"RT-LAMP, CRISPR",True,False,False
 diagnostic,"BayCare Laboratories, LLC",BayCare SARS-CoV-2 RT PCR Assay,2020-08-31,2020-08-31,molecular,"Real-time RT-PCR, Pooling",True,False,False
-diagnostic,Detectachem Inc.,MobileDetect Bio BCC19 (MD-Bio BCC19) Test Kit,2020-09-01,2020-09-01,molecular,RT-LAMP,True,False,False
-diagnostic,"OPTOLANE Technologies, Inc.",Kaira 2019-nCoV Detection Kit,2020-09-01,2020-09-01,molecular,Real-time RT-PCR,True,False,False
+diagnostic,Detectachem Inc.,MobileDetect Bio BCC19 (MD-Bio BCC19) Test Kit,2020-09-01,2020-10-06,molecular,RT-LAMP,True,True,False
+diagnostic,"OPTOLANE Technologies, Inc.",Kaira 2019-nCoV Detection Kit,2020-09-01,2020-12-28,molecular,Real-time RT-PCR,True,False,False
 diagnostic,"Color Genomics, Inc.",Color COVID-19 Self-Swab Collection Kit,2020-08-31,2020-09-15,molecular,Home Collection Kit,False,False,False
-diagnostic,Bioeksen R&D Technologies Ltd.,Bio-Speedy Direct RT-qPCR SARS-CoV-2,2020-09-02,2020-09-02,molecular,Real-time RT-PCR,True,False,False
-diagnostic,"Roche Molecular Systems, Inc.",cobas SARS-CoV-2 & Influenza A/B,2020-09-03,2020-09-03,molecular,"Real-time RT-PCR, Multi-analyte",True,True,False
+diagnostic,Bioeksen R&D Technologies Ltd.,Bio-Speedy Direct RT-qPCR SARS-CoV-2,2020-09-02,2020-12-09,molecular,Real-time RT-PCR,True,False,False
+diagnostic,"Roche Molecular Systems, Inc.",cobas SARS-CoV-2 & Influenza A/B,2020-09-03,2020-12-15,molecular,"Real-time RT-PCR, Multi-analyte",True,True,False
 diagnostic,"BillionToOne, Inc.",qSanger-COVID-19 Assay,2020-09-04,2020-09-04,molecular,Sequencing,True,False,False
-diagnostic,Verily Life Sciences,Verily COVID-19 RT-PCR Test,2020-09-08,2020-09-08,molecular,"Real-time RT-PCR, Pooling",True,False,False
-diagnostic,"Beijing Wantai Biological Pharmacy Enterprise Co., Ltd.",Wantai SARS-CoV-2 RT-PCR Kit,2020-09-09,2020-09-09,molecular,Real-time RT-PCR,True,False,False
-diagnostic,"Roche Molecular Systems, Inc.",cobas SARS-CoV-2 & Influenza A/B Nucleic Acid Test for use on the cobas Liat System,2020-09-14,2020-09-18,molecular,"Real-time RT-PCR, Multi-analyte",True,True,True
-diagnostic,"Visby Medical, Inc.",Visby Medical COVID-19,2020-09-16,2020-09-16,molecular,RT-PCR,True,True,False
+diagnostic,Verily Life Sciences,Verily COVID-19 RT-PCR Test,2020-09-08,2020-12-22,molecular,"Real-time RT-PCR, Pooling, Home Collection",True,False,False
+diagnostic,"Beijing Wantai Biological Pharmacy Enterprise Co., Ltd.",Wantai SARS-CoV-2 RT-PCR Kit,2020-09-09,2020-10-31,molecular,Real-time RT-PCR,True,False,False
+diagnostic,"Roche Molecular Systems, Inc.",cobas SARS-CoV-2 & Influenza A/B Nucleic Acid Test for use on the cobas Liat System,2020-09-14,2020-12-10,molecular,"Real-time RT-PCR, Multi-analyte",True,True,True
+diagnostic,"Visby Medical, Inc.",Visby Medical COVID-19,2020-09-16,2020-12-28,molecular,RT-PCR,True,True,False
 diagnostic,GK Pharmaceuticals Contract Manufacturing Operations,GK ACCU-RIGHT SARS-CoV-2 RT-PCR KIT,2020-09-18,2020-09-18,molecular,Real-time RT-PCR,True,False,False
 diagnostic,"KimForest Enterprise Co., Ltd.",KimForest SARS-CoV-2 Detection Kit v1,2020-09-21,2020-09-21,molecular,Real-time RT-PCR,True,False,False
 diagnostic,Quadrant Biosciences Inc.,Clarifi COVID-19 Test Kit,2020-09-22,2020-09-22,molecular,"Real-time RT-PCR, Saliva",True,False,False
 diagnostic,Vela Operations Singapore Pte. Ltd.,ViroKey SARS-CoV-2 RT-PCR Test v2.0,2020-09-22,2020-09-22,molecular,Real-time RT-PCR,True,False,False
-diagnostic,"Clear Labs, Inc.",Clear Dx SARS-CoV-2 Test,2020-09-23,2020-09-23,molecular,RT-PCR and Sequencing,True,False,False
+diagnostic,"Clear Labs, Inc.",Clear Dx SARS-CoV-2 Test,2020-09-23,2020-12-28,molecular,RT-PCR and Sequencing,True,False,False
 diagnostic,Cepheid,Xpert Xpress SARS-CoV-2/Flu/RSV,2020-09-24,2020-09-24,molecular,"Real-time RT-PCR, Multi-analyte",True,True,True
-diagnostic,"Genetrack Biolabs, Inc.",Genetrack SARS-CoV-2 Molecular Assay,2020-09-25,2020-09-25,molecular,Real-time RT-PCR,True,False,False
+diagnostic,"Genetrack Biolabs, Inc.",Genetrack SARS-CoV-2 Molecular Assay,2020-09-25,2020-10-17,molecular,"Real-time RT-PCR, Home Collection",True,False,False
 diagnostic,Aeon Global Health,Aeon Global Health SARS-CoV-2 Assay,2020-09-30,2020-09-30,molecular,Real-time RT-PCR,True,False,False
 diagnostic,"CENTOGENE US, LLC",CentoSure SARS-CoV-2 RT-PCR Assay,2020-09-29,2020-09-29,molecular,"Real-time RT-PCR, Screening",True,False,False
 diagnostic,Akron Children’s Hospital,Akron Children’s Hospital SARS-CoV-2 Assay,2020-09-29,2020-09-29,molecular,Real-time RT-PCR,True,False,False
@@ -177,12 +177,12 @@ diagnostic,"Alimetrix, Inc.",Alimetrix SARS-CoV-2 RT-PCR Assay,2020-09-30,2020-0
 diagnostic,"Tempus Labs, Inc.",iC SARS-CoV2 Test,2020-10-01,2020-10-01,molecular,Real-time RT-PCR,True,False,False
 diagnostic,"Altru Diagnostics, Inc.",Altru Dx SARS-CoV-2 RT-PCR assay,2020-04-30,2020-06-04,molecular,,True,False,False
 diagnostic,Biocerna,SARS-CoV-2 Test,2020-04-28,2020-04-28,molecular,,True,False,False
-diagnostic,Nationwide Children's Hospital,SARS-CoV-2 Assay,2020-04-27,2020-04-27,molecular,,True,False,False
+diagnostic,Nationwide Children's Hospital,SARS-CoV-2 Assay,2020-04-27,2020-12-28,molecular,,True,False,False
 diagnostic,Diatherix Eurofins Laboratory,SARS-CoV-2 PCR Test,2020-04-22,2020-09-22,molecular,,True,False,False
-diagnostic,"Orig3n, Inc.",Orig3n 2019 Novel Coronavirus (COVID-19) Test,2019-10-01,2020-04-10,molecular,,True,False,False
+diagnostic,"Orig3n, Inc.",Orig3n 2019 Novel Coronavirus (COVID-19) Test,2020-04-10,2020-04-10,molecular,,True,False,False
 diagnostic,Specialty Diagnostic (SDI) Laboratories,SDI SARS-CoV-2 Assay,2020-04-10,2020-04-10,molecular,,True,False,False
 diagnostic,Stanford Health Care Clinical Virology Laboratory,Stanford SARS-CoV-2 assay,2020-04-08,2020-04-08,molecular,,True,False,False
-diagnostic,Viracor Eurofins Clinical Diagnostics,Viracor SARS-CoV-2 assay,2020-04-06,2020-04-06,molecular,,True,False,False
+diagnostic,Viracor Eurofins Clinical Diagnostics,Viracor SARS-CoV-2 assay,2020-04-06,2020-12-28,molecular,"Real-Time RT-PCR, Home Collection, Pooling",True,False,False
 diagnostic,Massachusetts General Hospital,MGH COVID-19 qPCR assay,2020-04-03,2020-04-03,molecular,,True,False,False
 diagnostic,Diagnostic Molecular Laboratory - Northwestern Medicine,SARS-Cov-2 Assay,2020-04-02,2020-04-02,molecular,,True,False,False
 diagnostic,Infectious Disease Diagnostics Laboratory - Children's Hospital of Philadelphia,SARS-CoV-2 RT-PCR test,2020-04-02,2020-04-02,molecular,,True,False,False
@@ -200,53 +200,53 @@ diagnostic,Southwest Regional PCR Laboratory LLC. dba MicroGen DX,COVID-19 Key,2
 diagnostic,Ultimate Dx Laboratory,UDX SARS-CoV-2 Molecular Assay,2020-04-24,2020-04-24,molecular,,True,False,False
 diagnostic,AIT Laboratories,SARS-CoV-2 Assay,2020-04-24,2020-04-24,molecular,,True,False,False
 diagnostic,UTMG Pathology Laboratory,UTHSC/UCH SARS-CoV-2-RT-PCR Assay,2020-05-03,2020-07-22,molecular,,True,False,False
-diagnostic,"Biocollections Worldwide, Inc.",Biocollections Worldwide SARS-Co-V-2 Assay,2020-05-07,2020-05-07,molecular,,True,False,False
+diagnostic,"Biocollections Worldwide, Inc.",Biocollections Worldwide SARS-Co-V-2 Assay,2020-05-07,2020-12-28,molecular,,True,False,False
 diagnostic,Columbia University Laboratory of Personalized Genomic Medicine,TRIPLEX CII-SARS-CoV-2 rRT-PCR TEST,2020-05-12,2020-09-14,molecular,,True,False,False
 diagnostic,"One Health Laboratories, LLC",SARS-CoV-2 Real-Time RT-PCR-Test,2020-05-13,2020-05-13,molecular,,True,False,False
 diagnostic,"Cedars-Sinai Medical Center, Department of Pathology and Laboratory Medicine",SARS-CoV-2-Assay,2020-05-13,2020-05-13,molecular,,True,False,False
 diagnostic,Aspirus Reference Laboratory,Aspirus SARS-CoV rRT Assay,2020-06-01,2020-06-01,molecular,,True,False,False
 diagnostic,Nebraska Medicine Clinical Laboratory,NEcov19 RT-PCR Assay,2020-06-04,2020-06-04,molecular,,True,False,False
 diagnostic,CSI Laboratories,CSI SARS-CoV-2 RT PCR Test,2020-06-01,2020-06-01,molecular,,True,False,False
-diagnostic,Express Gene LLC (dba Molecular Diagnostics Laboratory),Express Gene 2019-nCoV RT-PCR Diagnostic Panel,2020-05-22,2020-05-22,molecular,,True,False,False
+diagnostic,"Express Gene LLC, DBA:  Express Gene Molecular Diagnostics Laboratory",Express Gene 2019-nCoV RT-PCR Diagnostic Panel,2020-05-22,2020-11-19,molecular,"Real-time RT-PCR, Collection Kit",True,False,False
 diagnostic,Avera Institute for Human Genetics,Avera Institute for Human Genetics SARS-CoV-2 Assay,2020-05-22,2020-05-22,molecular,,True,False,False
 diagnostic,"Warrior Diagnostics, Inc.",Warrior Diagnostics SARS-CoV-2 Assay,2020-06-10,2020-06-10,molecular,,True,False,False
 diagnostic,Cormeum Laboratory Services,Cormeum SARS-CoV-2 Assay,2020-06-12,2020-06-12,molecular,,True,False,False
 diagnostic,Quidel Corporation,Sofia SARS Antigen FIA,2020-05-08,2020-07-17,antigen,"Lateral Flow, Fluorescence, Instrument Read",True,True,True
-diagnostic,"Becton, Dickinson and Company (BD)",BD Veritor System for Rapid Detection of SARS-CoV-2,2020-07-02,2020-07-23,antigen,"Chromatographic Digital Immunoassay, Instrument Read",True,True,True
+diagnostic,"Becton, Dickinson and Company (BD)",BD Veritor System for Rapid Detection of SARS-CoV-2,2020-07-02,2021-01-13,antigen,"Chromatographic Digital Immunoassay, Instrument Read",True,True,True
 diagnostic,LumiraDx UK Ltd.,LumiraDx SARS-CoV-2 Ag Test,2020-08-18,2020-08-18,antigen,"Microfluidic Immunofluorescence Assay, Instrument Read",True,True,True
-diagnostic,"Abbott Diagnostics Scarborough, Inc.",BinaxNOW COVID-19 Ag Card,2020-08-26,2020-08-26,antigen,"Lateral Flow, Visual Read",True,True,True
-diagnostic,Abbott Laboratories Inc.,SARS-CoV-2 IgG assay,2020-04-26,2020-09-18,serological,"IgG, CMIA",True,True,False
+diagnostic,"Abbott Diagnostics Scarborough, Inc.",BinaxNOW COVID-19 Ag Card,2020-08-26,2020-12-16,antigen,"Lateral Flow, Visual Read",True,True,True
+diagnostic,Abbott Laboratories Inc.,SARS-CoV-2 IgG assay,2020-04-26,2020-12-01,serological,"IgG, CMIA",True,True,False
 diagnostic,Cellex Inc.,qSARS-CoV-2 IgG/IgM Rapid Test,2020-04-01,2020-06-12,serological,"IgM and IgG, Lateral Flow",True,True,False
-diagnostic,"Ortho Clinical Diagnostics, Inc.",VITROS Immunodiagnostic Products Anti-SARS-CoV-2 Total Reagent Pack,2020-04-14,2020-04-24,serological,"Total Antibody, CLIA",True,True,False
+diagnostic,"Ortho Clinical Diagnostics, Inc.",VITROS Immunodiagnostic Products Anti-SARS-CoV-2 Total Reagent Pack,2020-04-14,2020-10-30,serological,"Total Antibody, CLIA",True,True,False
 diagnostic,Mount Sinai Laboratory,COVID-19 ELISA IgG Antibody Test,2020-04-15,2020-04-15,serological,"IgG, ELISA",True,False,False
-diagnostic,DiaSorin Inc.,LIAISON SARS-CoV-2 S1/S2 IgG,2020-04-24,2020-07-22,serological,"IgG, CLIA",True,True,False
+diagnostic,DiaSorin Inc.,LIAISON SARS-CoV-2 S1/S2 IgG,2020-04-24,2020-10-19,serological,"IgG, CLIA",True,True,False
 diagnostic,"Ortho-Clinical Diagnostics, Inc.",VITROS Immunodiagnostic Products Anti-SARS-CoV-2 IgG Reagent Pack,2020-04-24,2020-04-24,serological,"IgG, CLIA",True,True,False
-diagnostic,"Bio-Rad Laboratories, Inc.",Platelia SARS-CoV-2 Total Ab assay,2020-04-29,2020-07-21,serological,"Total Antibody, ELISA",True,False,False
+diagnostic,"Bio-Rad Laboratories, Inc.",Platelia SARS-CoV-2 Total Ab assay,2020-04-29,2020-10-30,serological,"Total Antibody, ELISA",True,False,False
 diagnostic,"Wadsworth Center, New York State Department of Health",New York SARS-CoV Microsphere Immunoassay for Antibody Detection,2020-04-30,2020-04-30,serological,"Total Antibody, FMIA",True,False,False
-diagnostic,Roche Diagnostics,Elecsys Anti-SARS-CoV-2,2020-05-02,2020-07-21,serological,"Total Antibody, ECLIA",True,True,False
+diagnostic,Roche Diagnostics,Elecsys Anti-SARS-CoV-2,2020-05-02,2020-10-23,serological,"Total Antibody, ECLIA",True,True,False
 diagnostic,EUROIMMUN US Inc.,Anti-SARS-CoV-2 ELISA (IgG),2020-05-04,2020-05-04,serological,"IgG, ELISA",True,False,False
 diagnostic,Healgen Scientific LLC,COVID-19 IgG/IgM Rapid Test Cassette (Whole Blood/Serum/Plasma),2020-05-29,2020-05-29,serological,IgM and IgG Lateral Flow,True,True,False
 diagnostic,Siemens Healthcare Diagnostics Inc.,Atellica IM SARS-CoV-2 Total (COV2T),2020-05-29,2020-05-29,serological,"Total Antibody, CLIA",True,True,False
 diagnostic,Siemens Healthcare Diagnostics Inc.,ADVIA Centaur SARS-CoV-2 Total (COV2T),2020-05-29,2020-05-29,serological,"Total Antibody, CLIA",True,True,False
 diagnostic,Vibrant America Clinical Labs,Vibrant COVID-19 Ab Assay,2020-06-04,2020-06-04,serological,"IgM and IgG, CLIA",True,False,False
-diagnostic,"Hangzhou Biotest Biotech Co., Ltd.",RightSign COVID-19 IgG/IgM Rapid Test Cassette,2020-06-04,2020-08-31,serological,IgM and IgG Lateral Flow,True,True,False
+diagnostic,"Hangzhou Biotest Biotech Co., Ltd.",RightSign COVID-19 IgG/IgM Rapid Test Cassette,2020-06-04,2020-12-21,serological,"IgM and IgG Lateral Flow, Fingerstick Whole Blood",True,True,True
 diagnostic,Siemens Healthcare Diagnostics Inc.,Dimension Vista SARS-CoV-2 Total antibody assay (COV2T),2020-06-08,2020-08-07,serological,"Total Antibody, CLIA",True,True,False
-diagnostic,Siemens Healthcare Diagnostics Inc.,Dimension EXL SARS-CoV-2 Total antibody assay (CV2T),2020-06-08,2020-08-07,serological,"Total Antibody, CLIA",True,True,False
+diagnostic,Siemens Healthcare Diagnostics Inc.,Dimension EXL SARS-CoV-2 Total antibody assay (CV2T),2020-06-08,2020-10-30,serological,"Total Antibody, CLIA",True,True,False
 diagnostic,"InBios International, Inc.",SCoV-2 Detect IgG ELISA,2020-06-10,2020-06-10,serological,"IgG, ELISA",True,False,False
 diagnostic,Emory Medical Laboratories,SARS-CoV-2 RBD IgG test,2020-06-15,2020-06-15,serological,"IgG, ELISA",True,False,False
 diagnostic,Biohit Healthcare (Hefei) Co. Ltd.,Biohit SARS-CoV-2 IgM/IgG Antibody Test Kit,2020-06-18,2020-08-03,serological,IgM and IgG Lateral Flow,True,True,False
-diagnostic,"Hangzhou Laihe Biotech Co., Ltd.",LYHER Novel Coronavirus (2019-nCoV) IgM/IgG Antibody Combo Test Kit (Colloidal Gold),2020-06-19,2020-08-12,serological,IgM and IgG Lateral Flow,True,True,False
+diagnostic,"Hangzhou Laihe Biotech Co., Ltd.",LYHER Novel Coronavirus (2019-nCoV) IgM/IgG Antibody Combo Test Kit (Colloidal Gold),2020-06-19,2020-12-02,serological,IgM and IgG Lateral Flow,True,True,False
 diagnostic,"Babson Diagnostics, Inc.",Babson Diagnostics aC19G1,2020-06-23,2020-06-23,serological,"IgG, CLIA",True,False,False
 diagnostic,"Beckman Coulter, Inc.",Access SARS-CoV-2 IgG,2020-06-26,2020-06-26,serological,"IgG, CLIA",True,True,False
 diagnostic,"InBios International, Inc.",SCoV-2 Detect IgM ELISA,2020-06-30,2020-06-30,serological,"IgM, ELISA",True,False,False
 diagnostic,"Assure Tech. (Hangzhou Co., Ltd)",Assure COVID-19 IgG/IgM Rapid Test Device,2020-07-06,2020-09-23,serological,"IgM and IgG, Lateral Flow",True,True,True
 diagnostic,"Diazyme Laboratories, Inc.",Diazyme DZ-Lite SARS-CoV-2 IgG CLIA Kit,2020-07-08,2020-07-08,serological,"IgG, CLIA",True,True,False
 diagnostic,"Beijing Wantai Biological Pharmacy Enterprise Co., Ltd.",WANTAI SARS-CoV-2 Ab Rapid Test,2020-07-10,2020-07-10,serological,"Total Antibody, Lateral Flow",True,True,False
-diagnostic,Salofa Oy,Sienna-Clarity COVIBLOCK COVID-19 IgG/IgM Rapid Test Cassette,2020-07-13,2020-07-13,serological,"IgM and IgG, Lateral Flow",True,True,False
+diagnostic,Salofa Oy,Sienna-Clarity COVIBLOCK COVID-19 IgG/IgM Rapid Test Cassette,2020-07-13,2021-01-05,serological,"IgM and IgG, Lateral Flow, Fingerstick Whole Blood",True,True,True
 diagnostic,Luminex Corporation,xMAP SARS-CoV-2 Multi-Antigen IgG Assay,2020-07-16,2020-07-16,serological,"IgG, FMIA",True,False,False
 diagnostic,"Megna Health, Inc.",Rapid COVID-19 IgM/IgG Combo Test Kit,2020-07-17,2020-07-17,serological,"IgM and IgG, Lateral Flow",True,True,False
-diagnostic,"Xiamen Biotime Biotechnology Co., Ltd.",BIOTIME SARS-CoV-2 IgG/IgM Rapid Qualitative Test,2020-07-24,2020-07-24,serological,"IgM and IgG, Lateral Flow",True,True,False
-diagnostic,"Access Bio, Inc.",CareStart COVID-19 IgM/IgG,2020-07-24,2020-07-24,serological,"IgM and IgG, Lateral Flow",True,True,False
+diagnostic,"Xiamen Biotime Biotechnology Co., Ltd.",BIOTIME SARS-CoV-2 IgG/IgM Rapid Qualitative Test,2020-07-24,2020-11-06,serological,"IgM and IgG, Lateral Flow",True,True,False
+diagnostic,"Access Bio, Inc.",CareStart COVID-19 IgM/IgG,2020-07-24,2020-10-31,serological,"IgM and IgG, Lateral Flow",True,True,False
 diagnostic,Siemens Healthcare Diagnostics Inc.,Atellica IM SARS-CoV-2 IgG (COV2G),2020-07-31,2020-07-31,serological,"IgG, Semi-quantitative",True,True,False
 diagnostic,Siemens Healthcare Diagnostics Inc.,ADVIA Centaur SARS-CoV-2 IgG (COV2G),2020-07-31,2020-07-31,serological,"IgG, Semi-quantitative",True,True,False
 diagnostic,"Beijing Wantai Biological Pharmacy Enterprise Co., Ltd.",WANTAI SARS-CoV-2 Ab ELISA,2020-08-05,2020-08-05,serological,"Total Antibody, ELISA",True,False,False
@@ -261,10 +261,63 @@ diagnostic,"Sugentech, Inc.",SGTi-flex COVID-19 IgG,2020-09-03,2020-09-03,serolo
 diagnostic,"BioCheck, Inc.",BioCheck SARS-CoV-2 IgM Antibody Test Kit,2020-09-09,2020-09-09,serological,"IgM, CLIA",True,True,False
 diagnostic,"BioCheck, Inc.",BioCheck SARS-CoV-2 IgG Antibody Test Kit,2020-09-09,2020-09-09,serological,"IgG, CLIA",True,True,False
 diagnostic,"Shenzhen New Industries Biomedical Engineering Co., Ltd.",MAGLUMI 2019-nCoV IgM/IgG,2020-09-14,2020-09-14,serological,"IgM and IgG, CLIA",True,True,False
-diagnostic,"Jiangsu Well Biotech Co., Ltd.",Orawell IgM/IgG Rapid Test,2020-09-23,2020-09-23,serological,"IgM and IgG, Lateral Flow",True,True,False
+diagnostic,"Jiangsu Well Biotech Co., Ltd.",Orawell IgM/IgG Rapid Test,2020-09-23,2020-11-10,serological,"IgM and IgG, Lateral Flow",True,True,False
 diagnostic,Quotient Suisse SA,MosaiQ COVID-19 Antibody Magazine,2020-09-25,2020-09-25,serological,"Total Antibody, photometric immunoassay",True,False,False
 diagnostic,"DiaSorin, Inc.",DiaSorin LIAISON SARS-CoV-2 IgM Assay,2020-09-29,2020-09-29,serological,"IgM, Indirect CLIA",True,True,False
 diagnostic,"NanoEntek America, Inc.",FREND COVID-19 total Ab,2020-09-29,2020-09-29,serological,"Total Antibody, FIA",True,True,False
 diagnostic,"Nirmidas Biotech, Inc.",Nirmidas COVID-19 (SARS-CoV-2) IgM/IgG Antibody Detection Kit,2020-09-29,2020-09-29,serological,"IgM and IgG, Lateral Flow",True,True,False
 diagnostic,Roche Diagnostics,Elecsys IL-6,2020-06-02,2020-06-02,management,Immunoassay-IL-6,True,True,False
 diagnostic,"Beckman Coulter, Inc.",Access IL-6,2020-10-01,2020-10-01,management,"One-step immunoenzymatic (""sandwich"") assay, IL-6",True,True,False
+diagnostic,"BioFire Diagnostics, LLC",BioFire Respiratory Panel 2.1-EZ (RP2.1-EZ),2020-10-02,2020-12-22,molecular,"RT, Nested multiplex PCR, Multi-analyte",True,True,True
+diagnostic,Thermo Fisher Scientific,OmniPATH COVID-19 Total Antibody ELISA Test,2020-10-02,2020-10-06,serological,"Total Antibody, ELISA",True,True,False
+diagnostic,Quidel Corporation,Sofia 2 Flu + SARS Antigen FIA,2020-10-02,2020-10-02,antigen,"Lateral Flow, Fluorescence, Instrument Read, Multi-Analyte",True,True,True
+diagnostic,Siemens Healthcare Diagnostics Inc.,ADVIA Centaur IL6 assay,2020-12-18,2020-12-18,management,One-step Direct Chemiluminescent Immunoassay,True,True,False
+diagnostic,Phadia AB,EliA SARS-CoV-2-Sp1 IgG Test,2021-01-11,2021-01-11,serological,"IgG, Fluoroenzyme Immunoassay, Semi-quantitative",True,True,False
+diagnostic,"ADVAITE, Inc.",RapCov Rapid COVID-19 Test,2021-01-11,2021-01-11,serological,"IgG, Lateral Flow, Fingerstick Whole Blood",True,True,True
+diagnostic,Siemens Healthcare Diagnostics Inc.,Dimension Vista SARS‑CoV‑2 IgG (COV2G),2021-01-08,2021-01-08,serological,"IgG, CLIA, Semi-quantitative",True,True,False
+diagnostic,Siemens Healthcare Diagnostics Inc.,Dimension EXL SARS‑CoV‑2 IgG (CV2G),2021-01-08,2021-01-08,serological,"IgG, CLIA, Semi-quantitative",True,True,False
+diagnostic,"Nirmidas Biotech, Inc.",MidaSpot COVID-19 Antibody Combo Detection Kit,2020-12-31,2020-12-31,serological,"IgM and IgG, lateral flow, Fingerstick Whole Blood",True,True,True
+diagnostic,Quanterix Corporation,Simoa Semi-Quantitative SARS-CoV-2 IgG Antibody Test,2020-12-23,2020-12-23,serological,"IgG, Paramagnetic Microbead-based Sandwich ELISA, Semi-quantitative",True,True,False
+diagnostic,"ACON Laboratories, Inc.",ACON SARS-CoV-2 IgG/IgM Rapid Test,2020-12-15,2020-12-15,serological,"IgM and IgG, Lateral Flow",True,True,False
+diagnostic,"Innovita (Tangshan) Biological Technology Co., Ltd.",Innovita 2019-nCoV Ab Test (Colloidal Gold),2020-11-23,2020-11-23,serological,"IgM and IgG, Lateral Flow",True,True,False
+diagnostic,"Roche Diagnostics, Inc.",Elecsys Anti-SARS-CoV-2 S,2020-11-25,2020-11-25,serological,"Total Antibody, ECLIA, Semi-quantitative",True,True,False
+diagnostic,"ZEUS Scientific, Inc.",ZEUS ELISA SARS-CoV-2 IgG Test System,2020-10-06,2020-10-06,serological,"IgG, ELISA",True,True,False
+diagnostic,"Beckman Coulter, Inc.",Access SARS-CoV-2 IgM,2020-10-08,2020-10-08,serological,"IgM, CLIA",True,True,False
+diagnostic,"Genalyte, Inc.",Maverick SARS-CoV-2 Multi-Antigen Serology Panel v2,2020-10-08,2020-10-08,serological,"Total Antibody, photonic ring immunoassay",True,True,False
+diagnostic,Abbott Laboratories Inc.,AdviseDx SARS-CoV-2 IgM,2020-10-09,2020-10-09,serological,"IgM, CMIA",True,True,False
+diagnostic,"Quansys Biosciences, Inc.",Q-Plex SARS-CoV-2 Human IgG (4 Plex),2020-10-28,2020-10-28,serological,"IgG, CLIA",True,False,False
+diagnostic,GenScript USA Inc.,cPass SARS-CoV-2 Neutralization Antibody Detection Kit,2020-11-06,2020-11-06,serological,"Total Neutralizing Antibodies, Blocking ELISA",True,False,False
+diagnostic,"Kantaro Biosciences, LLC","COVID-SeroKlir, Kantaro Semi-Quantitative SARS-CoV-2 IgG Antibody Kit",2020-11-24,2020-11-24,serological,"IgG, ELISA, Semi-quantitative",True,False,False
+diagnostic,"Access Bio, Inc.",CareStart COVID-19 Antigen test,2020-10-08,2020-10-13,antigen,"Lateral Flow, Visual Read",True,True,True
+diagnostic,"Celltrion USA, Inc.",Sampinute COVID-19 Antigen MIA,2020-10-23,2020-10-23,antigen,Magnetic Force-assisted Electrochemical Sandwich Immunoassay (MESIA),True,True,False
+diagnostic,"Luminostics, Inc.",Clip COVID Rapid Antigen Test,2020-12-07,2020-12-07,antigen,"Lateral flow immunoluminescent assay, instrument read",True,True,True
+diagnostic,Ellume Limited,Ellume COVID-19 Home Test,2020-12-15,2020-12-23,antigen,"Lateral Flow, Fluorescence, Instrument Read, Over the Counter Home Testing",False,False,False
+diagnostic,"Abbott Diagnostics Scarborough, Inc.",BinaxNOW COVID-19 Ag Card Home Test,2020-12-16,2020-12-16,antigen,"Lateral Flow, Visual Read, Prescription Home Testing",False,False,False
+diagnostic,Quidel Corporation,QuickVue SARS Antigen Test,2020-12-18,2020-12-22,antigen,"Lateral Flow, Visual Read",True,True,True
+diagnostic,Quanterix Corporation,Simoa SARS-CoV-2 N Protein Antigen Test,2021-01-05,2021-01-05,antigen,Paramagnetic Microbead-based Immunoassay,True,True,False
+diagnostic,"Ortho Clinical Diagnostics, Inc.",VITROS Immunodiagnostic Products SARS-CoV-2 Antigen Reagent Pack,2021-01-11,2021-01-11,antigen,"Chemiluminescence Immunoassay, Instrument Read",True,True,False
+diagnostic,"RapidRona, Inc.",RapidRona Self-Collection Kit,2020-11-23,2020-11-23,molecular,Home Collection Kit,False,False,False
+diagnostic,"Gravity Diagnostics, LLC",Gravity Diagnostics SARS-CoV-2 RT-PCR Assay,2020-11-23,2020-12-28,molecular,"Real-time RT-PCR, Home Collection, Screening, Saliva",True,False,False
+diagnostic,Stanford Health Care Clinical Virology Laboratory,SARS-CoV-2 RT-PCR Assay,2020-04-08,2020-11-24,molecular,"Real-time RT-PCR, Home Collection Kit",True,False,False
+diagnostic,Cepheid,Xpert Omni SARS-CoV-2,2020-11-27,2020-12-23,molecular,Real-time RT-PCR,True,True,False
+diagnostic,"Quest Diagnostics Infectious Disease, Inc.",Quest Diagnostics RC COVID-19+Flu RT-PCR,2020-12-04,2020-12-04,molecular,"Real-time RT-PCR, Multi-analyte, Home Collection",True,False,False
+diagnostic,Laboratory Corporation of America (LabCorp),Pixel by LabCorp COVID-19 Test Home Collection Kit,2020-12-09,2020-12-09,molecular,"Direct to Consumer (DTC), Real-time RT-PCR, Home Collection, Pooling, Screening",True,False,False
+diagnostic,RCA Laboratory Services LLC dba GENETWORx,GENETWORx Covid-19 Nasal Swab Test,2020-12-15,2020-12-15,molecular,"Real-time RT-PCR, Home Collection",True,False,False
+diagnostic,"ResearchDx, Inc., DBA Pacific Diagnostics",PacificDx Covid-19,2020-12-11,2020-12-11,molecular,"TMA, chemiluminescent, Home Collection",True,False,False
+diagnostic,"Hologic, Inc.",Aptima SARS-CoV-2/Flu assay,2020-12-16,2020-12-16,molecular,"Real-time TMA, chemiluminescent, Multi-analyte",True,False,False
+diagnostic,"Materials and Machines Corporation of America (DBA MatmaCorp, Inc.)",MatMaCorp COVID-19 2SF Test,2020-12-17,2020-12-17,molecular,RT-PCR and isothermal nucleic acid amplification,True,False,False
+diagnostic,Quidel Corporation,Solana SARS-CoV-2 Assay,2020-12-23,2020-12-23,molecular,Isothermal Reverse Transcriptase – Helicase-Dependent Amplification (RT-HDA),True,True,False
+diagnostic,Cepheid,Xpert Xpress SARS-CoV-2 DoD,2020-12-23,2020-12-23,molecular,"Real-time RT-PCR, Pooling",True,True,True
+diagnostic,"SML GENETREE Co., Ltd.",Ezplex SARS-CoV-2 G Kit,2021-01-13,2021-01-13,molecular,"Real-time RT-PCR, Pooling",True,False,False
+diagnostic,"binx health, Inc.",binx health At-Home Nasal Swab COVID-19 Sample Collection Kit,2020-10-20,2020-12-04,molecular,Home Collection Kit,False,False,False
+diagnostic,"Agena Bioscience, Inc.",MassARRAY SARS-CoV-2 Panel,2020-10-26,2020-11-30,molecular,"RT-PCR, chip array and MALDI-TOF Mass Spec.",True,False,False
+diagnostic,DNA Genotek Inc.,ORAcollect∙RNA OR-100 and ORAcollect∙RNA ORE-100 saliva collection devices,2020-10-28,2020-10-28,molecular,Saliva Collection Device,False,False,False
+diagnostic,DNA Genotek Inc.,OMNIgene·ORAL OM-505 and OME-505 (OMNIgene·ORAL) saliva collection devices,2020-10-14,2020-10-28,molecular,Saliva Collection Device,False,False,False
+diagnostic,"Lucira Health, Inc.",Lucira COVID-19 All-In-One Test Kit,2020-11-17,2020-11-18,molecular,Prescription Home Testing,False,False,True
+diagnostic,"SEASUN BIOMATERIALS, Inc.",AQ-TOP COVID-19 Rapid Detection Kit PLUS,2020-10-05,2020-10-05,molecular,RT-LAMP,True,False,False
+diagnostic,"University of California, Los Angeles (UCLA)",UCLA SwabSeq COVID-19 Diagnostic Platform,2020-10-06,2020-10-08,molecular,RT-PCR and Sequencing,True,False,False
+diagnostic,"GenMark Diagnostics, Inc.",ePlex Respiratory Pathogen Panel 2,2020-10-07,2020-10-07,molecular,"RT-PCR and electrochemical detection, Multi-analyte",True,True,False
+diagnostic,Spectrum Solutions LLC,SDNA-1000 Saliva Collection Device,2020-10-08,2020-10-16,molecular,Saliva Collection Device,False,False,False
+diagnostic,LumiraDx UK Ltd.,LumiraDx SARS-CoV-2 RNA STAR,2020-08-11,2020-12-28,molecular,"RT, non-isothermal nucleic acid amplification qSTAR",True,False,False
+diagnostic,"Clinical Enterprise, Inc.",EmpowerDX At-Home COVID-19 PCR Test Kit,2020-10-15,2020-12-11,molecular,Home Collection Kit,False,False,False
+diagnostic,UMass Memorial Medical Center,UMass Molecular Virology Laboratory 2019-nCoV rRT-PCR Dx Panel,2020-10-01,2020-12-28,molecular,Real-time RT-PCR,True,False,False

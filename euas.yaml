@@ -3154,7 +3154,7 @@
 - approval_date: 2020-08-03
   device: Wren Laboratories COVID-19 PCR Test
   entity: Wren Laboratories LLC
-  last_update: 2020-08-03
+  last_update: 2020-10-20
   links:
   - href: https://www.fda.gov/media/140773/download
     title: Wren Laboratories COVID-19 PCR Test - Letter of Authorization
@@ -3168,10 +3168,12 @@
   - href: https://www.fda.gov/media/140776/download
     title: Wren Laboratories COVID-19 PCR Test - EUA Summary
     type: eua summary
+  - href: https://www.fda.gov/media/143187/download
+    title: Wren Laboratories COVID-19 PCR Test - IFU (Home Collect)
   method: molecular
   settings:
   - H
-  technology: Real-time RT-PCR
+  technology: Real-time RT-PCR, Home Collection, Saliva
   type: diagnostic
 - approval_date: 2020-08-03
   device: Ethos Laboratories SARS-CoV-2 MALDI-TOF Assay
@@ -3369,7 +3371,7 @@
 - approval_date: 2020-08-10
   device: Solaris Multiplex SARS-CoV-2 Assay
   entity: Solaris Diagnostics
-  last_update: 2020-08-10
+  last_update: 2020-12-28
   links:
   - href: https://www.fda.gov/media/141013/download
     title: Solaris Multiplex SARS-CoV-2 Assay - Letter of Authorization
@@ -3414,7 +3416,7 @@
 - approval_date: 2020-08-11
   device: Biomeme SARS-CoV-2 Real-Time RT-PCR Test
   entity: Biomeme, Inc.
-  last_update: 2020-08-11
+  last_update: 2020-12-30
   links:
   - href: https://www.fda.gov/media/141049/download
     title: Biomeme SARS-CoV-2 Real-Time RT-PCR Test - Letter of Authorization
@@ -3480,7 +3482,7 @@
 - approval_date: 2020-08-15
   device: SalivaDirect
   entity: Yale School of Public Health, Department of Epidemiology of Microbial Diseases
-  last_update: 2020-08-28
+  last_update: 2020-12-16
   links:
   - href: https://www.fda.gov/media/141194/download
     title: SalivaDirect - Letter of Authorization
@@ -3496,6 +3498,9 @@
     type: eua summary
   - href: https://www.fda.gov/media/141537/download
     title: SalivaDirect - Letter Granting EUA Revision(s) (August 25, 2020)
+    type: letter of authorization
+  - href: https://www.fda.gov/media/143072/download
+    title: 'EUA-Yale-SalviaD-Revised-Letter 10-15-20 '
     type: letter of authorization
   method: molecular
   settings:
@@ -3527,7 +3532,7 @@
 - approval_date: 2020-08-21
   device: Guardant-19
   entity: Guardant Health, Inc.
-  last_update: 2020-08-21
+  last_update: 2020-12-28
   links:
   - href: https://www.fda.gov/media/141484/download
     title: Guardant-19 - Letter of Authorization
@@ -3549,7 +3554,7 @@
 - approval_date: 2020-08-21
   device: DxTerity SARS-CoV-2 RT-PCR Test
   entity: DxTerity Diagnostics, Inc.
-  last_update: 2020-08-21
+  last_update: 2020-12-09
   links:
   - href: https://www.fda.gov/media/141488/download
     title: DxTerity SARS-CoV-2 RT-PCR Test - Letter of Authorization
@@ -3563,6 +3568,10 @@
   - href: https://www.fda.gov/media/141491/download
     title: DxTerity SARS-CoV-2 RT-PCR Test - EUA Summary
     type: eua summary
+  - href: https://www.fda.gov/media/144392/download
+    title: DxTerity SARS-CoV-2 RT-PCR Test - Letter Granting EUA Revision(s) (December
+      9, 2020)
+    type: letter of authorization
   method: molecular
   settings:
   - H
@@ -3571,7 +3580,7 @@
 - approval_date: 2020-08-21
   device: Texas Department of State Health Services (DSHS) SARS-CoV-2 Assay
   entity: Texas Department of State Health Services, Laboratory Services Section
-  last_update: 2020-08-21
+  last_update: 2020-12-28
   links:
   - href: https://www.fda.gov/media/141493/download
     title: Texas Department of State Health Services (DSHS) SARS-CoV-2 Assay - Letter
@@ -3597,7 +3606,7 @@
 - approval_date: 2020-08-25
   device: Advanta Dx SARS-CoV-2 RT-PCR Assay
   entity: Fluidigm Corporation
-  last_update: 2020-09-21
+  last_update: 2021-01-08
   links:
   - href: https://www.fda.gov/media/141538/download
     title: Advanta Dx SARS-CoV-2 RT-PCR Assay - Letter of Authorization
@@ -3610,6 +3619,14 @@
     type: fact sheet for patients
   - href: https://www.fda.gov/media/141541/download
     title: Advanta Dx SARS-CoV-2 RT-PCR Assay - IFU
+  - href: https://www.fda.gov/media/143636/download
+    title: Advanta Dx SARS-CoV-2 RT-PCR Assay - Letter Granting EUA Revision(s) (November
+      5, 2020)
+    type: letter of authorization
+  - href: https://www.fda.gov/media/145010/download
+    title: 'Advanta Dx SARS-CoV-2 RT-PCR Assay - Letter Granting EUA Revision(s) (January
+      8, 2021) '
+    type: letter of authorization
   method: molecular
   settings:
   - H
@@ -3713,7 +3730,7 @@
 - approval_date: 2020-08-31
   device: T2SARS-CoV-2 Panel
   entity: T2 Biosystems, Inc.
-  last_update: 2020-08-31
+  last_update: 2020-12-28
   links:
   - href: https://www.fda.gov/media/141752/download
     title: T2SARS-CoV-2 Panel - Letter of Authorization
@@ -3729,6 +3746,7 @@
   method: molecular
   settings:
   - H
+  - M
   technology: RT, amplification, T2 Magnetic resonance
   type: diagnostic
 - approval_date: 2020-08-31
@@ -3799,7 +3817,7 @@
 - approval_date: 2020-09-01
   device: MobileDetect Bio BCC19 (MD-Bio BCC19) Test Kit
   entity: Detectachem Inc.
-  last_update: 2020-10-02
+  last_update: 2020-10-06
   links:
   - href: https://www.fda.gov/media/141788/download
     title: MobileDetect Bio BCC19 (MD-Bio BCC19) Test Kit - Letter of Authorization
@@ -3819,13 +3837,11 @@
   - H
   - M
   technology: RT-LAMP
-  technologies:
-    - RT-LAMP
   type: diagnostic
 - approval_date: 2020-09-01
   device: Kaira 2019-nCoV Detection Kit
   entity: OPTOLANE Technologies, Inc.
-  last_update: 2020-09-01
+  last_update: 2020-12-28
   links:
   - href: https://www.fda.gov/media/141792/download
     title: Kaira 2019-nCoV Detection Kit - Letter of Authorization
@@ -3866,7 +3882,7 @@
 - approval_date: 2020-09-02
   device: Bio-Speedy Direct RT-qPCR SARS-CoV-2
   entity: Bioeksen R&D Technologies Ltd.
-  last_update: 2020-09-02
+  last_update: 2020-12-09
   links:
   - href: https://www.fda.gov/media/141824/download
     title: Bio-Speedy Direct RT-qPCR SARS-CoV-2 - Letter of Authorization
@@ -3880,6 +3896,10 @@
   - href: https://www.fda.gov/media/141823/download
     title: Bio-Speedy Direct RT-qPCR SARS-CoV-2 - Instructions for Use
     type: instructions for use
+  - href: https://www.fda.gov/media/144306/download
+    title: Bio-Speedy Direct RT-qPCR SARS-CoV-2 - Letter Granting EUA Revision(s)
+      (December 9, 2020)
+    type: letter of authorization
   method: molecular
   settings:
   - H
@@ -3888,7 +3908,7 @@
 - approval_date: 2020-09-03
   device: cobas SARS-CoV-2 & Influenza A/B
   entity: Roche Molecular Systems, Inc.
-  last_update: 2020-09-03
+  last_update: 2020-12-15
   links:
   - href: https://www.fda.gov/media/141884/download
     title: cobas SARS-CoV-2 & Influenza A/B - Letter of Authorization
@@ -3902,6 +3922,10 @@
   - href: https://www.fda.gov/media/141887/download
     title: cobas SARS-CoV-2 & Influenza A/B - Instructions for Use
     type: instructions for use
+  - href: https://www.fda.gov/media/144564/download
+    title: cobas SARS-CoV-2 & Influenza A/B - Letter Granting EUA Revision(s) (December
+      15, 2020)
+    type: letter of authorization
   method: molecular
   settings:
   - H
@@ -3933,7 +3957,7 @@
 - approval_date: 2020-09-08
   device: Verily COVID-19 RT-PCR Test
   entity: Verily Life Sciences
-  last_update: 2020-09-08
+  last_update: 2020-12-22
   links:
   - href: https://www.fda.gov/media/141948/download
     title: Verily COVID-19 RT-PCR Test - Letter of Authorization
@@ -3947,15 +3971,18 @@
   - href: https://www.fda.gov/media/141951/download
     title: Verily COVID-19 RT-PCR Test - EUA Summary
     type: eua summary
+  - href: https://www.fda.gov/media/144660/download
+    title: Verily COVID-19 RT-PCR Test - Instructions for Use (Home Collect)
+    type: instructions for use
   method: molecular
   settings:
   - H
-  technology: Real-time RT-PCR, Pooling
+  technology: Real-time RT-PCR, Pooling, Home Collection
   type: diagnostic
 - approval_date: 2020-09-09
   device: Wantai SARS-CoV-2 RT-PCR Kit
   entity: Beijing Wantai Biological Pharmacy Enterprise Co., Ltd.
-  last_update: 2020-09-09
+  last_update: 2020-10-31
   links:
   - href: https://www.fda.gov/media/141994/download
     title: Wantai SARS-CoV-2 RT-PCR Kit - Letter of Authorization
@@ -3969,6 +3996,10 @@
   - href: https://www.fda.gov/media/141997/download
     title: Wantai SARS-CoV-2 RT-PCR Kit - Instructions for Use
     type: instructions for use
+  - href: https://www.fda.gov/media/143498/download
+    title: Wantai SARS-CoV-2 RT-PCR Kit - Letter Granting EUA Revision(s) (October
+      31, 2020)
+    type: letter of authorization
   method: molecular
   settings:
   - H
@@ -3978,7 +4009,7 @@
   device: cobas SARS-CoV-2 & Influenza A/B Nucleic Acid Test for use on the cobas
     Liat System
   entity: Roche Molecular Systems, Inc.
-  last_update: 2020-09-18
+  last_update: 2020-12-10
   links:
   - href: https://www.fda.gov/media/142190/download
     title: cobas SARS-CoV-2 & Influenza A/B Nucleic Acid Test for use on the cobas
@@ -4000,6 +4031,10 @@
     title: cobas SARS-CoV-2 & Influenza A/B Nucleic Acid Test for use on the cobas
       Liat System - Letter Granting EUA Revision(s) (September 18, 2020)
     type: letter of authorization
+  - href: https://www.fda.gov/media/144391/download
+    title: cobas SARS-CoV-2 & Influenza A/B Nucleic Acid Test for use on the cobas
+      Liat System - Letter Granting EUA Revision(s) (December 10, 2020)
+    type: letter of authorization
   method: molecular
   settings:
   - H
@@ -4010,7 +4045,7 @@
 - approval_date: 2020-09-16
   device: Visby Medical COVID-19
   entity: Visby Medical, Inc.
-  last_update: 2020-09-16
+  last_update: 2020-12-28
   links:
   - href: https://www.fda.gov/media/142225/download
     title: Visby Medical COVID-19 - Letter of Authorization
@@ -4120,7 +4155,7 @@
 - approval_date: 2020-09-23
   device: Clear Dx SARS-CoV-2 Test
   entity: Clear Labs, Inc.
-  last_update: 2020-09-23
+  last_update: 2020-12-28
   links:
   - href: https://www.fda.gov/media/142419/download
     title: Clear Dx SARS-CoV-2 Test - Letter of Authorization
@@ -4169,7 +4204,7 @@
 - approval_date: 2020-09-25
   device: Genetrack SARS-CoV-2 Molecular Assay
   entity: Genetrack Biolabs, Inc.
-  last_update: 2020-09-25
+  last_update: 2020-10-17
   links:
   - href: https://www.fda.gov/media/142479/download
     title: Genetrack SARS-CoV-2 Molecular Assay - Letter of Authorization
@@ -4185,10 +4220,14 @@
     type: eua summary
   - href: https://www.fda.gov/media/142601/download
     title: Genetrack SARS-CoV-2 Molecular Assay - IFU (Home Collect)
+  - href: https://www.fda.gov/media/143138/download
+    title: Genetrack SARS-CoV-2 Molecular Assay - Letter Granting EUA Revision(s)
+      (October 17, 2020)
+    type: letter of authorization
   method: molecular
   settings:
   - H
-  technology: Real-time RT-PCR
+  technology: Real-time RT-PCR, Home Collection
   type: diagnostic
 - approval_date: 2020-09-30
   device: Aeon Global Health SARS-CoV-2 Assay
@@ -4359,7 +4398,7 @@
 - approval_date: 2020-04-27
   device: SARS-CoV-2 Assay
   entity: Nationwide Children's Hospital
-  last_update: 2020-04-27
+  last_update: 2020-12-28
   links:
   - href: https://www.fda.gov/media/137424/download
     title: National Children's Hospital - Letter of Authorization
@@ -4434,17 +4473,22 @@
 - approval_date: 2020-04-06
   device: Viracor SARS-CoV-2 assay
   entity: Viracor Eurofins Clinical Diagnostics
-  last_update: 2020-04-06
+  last_update: 2020-12-28
   links:
-  - href: https://www.fda.gov/media/136739/download
-    title: Viracor SARS-CoV-2 Assay - Letter
+  - href: https://www.fda.gov/media/143070/download
+    title: Viracor Eurofins Clinical Diagnostics EUA - Letter of Authorization
     type: letter of authorization
-  - href: https://www.fda.gov/media/136740/download
-    title: Viracor SARS-CoV-2 Assay - EUA Summary
+  - href: https://www.fda.gov/media/143067/download
+    title: Viracor Eurofins Clinical Diagnostics EUA - Fact Sheet HCP
+  - href: https://www.fda.gov/media/143068/download
+    title: Viracor Eurofins Clinical Diagnostics EUA - Fact Sheet Patient
+  - href: https://www.fda.gov/media/143069/download
+    title: Viracor Eurofins Clinical Diagnostics EUA - Summary
     type: eua summary
   method: molecular
   settings:
   - H
+  technology: Real-Time RT-PCR, Home Collection, Pooling
   type: diagnostic
 - approval_date: 2020-04-03
   device: MGH COVID-19 qPCR assay
@@ -4703,7 +4747,7 @@
 - approval_date: 2020-05-07
   device: Biocollections Worldwide SARS-Co-V-2 Assay
   entity: Biocollections Worldwide, Inc.
-  last_update: 2020-05-07
+  last_update: 2020-12-28
   links:
   - href: https://www.fda.gov/media/137896/download
     title: Biocollections Worldwide SARS-Co-V-2 Assay - Letter Granting Inclusion
@@ -4814,19 +4858,33 @@
   type: diagnostic
 - approval_date: 2020-05-22
   device: Express Gene 2019-nCoV RT-PCR Diagnostic Panel
-  entity: Express Gene LLC (dba Molecular Diagnostics Laboratory)
-  last_update: 2020-05-22
+  entity: "Express Gene LLC, DBA:\_ Express Gene Molecular Diagnostics Laboratory"
+  last_update: 2020-11-19
   links:
-  - href: https://www.fda.gov/media/138329/download
-    title: Express Gene 2019-nCoV RT-PCR Diagnostic Panel - Letter Granting Inclusion
-      Under EUA
+  - href: https://www.fda.gov/media/143881/download
+    title: 'Express Gene LLC, DBA:  Express Gene Molecular Diagnostics Laboratory
+      - Letter of Authorization'
     type: letter of authorization
-  - href: https://www.fda.gov/media/138330/download
-    title: Express Gene 2019-nCoV RT-PCR Diagnostic Panel - EUA Summary
+  - href: https://www.fda.gov/media/143879/download
+    title: 'Express Gene LLC, DBA:  Express Gene Molecular Diagnostics Laboratory
+      - Fact Sheet for Healthcare Providers'
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/143882/download
+    title: 'Express Gene LLC, DBA:  Express Gene Molecular Diagnostics Laboratory
+      - Fact Sheet for Patients'
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/143878/download
+    title: 'Express Gene LLC, DBA:  Express Gene Molecular Diagnostics Laboratory
+      - EUA Summary'
     type: eua summary
+  - href: https://www.fda.gov/media/143880/download
+    title: 'Express Gene LLC, DBA:  Express Gene Molecular Diagnostics Laboratory
+      - Instructions for Use'
+    type: instructions for use
   method: molecular
   settings:
   - H
+  technology: Real-time RT-PCR, Collection Kit
   type: diagnostic
 - approval_date: 2020-05-22
   device: Avera Institute for Human Genetics SARS-CoV-2 Assay
@@ -4911,7 +4969,7 @@
   approval_date: 2020-07-02
   device: BD Veritor System for Rapid Detection of SARS-CoV-2
   entity: Becton, Dickinson and Company (BD)
-  last_update: 2020-07-23
+  last_update: 2021-01-13
   links:
   - href: https://www.fda.gov/media/139752/download
     title: BD Veritor System for Rapid Detection of SARS-CoV-2 - Letter of Authorization
@@ -4963,7 +5021,7 @@
 - approval_date: 2020-08-26
   device: BinaxNOW COVID-19 Ag Card
   entity: Abbott Diagnostics Scarborough, Inc.
-  last_update: 2020-08-26
+  last_update: 2020-12-16
   links:
   - href: https://www.fda.gov/media/141567/download
     title: BinaxNOW COVID-19 Ag Card - Letter of Authorization
@@ -4988,7 +5046,7 @@
   approval_date: 2020-04-26
   device: SARS-CoV-2 IgG assay
   entity: Abbott Laboratories Inc.
-  last_update: 2020-09-18
+  last_update: 2020-12-01
   links:
   - href: https://www.fda.gov/media/137384/download
     title: EUA Abbott Letter of Authorization
@@ -4999,7 +5057,7 @@
   - href: https://www.fda.gov/media/137382/download
     title: Abbott Lab Fact Sheet for Recipients
   - href: https://www.fda.gov/media/137383/download
-    title: Abbott Lab EUA IFU
+    title: Abbott Lab EUA IFU-ARCHITECT
   - href: https://www.fda.gov/media/137910/download
     title: SARS-CoV-2 IgG assay - Alinity IFU
   - href: https://www.fda.gov/media/137911/download
@@ -5012,6 +5070,10 @@
   - href: https://www.fda.gov/media/142306/download
     title: Abbot SARS-CoV-2 IgG assay - Letter Granting EUA Revision(s) (September
       18, 2020)
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144125/download
+    title: Abbott SARS-CoV-2 IgG assay - Letter Granting EUA Revision(s) (December
+      1, 2020)
     type: letter of authorization
   method: serological
   settings:
@@ -5042,24 +5104,30 @@
   technology: IgM and IgG, Lateral Flow
   type: diagnostic
 - amendments:
-  - 2020-02-01
+  - 2021-02-15
   approval_date: 2020-04-14
   device: VITROS Immunodiagnostic Products Anti-SARS-CoV-2 Total Reagent Pack
   entity: Ortho Clinical Diagnostics, Inc.
-  last_update: 2020-04-24
+  last_update: 2020-10-30
   links:
   - href: https://www.fda.gov/media/136966/download
     title: Ortho Vitro Letters
     type: letter of authorization
   - href: https://www.fda.gov/media/136970/download
-    title: Ortho Vitros HCP
+    title: Ortho Vitros - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
   - href: https://www.fda.gov/media/136969/download
-    title: Ortho Vitros - Recipients
+    title: Ortho Vitros - Fact Sheet for Recipients
   - href: https://www.fda.gov/media/136967/download
-    title: Ortho Vitros IFU
+    title: Ortho Vitros - Instructions for Use
+    type: instructions for use
   - href: https://www.fda.gov/media/137920/download
     title: VITROS Immunodiagnostic Products Anti-SARS-CoV-2 Total Reagent Pack - Amendment
     type: amendment
+  - href: https://www.fda.gov/media/143455/download
+    title: Ortho Clinical Diagnostics, Inc. - Letter Granting EUA Revision(s) (October
+      30, 2020)
+    type: letter of authorization
   method: serological
   settings:
   - H
@@ -5089,7 +5157,7 @@
 - approval_date: 2020-04-24
   device: LIAISON SARS-CoV-2 S1/S2 IgG
   entity: DiaSorin Inc.
-  last_update: 2020-07-22
+  last_update: 2020-10-19
   links:
   - href: https://www.fda.gov/media/137356/download
     title: DiaSorin Inc. LIAISON SARS-CoV-2 S1/S2 IgG - Letter of Authorization
@@ -5105,6 +5173,10 @@
   - href: https://www.fda.gov/media/140377/download
     title: LIAISON SARS-CoV-2 S1/S2 IgG - Letter Granting EUA Amendment(s) (July 22,
       2020)
+    type: letter of authorization
+  - href: https://www.fda.gov/media/143140/download
+    title: LIAISON SARS-CoV-2 S1/S2 IgG - Letter Granting EUA Revision(s) (October
+      19, 2020)
     type: letter of authorization
   method: serological
   settings:
@@ -5141,7 +5213,7 @@
   approval_date: 2020-04-29
   device: Platelia SARS-CoV-2 Total Ab assay
   entity: Bio-Rad Laboratories, Inc.
-  last_update: 2020-07-21
+  last_update: 2020-10-30
   links:
   - href: https://www.fda.gov/media/137494/download
     title: Platelia SARS-CoV-2 Total Ab assay - Letter of Authorization
@@ -5157,6 +5229,10 @@
   - href: https://www.fda.gov/media/140335/download
     title: Platelia SARS-CoV-2 Total Ab assay - Amendment July 21, 2020
     type: amendment
+  - href: https://www.fda.gov/media/143457/download
+    title: Platelia SARS-CoV-2 Total Ab assay - Letter Granting EUA Revision(s) (October
+      30, 2020)
+    type: letter of authorization
   method: serological
   settings:
   - H
@@ -5190,7 +5266,7 @@
 - approval_date: 2020-05-02
   device: Elecsys Anti-SARS-CoV-2
   entity: Roche Diagnostics
-  last_update: 2020-07-21
+  last_update: 2020-10-23
   links:
   - href: https://www.fda.gov/media/137602/download
     title: Roche Diagnostics Elecsys Anti-SARS-CoV-2 - Letter of Authorization
@@ -5209,6 +5285,10 @@
   - href: https://www.fda.gov/media/140538/download
     title: Roche Diagnostics Elecsys Anti-SARS-CoV-2 - Letter Granting EUA Amendment(s)
       (July 21, 2020)
+    type: letter of authorization
+  - href: https://www.fda.gov/media/143275/download
+    title: Elecsys Anti-SARS-CoV-2 - Letter Granting EUA Revision(s) (October 23,
+      2020)
     type: letter of authorization
   method: serological
   settings:
@@ -5338,7 +5418,7 @@
   approval_date: 2020-06-04
   device: RightSign COVID-19 IgG/IgM Rapid Test Cassette
   entity: Hangzhou Biotest Biotech Co., Ltd.
-  last_update: 2020-08-31
+  last_update: 2020-12-21
   links:
   - href: https://www.fda.gov/media/138657/download
     title: RightSign COVID-19 IgG/IgM Rapid Test Cassette - Letter of Authorization
@@ -5362,7 +5442,8 @@
   settings:
   - H
   - M
-  technology: IgM and IgG Lateral Flow
+  - W
+  technology: IgM and IgG Lateral Flow, Fingerstick Whole Blood
   type: diagnostic
 - approval_date: 2020-06-08
   device: Dimension Vista SARS-CoV-2 Total antibody assay (COV2T)
@@ -5397,7 +5478,7 @@
 - approval_date: 2020-06-08
   device: Dimension EXL SARS-CoV-2 Total antibody assay (CV2T)
   entity: Siemens Healthcare Diagnostics Inc.
-  last_update: 2020-08-07
+  last_update: 2020-10-30
   links:
   - href: https://www.fda.gov/media/138754/download
     title: Dimension EXL SARS-CoV-2 Total antibody assay (CV2T) - Letter of Authorization
@@ -5416,6 +5497,10 @@
   - href: https://www.fda.gov/media/140981/download
     title: Dimension EXL SARS-CoV-2 Total antibody assay (CV2T) - Letter Granting
       EUA Amendment(s) (August 7, 2020)
+    type: letter of authorization
+  - href: https://www.fda.gov/media/143496/download
+    title: Dimension EXL SARS-CoV-2 Total antibody assay (CV2T) - Letter Granting
+      EUA Revision(s) (October 30, 2020)
     type: letter of authorization
   method: serological
   settings:
@@ -5496,7 +5581,7 @@
   device: LYHER Novel Coronavirus (2019-nCoV) IgM/IgG Antibody Combo Test Kit (Colloidal
     Gold)
   entity: Hangzhou Laihe Biotech Co., Ltd.
-  last_update: 2020-08-12
+  last_update: 2020-12-02
   links:
   - href: https://www.fda.gov/media/139407/download
     title: LYHER Novel Coronavirus (2019-nCoV) IgM/IgG Antibody Combo Test Kit (Colloidal
@@ -5515,6 +5600,10 @@
   - href: https://www.fda.gov/media/141150/download
     title: LYHER Novel Coronavirus (2019-nCoV) IgM/IgG Antibody Combo Test Kit (Colloidal
       Gold) - Letter Granting EUA Revision(s) (August 12, 2020)
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144126/download
+    title: LYHER Novel Coronavirus (2019-nCoV) IgM/IgG Antibody Combo Test Kit (Colloidal
+      Gold) - Letter Granting EUA Revision(s) (December 2, 2020)
     type: letter of authorization
   method: serological
   settings:
@@ -5654,7 +5743,7 @@
 - approval_date: 2020-07-13
   device: Sienna-Clarity COVIBLOCK COVID-19 IgG/IgM Rapid Test Cassette
   entity: Salofa Oy
-  last_update: 2020-07-13
+  last_update: 2021-01-05
   links:
   - href: https://www.fda.gov/media/140079/download
     title: Sienna-Clarity COVIBLOCK COVID-19 IgG/IgM Rapid Test Cassette - Letter
@@ -5674,7 +5763,8 @@
   settings:
   - H
   - M
-  technology: IgM and IgG, Lateral Flow
+  - W
+  technology: IgM and IgG, Lateral Flow, Fingerstick Whole Blood
   type: diagnostic
 - approval_date: 2020-07-16
   device: xMAP SARS-CoV-2 Multi-Antigen IgG Assay
@@ -5722,7 +5812,7 @@
 - approval_date: 2020-07-24
   device: BIOTIME SARS-CoV-2 IgG/IgM Rapid Qualitative Test
   entity: Xiamen Biotime Biotechnology Co., Ltd.
-  last_update: 2020-07-24
+  last_update: 2020-11-06
   links:
   - href: https://www.fda.gov/media/140440/download
     title: BIOTIME SARS-CoV-2 IgG/IgM Rapid Qualitative Test - Letter of Authorization
@@ -5736,6 +5826,18 @@
   - href: https://www.fda.gov/media/140443/download
     title: BIOTIME SARS-CoV-2 IgG/IgM Rapid Qualitative Test - Instructions for Use
     type: instructions for use
+  - href: https://www.fda.gov/media/143330/download
+    title: BIOTIME SARS-CoV-2 IgG/IgM Rapid Qualitative Test - Letter Granting EUA
+      Revision(s) (October 23, 2020)
+    type: letter of authorization
+  - href: https://www.fda.gov/media/143456/download
+    title: BIOTIME SARS-CoV-2 IgG/IgM Rapid Qualitative Test - Letter Granting EUA
+      Revision(s) (October 30, 2020)
+    type: letter of authorization
+  - href: https://www.fda.gov/media/143747/download
+    title: BIOTIME SARS-CoV-2 IgG/IgM Rapid Qualitative Test - Letter Granting EUA
+      Revision(s) (November 6, 2020)
+    type: letter of authorization
   method: serological
   settings:
   - H
@@ -5745,7 +5847,7 @@
 - approval_date: 2020-07-24
   device: CareStart COVID-19 IgM/IgG
   entity: Access Bio, Inc.
-  last_update: 2020-07-24
+  last_update: 2020-10-31
   links:
   - href: https://www.fda.gov/media/140444/download
     title: CareStart COVID-19 IgM/IgG - Letter of Authorization
@@ -5758,6 +5860,10 @@
   - href: https://www.fda.gov/media/140447/download
     title: CareStart COVID-19 IgM/IgG - Instructions for Use
     type: instructions for use
+  - href: https://www.fda.gov/media/143497/download
+    title: CareStart COVID-19 IgM/IgG - Letter Granting EUA Revision(s) (October 31,
+      2020)
+    type: letter of authorization
   method: serological
   settings:
   - H
@@ -6077,7 +6183,7 @@
 - approval_date: 2020-09-23
   device: Orawell IgM/IgG Rapid Test
   entity: Jiangsu Well Biotech Co., Ltd.
-  last_update: 2020-09-23
+  last_update: 2020-11-10
   links:
   - href: https://www.fda.gov/media/142423/download
     title: Orawell IgM/IgG Rapid Test - Letter of Authorization
@@ -6090,6 +6196,10 @@
   - href: https://www.fda.gov/media/142422/download
     title: Orawell IgM/IgG Rapid Test - Instructions for Use
     type: instructions for use
+  - href: https://www.fda.gov/media/143748/download
+    title: Orawell IgM/IgG Rapid Test - Letter Granting EUA Revision(s) (November
+      10, 2020)
+    type: letter of authorization
   method: serological
   settings:
   - H
@@ -6232,50 +6342,55 @@
 - approval_date: 2020-10-02
   device: BioFire Respiratory Panel 2.1-EZ (RP2.1-EZ)
   entity: BioFire Diagnostics, LLC
-  last_update: 2020-10-02
+  last_update: 2020-12-22
   links:
-    - href: https://www.fda.gov/media/142693/download
-      title: BioFire Respiratory Panel 2.1-EZ (RP2.1-EZ) - Letter of Authorization
-      type: letter of authorization
-    - href: https://www.fda.gov/media/142694/download
-      title: BioFire Respiratory Panel 2.1-EZ (RP2.1-EZ) - Fact Sheet for Healthcare Providers
-      type: fact sheet for healthcare providers
-    - href: https://www.fda.gov/media/142695/download
-      title: BioFire Respiratory Panel 2.1-EZ (RP2.1-EZ) - Fact Sheet for Patients
-      type: fact sheet for patients
-    - href: https://www.fda.gov/media/142696/download
-      title: title="BioFire Respiratory Panel 2.1-EZ (RP2.1-EZ) - Instructions for Use"
-      type: instructions for use
+  - href: https://www.fda.gov/media/142693/download
+    title: BioFire Respiratory Panel 2.1-EZ (RP2.1-EZ) - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/142694/download
+    title: BioFire Respiratory Panel 2.1-EZ (RP2.1-EZ) - Fact Sheet for Healthcare
+      Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/142695/download
+    title: BioFire Respiratory Panel 2.1-EZ (RP2.1-EZ) - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/142696/download
+    title: BioFire Respiratory Panel 2.1-EZ (RP2.1-EZ) - Instructions for Use
+    type: instructions for use
+  - href: https://www.fda.gov/media/144746/download
+    title: BioFire Respiratory Panel 2.1-EZ (RP2.1-EZ) - Letter Granting EUA Revision(s)
+      (December 22, 2020)
+    type: letter of authorization
   method: molecular
-  technology: RT, Nested multiplex PCR, Multi-analyte
   settings:
-    - H
-    - M
-    - W
+  - H
+  - M
+  - W
+  technology: RT, Nested multiplex PCR, Multi-analyte
   type: diagnostic
 - approval_date: 2020-10-02
-  last_update: 2020-10-02
   device: OmniPATH COVID-19 Total Antibody ELISA Test
   entity: Thermo Fisher Scientific
-  method: antibody
-  type: diagnostic
-  settings:
-    - H
-    - M
-  technology: Total Antibody, ELISA
+  last_update: 2020-10-06
   links:
-    - href: https://www.fda.gov/media/142697/download
-      title: OmniPATH COVID-19 Total Antibody ELISA Test - Letter of Authorization
-      type: letter of authorization
-    - href: https://www.fda.gov/media/142698/download
-      title: OmniPATH COVID-19 Total Antibody ELISA Test - Fact Sheet for Healthcare Providers
-      type: fact sheet for healthcare providers
-    - href: https://www.fda.gov/media/142699/download
-      title: OmniPATH COVID-19 Total Antibody ELISA Test - Fact Sheet for Recipients
-      type: fact sheet for patients
-    - href: https://www.fda.gov/media/142700/download
-      title: OmniPATH COVID-19 Total Antibody ELISA Test - Instructions for Use
-      type: instructions for use
+  - href: https://www.fda.gov/media/142697/download
+    title: OmniPATH COVID-19 Total Antibody ELISA Test - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/142698/download
+    title: OmniPATH COVID-19 Total Antibody ELISA Test - Fact Sheet for Healthcare
+      Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/142699/download
+    title: OmniPATH COVID-19 Total Antibody ELISA Test - Fact Sheet for Recipients
+  - href: https://www.fda.gov/media/142700/download
+    title: OmniPATH COVID-19 Total Antibody ELISA Test - Instructions for Use
+    type: instructions for use
+  method: serological
+  settings:
+  - H
+  - M
+  technology: Total Antibody, ELISA
+  type: diagnostic
 - approval_date: 2020-10-02
   last_update: 2020-10-02
   device: Sofia 2 Flu + SARS Antigen FIA
@@ -6284,7 +6399,7 @@
   technology: Lateral Flow, Fluorescence, Instrument Read, Multi-Analyte
   technologies:
     - LFI
-  setting:
+  settings:
     - H
     - M
     - W
@@ -6302,27 +6417,1139 @@
     - href: https://www.fda.gov/media/142704/download
       title: Sofia 2 Flu + SARS Antigen FIA - Instructions for Use
       type: instructions for use
+- approval_date: 2020-12-18
+  device: ADVIA Centaur IL6 assay
+  entity: Siemens Healthcare Diagnostics Inc.
+  last_update: 2020-12-18
+  links:
+  - href: https://www.fda.gov/media/144669/download
+    title: ADVIA Centaur IL6 assay - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144670/download
+    title: ADVIA Centaur IL6 assay - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/144671/download
+    title: ADVIA Centaur IL6 assay - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/144672/download
+    title: ADVIA Centaur IL6 assay - Instructions for Use
+    type: instructions for use
+  method: management
+  settings:
+  - H
+  - M
+  technology: One-step Direct Chemiluminescent Immunoassay
+  type: diagnostic
+- approval_date: 2021-01-11
+  device: EliA SARS-CoV-2-Sp1 IgG Test
+  entity: Phadia AB
+  last_update: 2021-01-11
+  links:
+  - href: https://www.fda.gov/media/145082/download
+    title: EliA SARS-CoV-2-Sp1 IgG Test - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/145085/download
+    title: EliA SARS-CoV-2-Sp1 IgG Test - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/145087/download
+    title: EliA SARS-CoV-2-Sp1 IgG Test - Fact Sheet for Recipients
+  - href: https://www.fda.gov/media/145089/download
+    title: EliA SARS-CoV-2-Sp1 IgG Test - IFU
+  method: serological
+  settings:
+  - H
+  - M
+  technology: IgG, Fluoroenzyme Immunoassay, Semi-quantitative
+  type: diagnostic
+- approval_date: 2021-01-11
+  device: RapCov Rapid COVID-19 Test
+  entity: ADVAITE, Inc.
+  last_update: 2021-01-11
+  links:
+  - href: https://www.fda.gov/media/145075/download
+    title: RapCov Rapid COVID-19 Test - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/145077/download
+    title: RapCov Rapid COVID-19 Test - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/145078/download
+    title: RapCov Rapid COVID-19 Test - Fact Sheet for Recipients
+  - href: https://www.fda.gov/media/145080/download
+    title: RapCov Rapid COVID-19 Test - IFU
+  method: serological
+  settings:
+  - H
+  - M
+  - W
+  technology: IgG, Lateral Flow, Fingerstick Whole Blood
+  type: diagnostic
+- approval_date: 2021-01-08
+  device: "Dimension Vista SARS\u2011CoV\u20112 IgG (COV2G)"
+  entity: Siemens Healthcare Diagnostics Inc.
+  last_update: 2021-01-08
+  links:
+  - href: https://www.fda.gov/media/145017/download
+    title: "Dimension Vista SARS\u2011CoV\u20112 IgG (COV2G) - Letter of Authorization"
+    type: letter of authorization
+  - href: https://www.fda.gov/media/145018/download
+    title: "Dimension Vista SARS\u2011CoV\u20112 IgG (COV2G) - Fact Sheet for Healthcare\
+      \ Providers"
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/145019/download
+    title: "Dimension Vista SARS\u2011CoV\u20112 IgG (COV2G) - Fact Sheet for Recipients"
+  - href: https://www.fda.gov/media/145020/download
+    title: "Dimension Vista SARS\u2011CoV\u20112 IgG (COV2G) - Instructions for Use"
+    type: instructions for use
+  method: serological
+  settings:
+  - H
+  - M
+  technology: IgG, CLIA, Semi-quantitative
+  type: diagnostic
+- approval_date: 2021-01-08
+  device: "Dimension EXL SARS\u2011CoV\u20112 IgG (CV2G)"
+  entity: Siemens Healthcare Diagnostics Inc.
+  last_update: 2021-01-08
+  links:
+  - href: https://www.fda.gov/media/145012/download
+    title: "Dimension EXL SARS\u2011CoV\u20112 IgG (CV2G) - Letter of Authorization"
+    type: letter of authorization
+  - href: https://www.fda.gov/media/145013/download
+    title: "Dimension EXL SARS\u2011CoV\u20112 IgG (CV2G) - Fact Sheet for Healthcare\
+      \ Providers"
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/145014/download
+    title: "Dimension EXL SARS\u2011CoV\u20112 IgG (CV2G) - Fact Sheet for Recipients"
+  - href: https://www.fda.gov/media/145015/download
+    title: "Dimension EXL SARS\u2011CoV\u20112 IgG (CV2G) - Instructions for Use"
+    type: instructions for use
+  method: serological
+  settings:
+  - H
+  - M
+  technology: IgG, CLIA, Semi-quantitative
+  type: diagnostic
+- approval_date: 2020-12-31
+  device: MidaSpot COVID-19 Antibody Combo Detection Kit
+  entity: Nirmidas Biotech, Inc.
+  last_update: 2020-12-31
+  links:
+  - href: https://www.fda.gov/media/144874/download
+    title: MidaSpot COVID-19 Antibody Combo Detection Kit - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144875/download
+    title: MidaSpot COVID-19 Antibody Combo Detection Kit - Fact Sheet for Healthcare
+      Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/144876/download
+    title: MidaSpot COVID-19 Antibody Combo Detection Kit - Fact Sheet for Recipients
+  - href: https://www.fda.gov/media/144877/download
+    title: MidaSpot COVID-19 Antibody Combo Detection Kit - Instructions for Use
+    type: instructions for use
+  method: serological
+  settings:
+  - H
+  - M
+  - W
+  technology: IgM and IgG, lateral flow, Fingerstick Whole Blood
+  type: diagnostic
+- approval_date: 2020-12-23
+  device: Simoa Semi-Quantitative SARS-CoV-2 IgG Antibody Test
+  entity: Quanterix Corporation
+  last_update: 2020-12-23
+  links:
+  - href: https://www.fda.gov/media/144761/download
+    title: Simoa Semi-Quantitative SARS-CoV-2 IgG Antibody Test - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144762/download
+    title: Simoa Semi-Quantitative SARS-CoV-2 IgG Antibody Test - Fact Sheet for Healthcare
+      Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/144763/download
+    title: Simoa Semi-Quantitative SARS-CoV-2 IgG Antibody Test - Fact Sheet for Recipients
+  - href: https://www.fda.gov/media/144764/download
+    title: Simoa Semi-Quantitative SARS-CoV-2 IgG Antibody Test - IFU
+  method: serological
+  settings:
+  - H
+  - M
+  technology: IgG, Paramagnetic Microbead-based Sandwich ELISA, Semi-quantitative
+  type: diagnostic
+- approval_date: 2020-12-15
+  device: ACON SARS-CoV-2 IgG/IgM Rapid Test
+  entity: ACON Laboratories, Inc.
+  last_update: 2020-12-15
+  links:
+  - href: https://www.fda.gov/media/144559/download
+    title: ACON SARS-CoV-2 IgG/IgM Rapid Test - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144560/download
+    title: ACON SARS-CoV-2 IgG/IgM Rapid Test - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/144561/download
+    title: ACON SARS-CoV-2 IgG/IgM Rapid Test - Fact Sheet for Recipients
+  - href: https://www.fda.gov/media/144562/download
+    title: ACON SARS-CoV-2 IgG/IgM Rapid Test - Instructions for Use
+    type: instructions for use
+  method: serological
+  settings:
+  - H
+  - M
+  technology: IgM and IgG, Lateral Flow
+  type: diagnostic
+- approval_date: 2020-11-23
+  device: Innovita 2019-nCoV Ab Test (Colloidal Gold)
+  entity: Innovita (Tangshan) Biological Technology Co., Ltd.
+  last_update: 2020-11-23
+  links:
+  - href: https://www.fda.gov/media/144068/download
+    title: Innovita 2019-nCoV Ab Test (Colloidal Gold) - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144069/download
+    title: Innovita 2019-nCoV Ab Test (Colloidal Gold) - Fact Sheet for Healthcare
+      Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/144070/download
+    title: Innovita 2019-nCoV Ab Test (Colloidal Gold) - Fact Sheet for Recipients
+  - href: https://www.fda.gov/media/144071/download
+    title: Innovita 2019-nCoV Ab Test (Colloidal Gold) - Instructions for Use
+    type: instructions for use
+  method: serological
+  settings:
+  - H
+  - M
+  technology: IgM and IgG, Lateral Flow
+  type: diagnostic
+- approval_date: 2020-11-25
+  device: Elecsys Anti-SARS-CoV-2 S
+  entity: Roche Diagnostics, Inc.
+  last_update: 2020-11-25
+  links:
+  - href: https://www.fda.gov/media/144034/download
+    title: Elecsys Anti-SARS-CoV-2 S - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144035/download
+    title: Elecsys Anti-SARS-CoV-2 S - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/144036/download
+    title: Elecsys Anti-SARS-CoV-2 S - Fact Sheet for Recipients
+  - href: https://www.fda.gov/media/144037/download
+    title: Elecsys Anti-SARS-CoV-2 S - Instructions for Use
+    type: instructions for use
+  method: serological
+  settings:
+  - H
+  - M
+  technology: Total Antibody, ECLIA, Semi-quantitative
+  type: diagnostic
+- approval_date: 2020-10-06
+  device: ZEUS ELISA SARS-CoV-2 IgG Test System
+  entity: ZEUS Scientific, Inc.
+  last_update: 2020-10-06
+  links:
+  - href: https://www.fda.gov/media/142806/download
+    title: ZEUS ELISA SARS-CoV-2 IgG Test System - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/142807/download
+    title: ZEUS ELISA SARS-CoV-2 IgG Test System - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/142808/download
+    title: ZEUS ELISA SARS-CoV-2 IgG Test System - Fact Sheet for Recipients
+  - href: https://www.fda.gov/media/142809/download
+    title: ZEUS ELISA SARS-CoV-2 IgG Test System - Instructions for Use
+    type: instructions for use
+  method: serological
+  settings:
+  - H
+  - M
+  technology: IgG, ELISA
+  type: diagnostic
+- approval_date: 2020-10-08
+  device: Access SARS-CoV-2 IgM
+  entity: Beckman Coulter, Inc.
+  last_update: 2020-10-08
+  links:
+  - href: https://www.fda.gov/media/142908/download
+    title: Access SARS-CoV-2 IgM - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/142909/download
+    title: Access SARS-CoV-2 IgM - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/142910/download
+    title: Access SARS-CoV-2 IgM - Fact Sheet for Recipients
+  - href: https://www.fda.gov/media/142911/download
+    title: Access SARS-CoV-2 IgM - IFU
+  method: serological
+  settings:
+  - H
+  - M
+  technology: IgM, CLIA
+  type: diagnostic
+- approval_date: 2020-10-08
+  device: Maverick SARS-CoV-2 Multi-Antigen Serology Panel v2
+  entity: Genalyte, Inc.
+  last_update: 2020-10-08
+  links:
+  - href: https://www.fda.gov/media/142912/download
+    title: Maverick SARS-CoV-2 Multi-Antigen Serology Panel v2 - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/142913/download
+    title: Maverick SARS-CoV-2 Multi-Antigen Serology Panel v2 - Fact Sheet for Healthcare
+      Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/142914/download
+    title: Maverick SARS-CoV-2 Multi-Antigen Serology Panel v2 - Fact Sheet for Recipients
+  - href: https://www.fda.gov/media/142915/download
+    title: Maverick SARS-CoV-2 Multi-Antigen Serology Panel v2 - IFU
+  method: serological
+  settings:
+  - H
+  - M
+  technology: Total Antibody, photonic ring immunoassay
+  type: diagnostic
+- approval_date: 2020-10-09
+  device: AdviseDx SARS-CoV-2 IgM
+  entity: Abbott Laboratories Inc.
+  last_update: 2020-10-09
+  links:
+  - href: https://www.fda.gov/media/142937/download
+    title: AdviseDx SARS-CoV-2 IgM - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/142938/download
+    title: AdviseDx SARS-CoV-2 IgM - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/142939/download
+    title: AdviseDx SARS-CoV-2 IgM - Fact Sheet for Recipients
+  - href: https://www.fda.gov/media/142940/download
+    title: AdviseDx SARS-CoV-2 IgM - IFU-ARCHITECT
+  - href: https://www.fda.gov/media/142941/download
+    title: AdviseDx SARS-CoV-2 IFU - Alinityi
+  method: serological
+  settings:
+  - H
+  - M
+  technology: IgM, CMIA
+  type: diagnostic
+- approval_date: 2020-10-28
+  device: Q-Plex SARS-CoV-2 Human IgG (4 Plex)
+  entity: Quansys Biosciences, Inc.
+  last_update: 2020-10-28
+  links:
+  - href: https://www.fda.gov/media/143453/download
+    title: Q-Plex SARS-CoV-2 Human IgG (4 Plex) - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/143451/download
+    title: Q-Plex SARS-CoV-2 Human IgG (4 Plex) - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/143454/download
+    title: Q-Plex SARS-CoV-2 Human IgG (4 Plex) - Fact Sheet for Recipients
+  - href: https://www.fda.gov/media/143452/download
+    title: Q-Plex SARS-CoV-2 Human IgG (4 Plex) - Instructions for Use
+    type: instructions for use
+  method: serological
+  settings:
+  - H
+  technology: IgG, CLIA
+  type: diagnostic
+- approval_date: 2020-11-06
+  device: cPass SARS-CoV-2 Neutralization Antibody Detection Kit
+  entity: GenScript USA Inc.
+  last_update: 2020-11-06
+  links:
+  - href: https://www.fda.gov/media/143584/download
+    title: cPass SARS-CoV-2 Neutralization Antibody Detection Kit - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/143582/download
+    title: cPass SARS-CoV-2 Neutralization Antibody Detection Kit - Fact Sheet for
+      Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/143585/download
+    title: cPass SARS-CoV-2 Neutralization Antibody Detection Kit - Fact Sheet for
+      Recipients
+  - href: https://www.fda.gov/media/143583/download
+    title: cPass SARS-CoV-2 Neutralization Antibody Detection Kit - Instructions for
+      Use
+    type: instructions for use
+  method: serological
+  settings:
+  - H
+  technology: Total Neutralizing Antibodies, Blocking ELISA
+  type: diagnostic
+- approval_date: 2020-11-24
+  device: COVID-SeroKlir, Kantaro Semi-Quantitative SARS-CoV-2 IgG Antibody Kit
+  entity: Kantaro Biosciences, LLC
+  last_update: 2020-11-24
+  links:
+  - href: https://www.fda.gov/media/144007/download
+    title: COVID-SeroKlir, Kantaro Semi-Quantitative SARS-CoV-2 IgG Antibody Kit -
+      Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144008/download
+    title: COVID-SeroKlir, Kantaro Semi-Quantitative SARS-CoV-2 IgG Antibody Kit -
+      Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/144009/download
+    title: COVID-SeroKlir, Kantaro Semi-Quantitative SARS-CoV-2 IgG Antibody Kit -
+      Fact Sheet for Recipients
+  - href: https://www.fda.gov/media/144010/download
+    title: COVID-SeroKlir, Kantaro Semi-Quantitative SARS-CoV-2 IgG Antibody Kit -
+      Instructions for Use
+    type: instructions for use
+  method: serological
+  settings:
+  - H
+  technology: IgG, ELISA, Semi-quantitative
+  type: diagnostic
+- approval_date: 2020-10-08
+  device: CareStart COVID-19 Antigen test
+  entity: Access Bio, Inc.
+  last_update: 2020-10-13
+  links:
+  - href: https://www.fda.gov/media/142916/download
+    title: CareStart COVID-19 Antigen test - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/142917/download
+    title: CareStart COVID-19 Antigen test - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/142918/download
+    title: CareStart COVID-19 Antigen test - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/142919/download
+    title: CareStart COVID-19 Antigen test - IFU
+  method: antigen
+  settings:
+  - H
+  - M
+  - W
+  technology: Lateral Flow, Visual Read
+  type: diagnostic
+- approval_date: 2020-10-23
+  device: Sampinute COVID-19 Antigen MIA
+  entity: Celltrion USA, Inc.
+  last_update: 2020-10-23
+  links:
+  - href: https://www.fda.gov/media/143267/download
+    title: Sampinute COVID-19 Antigen MIA - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/143268/download
+    title: Sampinute COVID-19 Antigen MIA - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/143269/download
+    title: Sampinute COVID-19 Antigen MIA - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/143270/download
+    title: Sampinute COVID-19 Antigen MIA - IFU
+  method: antigen
+  settings:
+  - H
+  - M
+  technology: Magnetic Force-assisted Electrochemical Sandwich Immunoassay (MESIA)
+  type: diagnostic
+- approval_date: 2020-12-07
+  device: Clip COVID Rapid Antigen Test
+  entity: Luminostics, Inc.
+  last_update: 2020-12-07
+  links:
+  - href: https://www.fda.gov/media/144253/download
+    title: Clip COVID Rapid Antigen Test - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144254/download
+    title: Clip COVID Rapid Antigen Test - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/144255/download
+    title: Clip COVID Rapid Antigen Test - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/144256/download
+    title: Clip COVID Rapid Antigen Test - Instructions for Use
+    type: instructions for use
+  method: antigen
+  settings:
+  - H
+  - M
+  - W
+  technology: Lateral flow immunoluminescent assay, instrument read
+  type: diagnostic
+- approval_date: 2020-12-15
+  device: Ellume COVID-19 Home Test
+  entity: Ellume Limited
+  last_update: 2020-12-23
+  links:
+  - href: https://www.fda.gov/media/144457/download
+    title: Ellume COVID-19 Home Test - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144591/download
+    title: Ellume COVID-19 Home Test - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/144592/download
+    title: Ellume COVID-19 Home Test - Instructions for Use
+    type: instructions for use
+  - href: https://www.fda.gov/media/144593/download
+    title: Ellume COVID-19 Home Test - Instructions for Use (Home Test)
+    type: instructions for use
+  - href: https://www.fda.gov/media/144747/download
+    title: Ellume COVID-19 Home Test - FAQ
+  method: antigen
+  settings:
+  - ''
+  technology: Lateral Flow, Fluorescence, Instrument Read, Over the Counter Home Testing
+  type: diagnostic
+- approval_date: 2020-12-16
+  device: BinaxNOW COVID-19 Ag Card Home Test
+  entity: Abbott Diagnostics Scarborough, Inc.
+  last_update: 2020-12-16
+  links:
+  - href: https://www.fda.gov/media/144576/download
+    title: BinaxNOW COVID-19 Ag Card Home Test - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144573/download
+    title: BinaxNOW COVID-19 Ag Card Home Test - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/144574/download
+    title: BinaxNOW COVID-19 Ag Card Home Test - Instructions for Use
+    type: instructions for use
+  - href: https://www.fda.gov/media/144575/download
+    title: BinaxNOW COVID-19 Ag Card Home Test - Instructions for Use (Home Test)
+    type: instructions for use
+  method: antigen
+  settings:
+  - ''
+  technology: Lateral Flow, Visual Read, Prescription Home Testing
+  type: diagnostic
+- approval_date: 2020-12-18
+  device: QuickVue SARS Antigen Test
+  entity: Quidel Corporation
+  last_update: 2020-12-22
+  links:
+  - href: https://www.fda.gov/media/144665/download
+    title: QuickVue SARS Antigen Test - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144666/download
+    title: QuickVue SARS Antigen Test - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/144667/download
+    title: QuickVue SARS Antigen Test - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/144668/download
+    title: QuickVue SARS Antigen Test - Instructions for Use
+    type: instructions for use
+  method: antigen
+  settings:
+  - H
+  - M
+  - W
+  technology: Lateral Flow, Visual Read
+  type: diagnostic
+- approval_date: 2021-01-05
+  device: Simoa SARS-CoV-2 N Protein Antigen Test
+  entity: Quanterix Corporation
+  last_update: 2021-01-05
+  links:
+  - href: https://www.fda.gov/media/144925/download
+    title: Simoa SARS-CoV-2 N Protein Antigen Test - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144926/download
+    title: Simoa SARS-CoV-2 N Protein Antigen Test - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/144928/download
+    title: Simoa SARS-CoV-2 N Protein Antigen Test - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/144929/download
+    title: Simoa SARS-CoV-2 N Protein Antigen Test - Instructions for Use
+    type: instructions for use
+  method: antigen
+  settings:
+  - H
+  - M
+  technology: Paramagnetic Microbead-based Immunoassay
+  type: diagnostic
+- approval_date: 2021-01-11
+  device: VITROS Immunodiagnostic Products SARS-CoV-2 Antigen Reagent Pack
+  entity: Ortho Clinical Diagnostics, Inc.
+  last_update: 2021-01-11
+  links:
+  - href: https://www.fda.gov/media/145069/download
+    title: VITROS Immunodiagnostic Products SARS-CoV-2 Antigen Reagent Pack - Letter
+      of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/145070/download
+    title: VITROS Immunodiagnostic Products SARS-CoV-2 Antigen Reagent Pack - Fact
+      Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/145071/download
+    title: VITROS Immunodiagnostic Products SARS-CoV-2 Antigen Reagent Pack - Fact
+      Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/145073/download
+    title: VITROS Immunodiagnostic Products SARS-CoV-2 Antigen Reagent Pack - IFU
+  method: antigen
+  settings:
+  - H
+  - M
+  technology: Chemiluminescence Immunoassay, Instrument Read
+  type: diagnostic
+- approval_date: 2020-11-23
+  device: RapidRona Self-Collection Kit
+  entity: RapidRona, Inc.
+  last_update: 2020-11-23
+  links:
+  - href: https://www.fda.gov/media/143927/download
+    title: RapidRona Self-Collection Kit - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/143928/download
+    title: RapidRona Self-Collection Kit - EUA Summary
+    type: eua summary
+  - href: https://www.fda.gov/media/143929/download
+    title: RapidRona Self-Collection Kit - Instructions for Use (Collection)
+    type: instructions for use
+  method: molecular
+  settings:
+  - N/A
+  technology: Home Collection Kit
+  type: diagnostic
+- approval_date: 2020-11-23
+  device: Gravity Diagnostics SARS-CoV-2 RT-PCR Assay
+  entity: Gravity Diagnostics, LLC
+  last_update: 2020-12-28
+  links:
+  - href: https://www.fda.gov/media/143932/download
+    title: Gravity Diagnostics SARS-CoV-2 RT-PCR Assay  - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/143933/download
+    title: Gravity Diagnostics SARS-CoV-2 RT-PCR Assay  - Fact Sheet for Healthcare
+      Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/143934/download
+    title: Gravity Diagnostics SARS-CoV-2 RT-PCR Assay  - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/143935/download
+    title: Gravity Diagnostics SARS-CoV-2 RT-PCR Assay  - EUA Summary
+    type: eua summary
+  method: molecular
+  settings:
+  - H
+  technology: Real-time RT-PCR, Home Collection, Screening, Saliva
+  type: diagnostic
+- approval_date: 2020-04-08
+  device: SARS-CoV-2 RT-PCR Assay
+  entity: Stanford Health Care Clinical Virology Laboratory
+  last_update: 2020-11-24
+  links:
+  - href: https://www.fda.gov/media/136817/download
+    title: 'Stanford SARS-CoV-2 PCR Assay - Letter '
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144011/download
+    title: SARS-CoV-2 RT-PCR Assay - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/144012/download
+    title: SARS-CoV-2 RT-PCR Assay - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/136818/download
+    title: SARS-CoV-2 RT-PCR Assay - EUA Summary
+    type: eua summary
+  - href: https://www.fda.gov/media/144013/download
+    title: SARS-CoV-2 RT-PCR Assay - Instructions for Use (Home Collection)
+    type: instructions for use
+  method: molecular
+  settings:
+  - H
+  technology: Real-time RT-PCR, Home Collection Kit
+  type: diagnostic
+- approval_date: 2020-11-27
+  device: Xpert Omni SARS-CoV-2
+  entity: Cepheid
+  last_update: 2020-12-23
+  links:
+  - href: https://www.fda.gov/media/144029/download
+    title: Xpert Omni SARS-CoV-2 - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144030/download
+    title: Xpert Omni SARS-CoV-2 - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/144031/download
+    title: Xpert Omni SARS-CoV-2 - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/144033/download
+    title: Xpert Omni SARS-CoV-2 - Instructions for Use
+    type: instructions for use
+  - href: https://www.fda.gov/media/144755/download
+    title: Xpert Omni SARS-CoV-2 - Letter Granting EUA Revision(s) (December 22, 2020)
+    type: letter of authorization
+  method: molecular
+  settings:
+  - H
+  - M
+  technology: Real-time RT-PCR
+  type: diagnostic
+- approval_date: 2020-12-04
+  device: Quest Diagnostics RC COVID-19+Flu RT-PCR
+  entity: Quest Diagnostics Infectious Disease, Inc.
+  last_update: 2020-12-04
+  links:
+  - href: https://www.fda.gov/media/144180/download
+    title: 'Quest Diagnostics EUA Letter of Authorization '
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144178/download
+    title: Quest Diagnostics Fact Sheet HCP
+  - href: https://www.fda.gov/media/144181/download
+    title: Quest Diagnostics EUA Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/144177/download
+    title: Quest Diagnostics EUA Summary
+    type: eua summary
+  - href: https://www.fda.gov/media/144179/download
+    title: 'Quest Diagnostics EUA IFU '
+  method: molecular
+  settings:
+  - H
+  technology: Real-time RT-PCR, Multi-analyte, Home Collection
+  type: diagnostic
+- approval_date: 2020-12-09
+  device: Pixel by LabCorp COVID-19 Test Home Collection Kit
+  entity: Laboratory Corporation of America (LabCorp)
+  last_update: 2020-12-09
+  links:
+  - href: https://www.fda.gov/media/144333/download
+    title: Pixel by LabCorp COVID-19 Test Home Collection Kit - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144334/download
+    title: Pixel by LabCorp COVID-19 Test Home Collection Kit - Fact Sheet for Healthcare
+      Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/144335/download
+    title: Pixel by LabCorp COVID-19 Test Home Collection Kit - Fact Sheet for Individuals
+  - href: https://www.fda.gov/media/144336/download
+    title: Pixel by LabCorp COVID-19 Test Home Collection Kit - EUA Summary
+    type: eua summary
+  - href: https://www.fda.gov/media/137154/download
+    title: Pixel by LabCorp COVID-19 Test Home Collection Kit - Instructions for Use
+      (Home Collect)
+    type: instructions for use
+  method: molecular
+  settings:
+  - H
+  technology: Direct to Consumer (DTC), Real-time RT-PCR, Home Collection, Pooling,
+    Screening
+  type: diagnostic
+- approval_date: 2020-12-15
+  device: GENETWORx Covid-19 Nasal Swab Test
+  entity: RCA Laboratory Services LLC dba GENETWORx
+  last_update: 2020-12-15
+  links:
+  - href: https://www.fda.gov/media/144550/download
+    title: GENETWORx Covid-19 Nasal Swab Test - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144551/download
+    title: GENETWORx Covid-19 Nasal Swab Test - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/144552/download
+    title: GENETWORx Covid-19 Nasal Swab Test - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/144553/download
+    title: GENETWORx Covid-19 Nasal Swab Test - EUA Summary
+    type: eua summary
+  - href: https://www.fda.gov/media/144554/download
+    title: GENETWORx Covid-19 Nasal Swab Test - Instructions for Use (Home Collect)
+    type: instructions for use
+  method: molecular
+  settings:
+  - H
+  technology: Real-time RT-PCR, Home Collection
+  type: diagnostic
+- approval_date: 2020-12-11
+  device: PacificDx Covid-19
+  entity: ResearchDx, Inc., DBA Pacific Diagnostics
+  last_update: 2020-12-11
+  links:
+  - href: https://www.fda.gov/media/144555/download
+    title: PacificDx Covid-19 Test - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144556/download
+    title: PacificDx Covid-19 Test - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/144557/download
+    title: PacificDx Covid-19 Test - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/144558/download
+    title: PacificDx Covid-19 Test - EUA Summary
+    type: eua summary
+  method: molecular
+  settings:
+  - H
+  technology: TMA, chemiluminescent, Home Collection
+  type: diagnostic
+- approval_date: 2020-12-16
+  device: Aptima SARS-CoV-2/Flu assay
+  entity: Hologic, Inc.
+  last_update: 2020-12-16
+  links:
+  - href: https://www.fda.gov/media/144587/download
+    title: Aptima SARS-CoV-2/Flu assay - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144588/download
+    title: Aptima SARS-CoV-2/Flu assay - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/144589/download
+    title: Aptima SARS-CoV-2/Flu assay - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/144590/download
+    title: Aptima SARS-CoV-2/Flu assay - Instructions for Use
+    type: instructions for use
+  method: molecular
+  settings:
+  - H
+  technology: Real-time TMA, chemiluminescent, Multi-analyte
+  type: diagnostic
+- approval_date: 2020-12-17
+  device: MatMaCorp COVID-19 2SF Test
+  entity: Materials and Machines Corporation of America (DBA MatmaCorp, Inc.)
+  last_update: 2020-12-17
+  links:
+  - href: https://www.fda.gov/media/144656/download
+    title: MatMaCorp COVID-19 2SF Test - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144657/download
+    title: MatMaCorp COVID-19 2SF Test - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/144658/download
+    title: MatMaCorp COVID-19 2SF Test - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/144659/download
+    title: MatMaCorp COVID-19 2SF Test - Instructions for Use
+    type: instructions for use
+  method: molecular
+  settings:
+  - H
+  technology: RT-PCR and isothermal nucleic acid amplification
+  type: diagnostic
+- approval_date: 2020-12-23
+  device: Solana SARS-CoV-2 Assay
+  entity: Quidel Corporation
+  last_update: 2020-12-23
+  links:
+  - href: https://www.fda.gov/media/144756/download
+    title: Solana SARS-CoV-2 Assay - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144757/download
+    title: Solana SARS-CoV-2 Assay - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/144758/download
+    title: Solana SARS-CoV-2 Assay - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/144759/download
+    title: Solana SARS-CoV-2 Assay - Instructions for Use
+    type: instructions for use
+  method: molecular
+  settings:
+  - H
+  - M
+  technology: "Isothermal Reverse Transcriptase \u2013 Helicase-Dependent Amplification\
+    \ (RT-HDA)"
+  type: diagnostic
+- approval_date: 2020-12-23
+  device: Xpert Xpress SARS-CoV-2 DoD
+  entity: Cepheid
+  last_update: 2020-12-23
+  links:
+  - href: https://www.fda.gov/media/144790/download
+    title: Xpert Xpress SARS-CoV-2 DoD - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/144791/download
+    title: Xpert Xpress SARS-CoV-2 DoD - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/144792/download
+    title: Xpert Xpress SARS-CoV-2 DoD - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/144793/download
+    title: Xpert Xpress SARS-CoV-2 DoD - EUA Summary
+    type: eua summary
+  method: molecular
+  settings:
+  - H
+  - M
+  - W
+  technology: Real-time RT-PCR, Pooling
+  type: diagnostic
+- approval_date: 2021-01-13
+  device: Ezplex SARS-CoV-2 G Kit
+  entity: SML GENETREE Co., Ltd.
+  last_update: 2021-01-13
+  links:
+  - href: https://www.fda.gov/media/145131/download
+    title: Ezplex SARS-CoV-2 G Kit - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/145132/download
+    title: Ezplex SARS-CoV-2 G Kit - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/145133/download
+    title: Ezplex SARS-CoV-2 G Kit - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/145134/download
+    title: Ezplex SARS-CoV-2 G Kit - Instructions for Use
+    type: instructions for use
+  method: molecular
+  settings:
+  - H
+  technology: Real-time RT-PCR, Pooling
+  type: diagnostic
+- approval_date: 2020-10-20
+  device: binx health At-Home Nasal Swab COVID-19 Sample Collection Kit
+  entity: binx health, Inc.
+  last_update: 2020-12-04
+  links:
+  - href: https://www.fda.gov/media/143183/download
+    title: binx health At-Home Nasal Swab COVID-19 Sample Collection Kit - Letter
+      of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/143185/download
+    title: binx health At-Home Nasal Swab COVID-19 Sample Collection Kit - EUA Summary
+    type: eua summary
+  - href: https://www.fda.gov/media/143186/download
+    title: binx health At-Home Nasal Swab COVID-19 Sample Collection Kit - Instructions
+      for Use
+    type: instructions for use
+  method: molecular
+  settings:
+  - N/A
+  technology: Home Collection Kit
+  type: diagnostic
+- approval_date: 2020-10-26
+  device: MassARRAY SARS-CoV-2 Panel
+  entity: Agena Bioscience, Inc.
+  last_update: 2020-11-30
+  links:
+  - href: https://www.fda.gov/media/143331/download
+    title: MassARRAY SARS-CoV-2 Panel - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/143332/download
+    title: MassARRAY SARS-CoV-2 Panel - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/143333/download
+    title: MassARRAY SARS-CoV-2 Panel - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/143334/download
+    title: MassARRAY SARS-CoV-2 Panel - Instructions for Use
+    type: instructions for use
+  - href: https://www.fda.gov/media/144067/download
+    title: MassARRAY SARS-CoV-2 Panel - Letter Granting EUA Revision(s) (November
+      30, 2020)
+    type: letter of authorization
+  method: molecular
+  settings:
+  - H
+  technology: RT-PCR, chip array and MALDI-TOF Mass Spec.
+  type: diagnostic
+- approval_date: 2020-10-28
+  device: "ORAcollect\u2219RNA OR-100 and ORAcollect\u2219RNA ORE-100 saliva collection\
+    \ devices"
+  entity: DNA Genotek Inc.
+  last_update: 2020-10-28
+  links:
+  - href: https://www.fda.gov/media/143415/download
+    title: "ORAcollect\u2219RNA OR-100 and ORAcollect\u2219RNA ORE-100 saliva collection\
+      \ devices - Letter of Authorization"
+    type: letter of authorization
+  - href: https://www.fda.gov/media/143416/download
+    title: "ORAcollect\u2219RNA OR-100 and ORAcollect\u2219RNA ORE-100 saliva collection\
+      \ devices - EUA Summary"
+    type: eua summary
+  - href: https://www.fda.gov/media/143417/download
+    title: "ORAcollect\u2219RNA OR-100 and ORAcollect\u2219RNA ORE-100 saliva collection\
+      \ devices - IFU"
+  method: molecular
+  settings:
+  - N/A
+  technology: Saliva Collection Device
+  type: diagnostic
+- approval_date: 2020-10-14
+  device: "OMNIgene\xB7ORAL OM-505 and OME-505 (OMNIgene\xB7ORAL) saliva collection\
+    \ devices"
+  entity: DNA Genotek Inc.
+  last_update: 2020-10-28
+  links:
+  - href: https://www.fda.gov/media/143418/download
+    title: "OMNIgene\xB7ORAL OM-505 and OME-505 (OMNIgene\xB7ORAL) saliva collection\
+      \ devices - Letter of Authorization"
+    type: letter of authorization
+  - href: https://www.fda.gov/media/143419/download
+    title: "OMNIgene\xB7ORAL OM-505 and OME-505 (OMNIgene\xB7ORAL) saliva collection\
+      \ devices - EUA Summary"
+    type: eua summary
+  - href: https://www.fda.gov/media/143420/download
+    title: "OMNIgene\xB7ORAL OM-505 and OME-505 (OMNIgene\xB7ORAL) saliva collection\
+      \ devices - IFU"
+  method: molecular
+  settings:
+  - N/A
+  technology: Saliva Collection Device
+  type: diagnostic
+- approval_date: 2020-11-17
+  device: Lucira COVID-19 All-In-One Test Kit
+  entity: Lucira Health, Inc.
+  last_update: 2020-11-18
+  links:
+  - href: https://www.fda.gov/media/143810/download
+    title: Lucira COVID-19 All-In-One Test Kit - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/143807/download
+    title: Lucira COVID-19 All-In-One Test Kit - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/143808/download
+    title: Lucira COVID-19 All-In-One Test Kit - IFU
+  - href: https://www.fda.gov/media/143809/download
+    title: Lucira COVID-19 All-In-One Test Kit - IFU (Home Test)
+  method: molecular
+  settings:
+  - W
+  technology: Prescription Home Testing
+  type: diagnostic
+- approval_date: 2020-10-05
+  device: AQ-TOP COVID-19 Rapid Detection Kit PLUS
+  entity: SEASUN BIOMATERIALS, Inc.
+  last_update: 2020-10-05
+  links:
+  - href: https://www.fda.gov/media/142797/download
+    title: AQ-TOP COVID-19 Rapid Detection Kit PLUS - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/142798/download
+    title: AQ-TOP COVID-19 Rapid Detection Kit PLUS - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/142799/download
+    title: AQ-TOP COVID-19 Rapid Detection Kit PLUS - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/142800/download
+    title: AQ-TOP COVID-19 Rapid Detection Kit PLUS - Instructions for Use
+    type: instructions for use
+  method: molecular
+  settings:
+  - H
+  technology: RT-LAMP
+  type: diagnostic
+- approval_date: 2020-10-06
+  device: UCLA SwabSeq COVID-19 Diagnostic Platform
+  entity: University of California, Los Angeles (UCLA)
+  last_update: 2020-10-08
+  links:
+  - href: https://www.fda.gov/media/142802/download
+    title: UCLA SwabSeq COVID-19 Diagnostic Platform - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/142803/download
+    title: UCLA SwabSeq COVID-19 Diagnostic Platform - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/142804/download
+    title: UCLA SwabSeq COVID-19 Diagnostic Platform - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/142805/download
+    title: UCLA SwabSeq COVID-19 Diagnostic Platform - EUA Summary
+    type: eua summary
+  method: molecular
+  settings:
+  - H
+  technology: RT-PCR and Sequencing
+  type: diagnostic
+- approval_date: 2020-10-07
+  device: ePlex Respiratory Pathogen Panel 2
+  entity: GenMark Diagnostics, Inc.
+  last_update: 2020-10-07
+  links:
+  - href: https://www.fda.gov/media/142902/download
+    title: ePlex Respiratory Pathogen Panel 2 - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/142903/download
+    title: ePlex Respiratory Pathogen Panel 2 - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/142904/download
+    title: ePlex Respiratory Pathogen Panel 2 - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/142905/download
+    title: ePlex Respiratory Pathogen Panel 2 - IFU
+  method: molecular
+  settings:
+  - H
+  - M
+  technology: RT-PCR and electrochemical detection, Multi-analyte
+  type: diagnostic
+- approval_date: 2020-10-08
+  device: SDNA-1000 Saliva Collection Device
+  entity: Spectrum Solutions LLC
+  last_update: 2020-10-16
+  links:
+  - href: https://www.fda.gov/media/142906/download
+    title: SDNA-1000 Saliva Collection Device - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/142907/download
+    title: SDNA-1000 Saliva Collection Device - EUA Summary
+    type: eua summary
+  - href: https://www.fda.gov/media/143055/download
+    title: SDNA-1000 Saliva Collection Device - Instructions for Use
+    type: instructions for use
+  method: molecular
+  settings:
+  - N/A
+  technology: Saliva Collection Device
+  type: diagnostic
+- approval_date: 2020-08-11
+  device: LumiraDx SARS-CoV-2 RNA STAR
+  entity: LumiraDx UK Ltd.
+  last_update: 2020-12-28
+  links:
+  - href: https://www.fda.gov/media/141054/download
+    title: LumiraDx SARS-CoV-2 RNA STAR - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/141055/download
+    title: LumiraDx SARS-CoV-2 RNA STAR - Fact Sheet for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/141056/download
+    title: LumiraDx SARS-CoV-2 RNA STAR - Fact Sheet for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/141057/download
+    title: LumiraDx SARS-CoV-2 RNA STAR - Instructions for Use
+    type: instructions for use
+  method: molecular
+  settings:
+  - H
+  technology: RT, non-isothermal nucleic acid amplification qSTAR
+  type: diagnostic
+- approval_date: 2020-10-15
+  device: EmpowerDX At-Home COVID-19 PCR Test Kit
+  entity: Clinical Enterprise, Inc.
+  last_update: 2020-12-11
+  links:
+  - href: https://www.fda.gov/media/143063/download
+    title: EmpowerDX At-Home COVID-19 PCR Test Kit - Letter of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/143064/download
+    title: EmpowerDX At-Home COVID-19 PCR Test Kit - EUA Summary
+    type: eua summary
+  - href: https://www.fda.gov/media/143065/download
+    title: EmpowerDX At-Home COVID-19 PCR Test Kit - Instructions for Use
+    type: instructions for use
+  method: molecular
+  settings:
+  - N/A
+  technology: Home Collection Kit
+  type: diagnostic
 - approval_date: 2020-10-01
-  last_update: 2020-10-01
   device: UMass Molecular Virology Laboratory 2019-nCoV rRT-PCR Dx Panel
   entity: UMass Memorial Medical Center
-  technology: Real-time RT-PCR
-  technologies:
-    - Real-time RT-PCR
-  settings:
-    - H
-  method: molecular
-  type: diagnostic
+  last_update: 2020-12-28
   links:
-    - href: https://www.fda.gov/media/142689/download
-      title: UMass Molecular Virology Laboratory 2019-nCoV rRT-PCR Dx Panel - Letter of Authorization
-      type: letter of authorization
-    - href: https://www.fda.gov/media/142690/download
-      title: UMass Molecular Virology Laboratory 2019-nCoV rRT-PCR Dx Panel - Fact Sheet for Healthcare Providers
-      type: fact sheet for healthcare providers
-    - href: https://www.fda.gov/media/142691/download
-      title: UMass Molecular Virology Laboratory 2019-nCoV rRT-PCR Dx Panel - Fact Sheet for Patients
-      type: fact sheet for patients
-    - href: https://www.fda.gov/media/142692/download
-      title: UMass Molecular Virology Laboratory 2019-nCoV rRT-PCR Dx Panel - EUA Summary
-      type: eua summary
+  - href: https://www.fda.gov/media/142689/download
+    title: UMass Molecular Virology Laboratory 2019-nCoV rRT-PCR Dx Panel - Letter
+      of Authorization
+    type: letter of authorization
+  - href: https://www.fda.gov/media/142690/download
+    title: UMass Molecular Virology Laboratory 2019-nCoV rRT-PCR Dx Panel - Fact Sheet
+      for Healthcare Providers
+    type: fact sheet for healthcare providers
+  - href: https://www.fda.gov/media/142691/download
+    title: UMass Molecular Virology Laboratory 2019-nCoV rRT-PCR Dx Panel - Fact Sheet
+      for Patients
+    type: fact sheet for patients
+  - href: https://www.fda.gov/media/142692/download
+    title: UMass Molecular Virology Laboratory 2019-nCoV rRT-PCR Dx Panel - EUA Summary
+    type: eua summary
+  method: molecular
+  settings:
+  - H
+  technology: Real-time RT-PCR
+  type: diagnostic
